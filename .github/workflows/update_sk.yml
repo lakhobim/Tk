@@ -1,0 +1,39 @@
+name: Update Cricket Playlist
+
+on:
+  schedule:
+    # Runs every 20 minutes from 04:00 UTC (9:30 AM IST) to 17:00 UTC (10:30 PM IST)
+    # This saves your free minutes by not running at night.
+    - cron: '*/20 4-17 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install Dependencies
+        # Added 'pytz' for IST time conversion
+        run: pip install requests pycryptodome pytz
+      - name: Run Scraper
+        # Nayi script me secrets hardcoded hain, isliye env ki zarurat nahi hai
+        run: python sk_final.py
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add playlist.m3u
+          git commit -m "Update cricket matches [Auto]" || echo "No changes to commit"
+          git push
+
