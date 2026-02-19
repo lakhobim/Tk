@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2026-02-19 08:39:47
+# Updated: 2026-02-19 09:27:51
 # Total Channels: 10
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kajgro6-bit/sportzfy401/refs/heads/main/Picsart_26-02-12_23-13-51-755.png" group-title="Recent | ACC Womens Asia Cup vs ACC Womens Asia Cup [16 Feb 08:00 AM]", ACC Womens Asia Cup vs ACC Womens Asia Cup (Link 1)
@@ -8,8 +8,10 @@
 https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wbcgcslztp/out/v1/0efac01942d6413b9cac0eeaec77e3fe/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="Upcoming | Afghanistan vs Canada [19 Feb 07:00 PM]", Afghanistan vs Canada (Link 1)
 https://no.link
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="Upcoming | Sri Lanka vs Zimbabwe [19 Feb 03:00 PM]", Sri Lanka vs Zimbabwe (Link 1)
-https://no.link
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="Upcoming | Sri Lanka vs Zimbabwe [19 Feb 03:00 PM]", Sri Lanka vs Zimbabwe (WILLOW)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7925c9d5e31477608659ada42f7070e:9a19ed9a5acf7129f61d8b5e9d24c29f
+https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/nphls0k6n6/out/v1/97c3f169b9924080ab1f7256d4fc04d2/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="🔴 Live | West Indies vs Italy [19 Feb 11:00 AM]", West Indies vs Italy (PRIME )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=baafdb8ebcbbc0655332291da6f121da:60ac892e0ea0b2c46fc6837c97ed641a
