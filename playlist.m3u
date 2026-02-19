@@ -1,6 +1,6 @@
 #EXTM3U
-# Updated: 2026-02-19 13:43:09
-# Total Channels: 2
+# Updated: 2026-02-19 14:40:49
+# Total Channels: 3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kajgro6-bit/sportzfy401/refs/heads/main/Picsart_26-02-12_23-13-51-755.png" group-title="Recent | ACC Womens Asia Cup vs ACC Womens Asia Cup [16 Feb 08:00 AM]", ACC Womens Asia Cup vs ACC Womens Asia Cup (Link 1)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -10,3 +10,7 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wbc
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=331c248c38ccebecc63ed710530b873d:b384b49aead15db6965d163c2570e2a0
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/1f4qrz0aby/out/v1/a18407296a01492397753bde0257af1b/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="🔴 Live | Afghanistan vs Canada [19 Feb 07:00 PM]", Afghanistan vs Canada (PRIME)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed76c18710d621a87c89dedc7c13019f:7241c82fe48525a9dc6be6d7bb86611f
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ekz5z2vwbe/out/v1/e21d21ec21e34c7192049a44ee3de428/cenc.mpd
