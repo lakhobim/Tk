@@ -1,6 +1,6 @@
 #EXTM3U
-# Updated: 2026-02-19 05:17:04
-# Total Channels: 5
+# Updated: 2026-02-19 06:15:33
+# Total Channels: 10
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kajgro6-bit/sportzfy401/refs/heads/main/Picsart_26-02-12_23-13-51-755.png" group-title="Recent | ACC Womens Asia Cup vs ACC Womens Asia Cup [16 Feb 08:00 AM]", ACC Womens Asia Cup vs ACC Womens Asia Cup (Link 1)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -10,11 +10,21 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wbc
 https://no.link
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="Upcoming | Sri Lanka vs Zimbabwe [19 Feb 03:00 PM]", Sri Lanka vs Zimbabwe (Link 1)
 https://no.link
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="Upcoming | West Indies vs Italy [19 Feb 11:00 AM]", West Indies vs Italy (PRIME )
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="🔴 Live | West Indies vs Italy [19 Feb 11:00 AM]", West Indies vs Italy (PRIME )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=baafdb8ebcbbc0655332291da6f121da:60ac892e0ea0b2c46fc6837c97ed641a
 https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/oja9dyfjjo/out/v1/d346b8e088254045bf5ecde7cf5d335a/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="Upcoming | West Indies vs Italy [19 Feb 11:00 AM]", West Indies vs Italy (WILLOW )
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="🔴 Live | West Indies vs Italy [19 Feb 11:00 AM]", West Indies vs Italy (WILLOW )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e9fd517a44b10834f914c2dd3ddd07f0:cc5e6232a1a5ef63be1618828e1b2ef7
 https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/wt1pltyb9z/out/v1/3542ef35fd004ae2b7c718829175e868/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="🔴 Live | West Indies vs Italy [19 Feb 11:00 AM]", West Indies vs Italy (HINDI 🇮🇳)
+https://jcevents.hotstar.com/bpk-tv/f0e3e64ae415771d8e460317ce97aa5e/Fallback/f0e3e64ae415771d8e460317ce97aa5e.m3u8|cookie=hdntl=exp=1771555443~acl=%2f*~id=d7b1606ba1fe7758ec946d3c193fc3f1~data=hdntl~hmac=c01bf5d5729ce0c40c8beaf2c694611532ab19bd3ea7d053476d9f93e222b528&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="🔴 Live | West Indies vs Italy [19 Feb 11:00 AM]", West Indies vs Italy (HINDI WW)
+https://hogashare.click/Jhantkball.m3u8|referer=https://profamouslife.com/&origin=https://profamouslife.com
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="🔴 Live | West Indies vs Italy [19 Feb 11:00 AM]", West Indies vs Italy (SKY SPORTS HD)
+https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11185/image/dark" group-title="🔴 Live | West Indies vs Italy [19 Feb 11:00 AM]", West Indies vs Italy (HINDI WW)
+http://tvn2.chowdhury-shaheb.com/starsport2/index.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="Upcoming | Australia Women vs India Women [19 Feb 01:45 PM]", Australia Women vs India Women (Link 1)
+https://no.link
