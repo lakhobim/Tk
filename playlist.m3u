@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2026-07-11 15:17:09
+# Updated: 2026-07-11 16:11:24
 # Total Channels: 16
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18794/image/dark" group-title="🔴 Live | England Women vs India Women [11 Jul 04:00 PM]", England Women vs India Women (WILLOW ADFREE )
@@ -12,17 +12,17 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/20000292/cricodi1107/ENG/master.
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18794/image/dark" group-title="🔴 Live | England Women vs India Women [11 Jul 04:00 PM]", England Women vs India Women (SONY TEN 5)
 https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783719307~acl=/*~id=93990197163189329710487836056018~hmac=f3dc79fa525d6349508ae77d9891919455c7ce84cf84d32d3b89f92643f80c24
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="🔴 Live | Zimbabwe vs Bangladesh [11 Jul 01:00 PM]", Zimbabwe vs Bangladesh (FANCODE SD)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Recent | Zimbabwe vs Bangladesh [11 Jul 01:00 PM]", Zimbabwe vs Bangladesh (FANCODE SD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="🔴 Live | Zimbabwe vs Bangladesh [11 Jul 01:00 PM]", Zimbabwe vs Bangladesh (FANCODE)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Recent | Zimbabwe vs Bangladesh [11 Jul 01:00 PM]", Zimbabwe vs Bangladesh (FANCODE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="🔴 Live | Zimbabwe vs Bangladesh [11 Jul 01:00 PM]", Zimbabwe vs Bangladesh (TAPMAD)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Recent | Zimbabwe vs Bangladesh [11 Jul 01:00 PM]", Zimbabwe vs Bangladesh (TAPMAD)
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="🔴 Live | Zimbabwe vs Bangladesh [11 Jul 01:00 PM]", Zimbabwe vs Bangladesh (FANCODE 🇧🇩)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Recent | Zimbabwe vs Bangladesh [11 Jul 01:00 PM]", Zimbabwe vs Bangladesh (FANCODE 🇧🇩)
 https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/zimbabwe_vs_bangladesh_143402_english.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | England vs India [11 Jul 07:00 PM]", England vs India (WILLOW ADFREE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
