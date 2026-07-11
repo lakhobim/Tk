@@ -1,6 +1,6 @@
 #EXTM3U
-# Updated: 2026-07-11 14:16:39
-# Total Channels: 15
+# Updated: 2026-07-11 15:17:09
+# Total Channels: 16
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18794/image/dark" group-title="🔴 Live | England Women vs India Women [11 Jul 04:00 PM]", England Women vs India Women (WILLOW ADFREE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -29,7 +29,11 @@ https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/zimbabwe_vs_ba
 #KODIPROP:inputstream.adaptive.license_key=4a63f817e48857c820181f7a22e8a1b4:e53140d61b7bb8c1697316c1ee7ddac8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/aotzzbdadk/out/v1/8af31edf2d1f4ada9f496c3d7246eef8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | England vs India [11 Jul 07:00 PM]", England vs India (HINDI 🇮🇳)
-https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8?hdnea=exp=1783654759~acl=/*~id=1e03fe217581440690708a23c8a3a3ff-2008311105131851914~hmac=248eb41103c6143461848cf0f909137167ab9ac9317c2121fafd2e760e5249e3|Origin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&x-playback-session-id=1e03fe217581440690708a23c8a3a3ff-1783611559313
+https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8?hdnea=exp=1783816202~acl=/*~id=0fcb67efbe1bffa82e8ddebf93a4eed5-1783773000258~hmac=21449ea77e7156a1eca6d0a2ed283de3a91e59c04a3e23e0ba4f41de481f2b04|Origin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&x-playback-session-id=1e03fe217581440690708a23c8a3a3ff-1783611559313
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | England vs India [11 Jul 07:00 PM]", England vs India (HINDI 2🇮🇳)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=08638117638b55649c6befa7f5cb34f6:58ddb6bbdf8d8b1e2aac2b5312e99086
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonySportsTen3HinHDSTB_BTS/WDVLive/index.mpd?hdnea=st=1783773049~exp=1783794649~acl=/bpk-tv/SonySportsTen3HinHDSTB_BTS/WDVLive/*~hmac=b17170a0f5031275e32b9ac93e8600e38f40ec06e58d6cbfa791b621fe625d54
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | England vs India [11 Jul 07:00 PM]", England vs India (ENGLISH 🇮🇳)
 https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1783816202~acl=/*~id=0fcb67efbe1bffa82e8ddebf93a4eed5-1783773000258~hmac=21449ea77e7156a1eca6d0a2ed283de3a91e59c04a3e23e0ba4f41de481f2b0
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | England vs India [11 Jul 07:00 PM]", England vs India (TEN 4 🇮🇳)
