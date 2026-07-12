@@ -1,6 +1,6 @@
 #EXTM3U
-# Updated: 2026-07-12 08:51:11
+# Updated: 2026-07-12 10:17:07
 # Total Channels: 1
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18794/image/dark" group-title="Upcoming | England Women vs India Women [12 Jul 03:30 PM]", England Women vs India Women (SK LIVE)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18794/image/dark" group-title="🔴 Live | England Women vs India Women [12 Jul 03:30 PM]", England Women vs India Women (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
