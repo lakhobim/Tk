@@ -1,30 +1,10 @@
 #EXTM3U
-# Updated: 2026-07-13 18:59:41
-# Total Channels: 8
+# Updated: 2026-07-14 06:02:12
+# Total Channels: 3
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18794/image/dark" group-title="Recent | England Women vs India Women [13 Jul 03:30 PM]", England Women vs India Women (ICC TV)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1783965388~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=01e46345-a88e-4cf9-82db-e2f9bb3fe0c4~data=hdntl~hmac=264a4a8b749d9f15de95b7cd55610f726e1cc36527ae0fa7f87455840f757e08/manifest.mpd?|Referer=https://www.icc-cricket.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18794/image/dark" group-title="Recent | England Women vs India Women [13 Jul 03:30 PM]", England Women vs India Women (WILLOW CRICBUZZ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fd51d89ec662dc791e32e9be619df9f:4a4df026fcdd6f0776dc19cbf18ab23d
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/gxcvq7x1no/out/v1/920f3a7378634062929ac47a49b3a992/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18794/image/dark" group-title="Recent | England Women vs India Women [13 Jul 03:30 PM]", England Women vs India Women (WILLOW SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18794/image/dark" group-title="Recent | England Women vs India Women [13 Jul 03:30 PM]", England Women vs India Women (SONYLIV 🇮🇳)
-https://dai.google.com/ssai/event/ga95v7YpR9uILztaMnCF5w/master.m3u8?hdnea=exp=1783974611~acl=/*~id=2a783d15ae52a25278bff3c13af8d10b-1783931400196~hmac=864df817044b51887bdee08d48762d8c9134a8777d1a46a9afb73e361d05c697|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6737b12eb14e12c8262a262fda455c47-1783935000252
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18794/image/dark" group-title="Recent | England Women vs India Women [13 Jul 03:30 PM]", England Women vs India Women (SKY CRICKET )
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="🔴 Live | West Indies vs New Zealand [14 Jul 12:00 AM]", West Indies vs New Zealand (WILLOW)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d529ea9a55b54c6f2321f946ecacd71:a990e0193f7d3556de377484b9a79c72
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ykl659itkv/out/v1/9247f81f1d004a09bce944eaa486dfb8/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="🔴 Live | West Indies vs New Zealand [14 Jul 12:00 AM]", West Indies vs New Zealand (FANCODE )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Upcoming | England vs India [14 Jul 03:30 PM]", England vs India (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Upcoming | Zimbabwe vs Bangladesh [15 Jul 03:00 PM]", Zimbabwe vs Bangladesh (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Upcoming | Ireland Women vs West Indies Women [15 Jul 03:15 PM]", Ireland Women vs West Indies Women (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
