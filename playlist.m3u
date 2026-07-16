@@ -1,24 +1,14 @@
 #EXTM3U
-# Updated: 2026-07-16 10:30:15
-# Total Channels: 7
+# Updated: 2026-07-16 12:04:50
+# Total Channels: 4
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Recent | England vs India [14 Jul 03:30 PM]", England vs India (WILLOW)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="🔴 Live | England vs India [16 Jul 05:30 PM]", England vs India (WILLOW)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=63ff5bd50a863114f9d5fe0d18aff544:319760d139c5af680bab44664fd833ad
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/3ehx5oie11/out/v1/8e1d4ff75c7e4e88a5bf9984431ef804/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Recent | England vs India [14 Jul 03:30 PM]", England vs India (CRICBUZZ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9cd9d8d4bed24a20b03ac0c3f5a80cee:bb27c858444345b5d0703d2faef51b73
-https://mh-bks400-08.starhubgo.com/bpk-token/1ac@gsef5iwpsu2djxt51p2t3jk4r2rejzhsgq3y23da/bpk-tv/Cbuzz/output/manifest.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Recent | England vs India [14 Jul 03:30 PM]", England vs India (TEN ENG)
-https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1784062296~acl=/*~id=50631058332994174048547819394841~hmac=f76b01c8711269e15159856f7c4d88130f7ff9e9dab308e4626cd4344e7b34c4
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Recent | England vs India [14 Jul 03:30 PM]", England vs India (WILLOW S2)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8c2eb45e8b1a6f049c79b22bcd246448:9834d71447c3ba0be501523fb7bfd80a
-https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gzwpcxlrr/out/v1/10ebc5cf68af4a96a4dc48aceb9cd024/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Recent | England vs India [14 Jul 03:30 PM]", England vs India (TEN HINDI)
-https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1784062296~acl=/*~id=50631058332994174048547819394841~hmac=f76b01c8711269e15159856f7c4d88130f7ff9e9dab308e4626cd4344e7b34c4
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Recent | England vs India [14 Jul 03:30 PM]", England vs India (TEN TELUGU)
-https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1784062296~acl=/*~id=50631058332994174048547819394841~hmac=f76b01c8711269e15159856f7c4d88130f7ff9e9dab308e4626cd4344e7b34c4
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Recent | England vs India [14 Jul 03:30 PM]", England vs India (TAPMAD 🇧🇩)
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#KODIPROP:inputstream.adaptive.license_key=78e4283951bfc5fe2065a15ed15bf491:7269b0331df2093fc091df0325e69b47
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2hqonq2js6/out/v1/3204a1c65a534f6eb946841ead683f29/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="🔴 Live | England vs India [16 Jul 05:30 PM]", England vs India (TEN ENGLISH)
+https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1784240536~acl=/*~id=80163195619765322207249310502926~hmac=37ad3fc0695bf46401a42532ae037a3f6fa53fd7e61b9d56619908448e3641cf
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="🔴 Live | England vs India [16 Jul 05:30 PM]", England vs India (TEN HINDI)
+https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1784240536~acl=/*~id=80163195619765322207249310502926~hmac=37ad3fc0695bf46401a42532ae037a3f6fa53fd7e61b9d56619908448e3641cf
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="🔴 Live | England vs India [16 Jul 05:30 PM]", England vs India (TEN TELUGU)
+https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1784240536~acl=/*~id=80163195619765322207249310502926~hmac=37ad3fc0695bf46401a42532ae037a3f6fa53fd7e61b9d56619908448e3641cf
