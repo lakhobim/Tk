@@ -1,6 +1,6 @@
 #EXTM3U
-# Updated: 2026-07-18 07:24:10
-# Total Channels: 7
+# Updated: 2026-07-18 09:09:44
+# Total Channels: 5
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Recent | Zimbabwe vs Bangladesh [17 Jul 04:00 PM]", Zimbabwe vs Bangladesh (FANCODE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -16,9 +16,3 @@ https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 http://162.251.160.53:8089/BANvsZIM1/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Upcoming | Kandy Royals vs Dambulla Sixers [18 Jul 03:00 PM]", Kandy Royals vs Dambulla Sixers (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Recent | Jaffna Kings vs Galle Gallants [17 Jul 07:30 PM]", Jaffna Kings vs Galle Gallants (WILLOW ADFREE)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=543b86e80285d5c13b9ee30e1673964f:cc6adf6600ef70ad3282c9c719832d04
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0omm36jeyc/out/v1/1650c48dbdfc441586b9349a300d608e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Recent | Jaffna Kings vs Galle Gallants [17 Jul 07:30 PM]", Jaffna Kings vs Galle Gallants (SD SERVER )
-http://162.251.160.53:8089/LPL1st/index.m3u8
