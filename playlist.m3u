@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2026-07-19 12:29:28
+# Updated: 2026-07-19 14:06:58
 # Total Channels: 13
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | Zimbabwe vs Bangladesh [19 Jul 04:00 PM]", Zimbabwe vs Bangladesh (FANCODE )
@@ -18,9 +18,9 @@ http://162.251.160.53:8089/BANvsZIM1/index.m3u8
 https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/xy7igbvbrw/out/v1/ebd25d8eb3c643858d8dd55d88d677ac/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="🔴 Live | Dambulla Sixers vs Jaffna Kings [19 Jul 03:00 PM]", Dambulla Sixers vs Jaffna Kings (LPL HD)
 http://162.251.160.53:8089/LPL1st/index.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Upcoming | Colombo Kaps vs Kandy Royals [19 Jul 07:30 PM]", Colombo Kaps vs Kandy Royals (Link 1)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="🔴 Live | Colombo Kaps vs Kandy Royals [19 Jul 07:30 PM]", Colombo Kaps vs Kandy Royals (Link 1)
 https://no.link
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Upcoming | West Indies vs New Zealand [19 Jul 07:30 PM]", West Indies vs New Zealand (Link 1)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="🔴 Live | West Indies vs New Zealand [19 Jul 07:30 PM]", West Indies vs New Zealand (Link 1)
 https://no.link
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="🔴 Live | England vs India [19 Jul 03:30 PM]", England vs India (CRICBUZZ )
 https://livevideos.cricbuzz.com/hls/live/2110089/MENA-SEA/10532/129480/master.m3u8?hdntl=exp=1784542155~acl=/*~id=qa.team@cricbuzz.com~data=hdntl,flavour:CB,matchId:65907,country:IN~hmac=7816f883796edcfb07cf0300f9b256aa73da776a23442003c22bccb58011d853|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
