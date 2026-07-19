@@ -1,16 +1,24 @@
 #EXTM3U
-# Updated: 2026-07-18 18:07:56
-# Total Channels: 4
+# Updated: 2026-07-19 06:20:48
+# Total Channels: 8
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Recent | Zimbabwe vs Bangladesh [17 Jul 04:00 PM]", Zimbabwe vs Bangladesh (FANCODE )
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Upcoming | Zimbabwe vs Bangladesh [19 Jul 04:00 PM]", Zimbabwe vs Bangladesh (FANCODE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Recent | Zimbabwe vs Bangladesh [17 Jul 04:00 PM]", Zimbabwe vs Bangladesh (FANCODE SD)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Upcoming | Zimbabwe vs Bangladesh [19 Jul 04:00 PM]", Zimbabwe vs Bangladesh (FANCODE SD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Recent | Zimbabwe vs Bangladesh [17 Jul 04:00 PM]", Zimbabwe vs Bangladesh (TAPMAD)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Upcoming | Zimbabwe vs Bangladesh [19 Jul 04:00 PM]", Zimbabwe vs Bangladesh (TAPMAD)
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Recent | Zimbabwe vs Bangladesh [17 Jul 04:00 PM]", Zimbabwe vs Bangladesh (FANCODE SD)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Upcoming | Zimbabwe vs Bangladesh [19 Jul 04:00 PM]", Zimbabwe vs Bangladesh (FANCODE SD)
 http://162.251.160.53:8089/BANvsZIM1/index.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Upcoming | Dambulla Sixers vs Jaffna Kings [19 Jul 03:00 PM]", Dambulla Sixers vs Jaffna Kings (Link 1)
+https://no.link
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Upcoming | Colombo Kaps vs Kandy Royals [19 Jul 07:30 PM]", Colombo Kaps vs Kandy Royals (Link 1)
+https://no.link
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Upcoming | West Indies vs New Zealand [19 Jul 07:30 PM]", West Indies vs New Zealand (Link 1)
+https://no.link
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Upcoming | England vs India [19 Jul 03:30 PM]", England vs India (Link 1)
+https://no.link
