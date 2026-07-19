@@ -1,27 +1,17 @@
 #EXTM3U
-# Updated: 2026-07-19 14:06:58
-# Total Channels: 13
+# Updated: 2026-07-19 15:15:20
+# Total Channels: 9
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | Zimbabwe vs Bangladesh [19 Jul 04:00 PM]", Zimbabwe vs Bangladesh (FANCODE )
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="🔴 Live | Colombo Kaps vs Kandy Royals [19 Jul 07:30 PM]", Colombo Kaps vs Kandy Royals (WILLOW)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
-https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | Zimbabwe vs Bangladesh [19 Jul 04:00 PM]", Zimbabwe vs Bangladesh (FANCODE SD)
+#KODIPROP:inputstream.adaptive.license_key=c1781b18ef9a3a4455c4ada2bce6c670:c03d707bc916b280b457013dac5b2954
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/hte5c8qvv9/out/v1/ebf261b6c0294ba6b2f5fd630f077b66/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="🔴 Live | West Indies vs New Zealand [19 Jul 07:30 PM]", West Indies vs New Zealand (WILLOW)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | Zimbabwe vs Bangladesh [19 Jul 04:00 PM]", Zimbabwe vs Bangladesh (FANCODE SD)
-http://162.251.160.53:8089/BANvsZIM1/index.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="🔴 Live | Dambulla Sixers vs Jaffna Kings [19 Jul 03:00 PM]", Dambulla Sixers vs Jaffna Kings (WILLOW)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=287f5d409978b84086c6428b6acb73c1:bad025076475daec87e62ec1016e8cec
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/xy7igbvbrw/out/v1/ebd25d8eb3c643858d8dd55d88d677ac/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="🔴 Live | Dambulla Sixers vs Jaffna Kings [19 Jul 03:00 PM]", Dambulla Sixers vs Jaffna Kings (LPL HD)
-http://162.251.160.53:8089/LPL1st/index.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="🔴 Live | Colombo Kaps vs Kandy Royals [19 Jul 07:30 PM]", Colombo Kaps vs Kandy Royals (Link 1)
-https://no.link
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="🔴 Live | West Indies vs New Zealand [19 Jul 07:30 PM]", West Indies vs New Zealand (Link 1)
-https://no.link
+#KODIPROP:inputstream.adaptive.license_key=ecdf2f70c1d0df4187b2be76cce4e63d:38832d5c9796f7113fbd2ec6ba70f313
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/wpob6cyf2v/out/v1/021df1f2a9634c5eb62308818f71fbd5/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="🔴 Live | West Indies vs New Zealand [19 Jul 07:30 PM]", West Indies vs New Zealand (TAPMAD 🇧🇩)
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="🔴 Live | England vs India [19 Jul 03:30 PM]", England vs India (CRICBUZZ )
 https://livevideos.cricbuzz.com/hls/live/2110089/MENA-SEA/10532/129480/master.m3u8?hdntl=exp=1784542155~acl=/*~id=qa.team@cricbuzz.com~data=hdntl,flavour:CB,matchId:65907,country:IN~hmac=7816f883796edcfb07cf0300f9b256aa73da776a23442003c22bccb58011d853|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="🔴 Live | England vs India [19 Jul 03:30 PM]", England vs India (WILLOW ADFREE)
