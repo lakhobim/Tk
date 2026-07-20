@@ -1,5 +1,6 @@
 #EXTM3U
-# Updated: 2026-07-20 06:36:50
-# Total Channels: 0
+# Updated: 2026-07-20 09:43:26
+# Total Channels: 1
 
-# No Matches Found
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="Upcoming | Nepal vs Namibia [21 Jul 02:30 PM]", Nepal vs Namibia (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
