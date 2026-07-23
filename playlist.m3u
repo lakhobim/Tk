@@ -1,28 +1,24 @@
 #EXTM3U
-# Updated: 2026-07-22 17:41:09
+# Updated: 2026-07-23 06:22:22
 # Total Channels: 9
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Recent | Jaffna Kings vs Colombo Kaps [22 Jul 03:00 PM]", Jaffna Kings vs Colombo Kaps (WILLOW)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b5afc6d1006a956ada4fe4a4399e2c21:9319efc57e5eb5d32a12a7a66a4fb2ae
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rszozaxgyx/out/v1/7b88be9ba3fa4afda7f65bd4daae807e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="🔴 Live | Dambulla Sixers vs Galle Gallants [22 Jul 07:30 PM]", Dambulla Sixers vs Galle Gallants (WILLOW)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=08e857788244fe19e0ebf8afe19a5baf:07829ed6a8151c4c363713d38687efc8
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bkvy8namph/out/v1/408fe9c1ee2048d98bd629a60b55f8a9/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="🔴 Live | Southern Brave Women vs Welsh Fire Women [22 Jul 07:15 PM]", Southern Brave Women vs Welsh Fire Women (WILLOW ADFREE)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8787005b2c501603a117e26044f93e50:e57ce8dcc0158ef1002ab5bba0f25d14
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wvy4bjqqtx/out/v1/a8eb10fe4a4445a39c4aada4b042fb88/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="🔴 Live | Southern Brave Women vs Welsh Fire Women [22 Jul 07:15 PM]", Southern Brave Women vs Welsh Fire Women (TAPMAD )
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://tapmad.com
+#EXTINF:-1 tvg-logo="" group-title="Upcoming | Global Super League [23 Jul 07:30 PM]", Global Super League (SK LIVE)
+https://chatgpt.hereisman.net/playlist/52604/load-playlist?|Referer=https://gooz.aapmains.net
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Upcoming | Zimbabwe vs India [23 Jul 04:30 PM]", Zimbabwe vs India (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="Upcoming | Netherlands vs Nepal [23 Jul 02:30 PM]", Netherlands vs Nepal (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="🔴 Live | Southern Brave vs Welsh Fire [22 Jul 11:00 PM]", Southern Brave vs Welsh Fire (SK LIVE)
-https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Upcoming | Sri Lanka Women vs Pakistan Women [23 Jul 10:00 AM]", Sri Lanka Women vs Pakistan Women (SK LIVE)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="🔴 Live | Sri Lanka Women vs Pakistan Women [23 Jul 10:00 AM]", Sri Lanka Women vs Pakistan Women (WILLOW)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="🔴 Live | Sri Lanka Women vs Pakistan Women [23 Jul 10:00 AM]", Sri Lanka Women vs Pakistan Women (TAPMAD 🇧🇩)
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="🔴 Live | Sri Lanka Women vs Pakistan Women [23 Jul 10:00 AM]", Sri Lanka Women vs Pakistan Women (FANCODE 🇧🇩)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/sri_lanka_women_vs_pakistan_women_4247425_english.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Upcoming | Kandy Royals vs Colombo Kaps [23 Jul 03:00 PM]", Kandy Royals vs Colombo Kaps (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Upcoming | Kandy Royals vs Colombo Kaps [23 Jul 03:00 PM]", Kandy Royals vs Colombo Kaps (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Upcoming | Galle Gallants vs Jaffna Kings [23 Jul 07:30 PM]", Galle Gallants vs Jaffna Kings (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
