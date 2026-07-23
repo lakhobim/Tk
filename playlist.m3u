@@ -1,12 +1,12 @@
 #EXTM3U
-# Updated: 2026-07-23 06:22:22
+# Updated: 2026-07-23 09:11:30
 # Total Channels: 9
 
 #EXTINF:-1 tvg-logo="" group-title="Upcoming | Global Super League [23 Jul 07:30 PM]", Global Super League (SK LIVE)
 https://chatgpt.hereisman.net/playlist/52604/load-playlist?|Referer=https://gooz.aapmains.net
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Upcoming | Zimbabwe vs India [23 Jul 04:30 PM]", Zimbabwe vs India (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="Upcoming | Netherlands vs Nepal [23 Jul 02:30 PM]", Netherlands vs Nepal (SK LIVE)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="🔴 Live | Netherlands vs Nepal [23 Jul 02:30 PM]", Netherlands vs Nepal (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="🔴 Live | Sri Lanka Women vs Pakistan Women [23 Jul 10:00 AM]", Sri Lanka Women vs Pakistan Women (WILLOW)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
