@@ -1,9 +1,11 @@
 #EXTM3U
-# Updated: 2026-07-23 12:51:13
-# Total Channels: 9
+# Updated: 2026-07-23 14:59:11
+# Total Channels: 12
 
-#EXTINF:-1 tvg-logo="" group-title="Upcoming | Global Super League [23 Jul 07:30 PM]", Global Super League (SK LIVE)
-https://chatgpt.hereisman.net/playlist/52604/load-playlist?|Referer=https://gooz.aapmains.net
+#EXTINF:-1 tvg-logo="" group-title="🔴 Live | Global Super League [23 Jul 07:30 PM]", Global Super League (WILLOW)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89191e6bfbd29dee4c593cb15c4925c3:ebcd78506f203fd0b3cf422d4a5ba0d4
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oakh3hb4vk/out/v1/a8493a8887bd47c8a40cea87ceef414f/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | Zimbabwe vs India [23 Jul 04:30 PM]", Zimbabwe vs India (HINDI)
 https://du63lhrf9y1yb.cloudfront.net/143351_hindi_hls_e275e99cda1596_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | Zimbabwe vs India [23 Jul 04:30 PM]", Zimbabwe vs India (FANCODE)
@@ -26,5 +28,15 @@ https://in-mc-pdlive.fancode.com/mumbai/4246704_english_hls_37559e4d8d64597_1ta-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f567bab672bd15dcbea0c8f29365ca1:9101126d4d41bca6ecc906e47d8fd143
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rpm5xf58oy/out/v1/7fde24af3de04b4c89f2caa3f024cc06/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Upcoming | Galle Gallants vs Jaffna Kings [23 Jul 07:30 PM]", Galle Gallants vs Jaffna Kings (SK LIVE)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="🔴 Live | Galle Gallants vs Jaffna Kings [23 Jul 07:30 PM]", Galle Gallants vs Jaffna Kings (WILLOW)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe6dc83d53e08c5626b6aec2bb4a3afe:da58f6323d6388054bd316890f729f72
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jpjzsonseg/out/v1/26eeb47cccd24e2d8e1975655a1f04e9/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Upcoming | London Spirit vs Manchester Super Giants [23 Jul 11:00 PM]", London Spirit vs Manchester Super Giants (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="🔴 Live | London Spirit Women vs Manchester Super Giants Women [23 Jul 07:15 PM]", London Spirit Women vs Manchester Super Giants Women (WILLOW)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=edd5fb967a4e6c38a619569dcd317c5a:3d8bb28d3a01f6e8f377aca162619a47
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6okuxrru64/out/v1/2d2cf5a09acc49d68d844903696062b8/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="🔴 Live | London Spirit Women vs Manchester Super Giants Women [23 Jul 07:15 PM]", London Spirit Women vs Manchester Super Giants Women (TAPMAD)
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://tapmad.com
