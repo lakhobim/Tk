@@ -1,6 +1,6 @@
 #EXTM3U
-# Updated: 2026-07-25 17:15:41
-# Total Channels: 17
+# Updated: 2026-07-25 18:08:01
+# Total Channels: 13
 
 #EXTINF:-1 tvg-logo="" group-title="Recent | Global Super League [23 Jul 07:30 PM]", Global Super League (WILLOW)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -10,16 +10,6 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oakh3hb4vk/out/v1
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="🔴 Live | Welsh Fire Women vs MI London Women [25 Jul 07:00 PM]", Welsh Fire Women vs MI London Women (TAPMAD)
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://tapmad.com
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | Zimbabwe vs India [25 Jul 04:30 PM]", Zimbabwe vs India (FANCODE HINDI)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=87e80af08df44d1184a37a449b814978:85633aaa416821e65278dcc980066447
-https://in-mc-flive.fancode.com/mumbai/143352_hindi_dash_45689_1drmta-di_h264/index.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | Zimbabwe vs India [25 Jul 04:30 PM]", Zimbabwe vs India (TAPMAD)
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8|referer=https://tapmad.com
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | Zimbabwe vs India [25 Jul 04:30 PM]", Zimbabwe vs India (HINDI)
-https://vsd128.okcdn.ru/cmaf/16975412333141/sig/_4LIaC4pCT8/expires/1785061251544/srcIp/66.78.59.15/urls/185.226.55.73/clientType/36/srcAg/CHROME_ANDROID/mid/15267412330325/get/hls_15267412330325.YQNfrjzxRZI.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | Zimbabwe vs India [25 Jul 04:30 PM]", Zimbabwe vs India (TAPMAD )
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Upcoming | Kandy Royals vs Jaffna Kings [26 Jul 03:00 PM]", Kandy Royals vs Jaffna Kings (Link 1)
 https://no.link
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Upcoming | Manchester Super Giants vs Birmingham Phoenix [26 Jul 07:00 PM]", Manchester Super Giants vs Birmingham Phoenix (SK LIVE)
@@ -42,5 +32,5 @@ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ui
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://tapmad.com
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="🔴 Live | Dambulla Sixers vs Colombo Kaps [25 Jul 07:30 PM]", Dambulla Sixers vs Colombo Kaps (Link 1)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
-https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#KODIPROP:inputstream.adaptive.license_key=8e2d573946038ceb569cb35677d49a84:0a8523dd6f9e8539184efd8cab264b21
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h3hkvrrmw0/out/v1/366a44234c204fc58965a9cd34dda6a1/cenc.mpd
