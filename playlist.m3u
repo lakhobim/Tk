@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2026-07-25 11:34:48
+# Updated: 2026-07-25 12:34:25
 # Total Channels: 23
 
 #EXTINF:-1 tvg-logo="" group-title="Recent | Global Super League [23 Jul 07:30 PM]", Global Super League (WILLOW)
@@ -46,11 +46,11 @@ https://no.link
 https://no.link
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Upcoming | Manchester Super Giants vs Birmingham Phoenix [26 Jul 07:00 PM]", Manchester Super Giants vs Birmingham Phoenix (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="🔴 Live | Sri Lanka Women vs Pakistan Women [25 Jul 10:00 AM]", Sri Lanka Women vs Pakistan Women (WILLOW)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Recent | Sri Lanka Women vs Pakistan Women [25 Jul 10:00 AM]", Sri Lanka Women vs Pakistan Women (WILLOW)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="🔴 Live | Sri Lanka Women vs Pakistan Women [25 Jul 10:00 AM]", Sri Lanka Women vs Pakistan Women (TAPMAD)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Recent | Sri Lanka Women vs Pakistan Women [25 Jul 10:00 AM]", Sri Lanka Women vs Pakistan Women (TAPMAD)
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|referer=https://tapmad.com
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Upcoming | Manchester Super Giants Women vs Birmingham Phoenix Women [26 Jul 03:30 PM]", Manchester Super Giants Women vs Birmingham Phoenix Women (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
