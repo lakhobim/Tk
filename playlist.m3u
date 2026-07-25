@@ -1,6 +1,6 @@
 #EXTM3U
-# Updated: 2026-07-25 16:13:35
-# Total Channels: 16
+# Updated: 2026-07-25 17:15:41
+# Total Channels: 17
 
 #EXTINF:-1 tvg-logo="" group-title="Recent | Global Super League [23 Jul 07:30 PM]", Global Super League (WILLOW)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -36,8 +36,10 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 https://saseries.akamaized.net/hls/live/2110097/PAKvsWI-TesT-tapmad/master.m3u8|referer=https://tapmad.com
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | West Indies vs Pakistan [25 Jul 07:30 PM]", West Indies vs Pakistan (PTV SPORTS )
 https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Upcoming | Welsh Fire vs MI London [25 Jul 10:30 PM]", Welsh Fire vs MI London (SK LIVE)
-https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="🔴 Live | Welsh Fire vs MI London [25 Jul 10:30 PM]", Welsh Fire vs MI London (SK LIVE)
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="🔴 Live | Welsh Fire vs MI London [25 Jul 10:30 PM]", Welsh Fire vs MI London (TAPMAD )
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://tapmad.com
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="🔴 Live | Dambulla Sixers vs Colombo Kaps [25 Jul 07:30 PM]", Dambulla Sixers vs Colombo Kaps (Link 1)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
