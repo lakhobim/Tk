@@ -1,6 +1,6 @@
 #EXTM3U
-# Updated: 2026-07-26 10:42:41
-# Total Channels: 8
+# Updated: 2026-07-26 11:52:59
+# Total Channels: 11
 
 #EXTINF:-1 tvg-logo="" group-title="Recent | Global Super League [23 Jul 07:30 PM]", Global Super League (WILLOW)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -20,7 +20,13 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w1cm4ylv4o/out/v1
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://tapmad.com
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Upcoming | Trent Rockets Women vs London Spirit Women [26 Jul 07:00 PM]", Trent Rockets Women vs London Spirit Women (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Upcoming | Zimbabwe vs India [26 Jul 04:30 PM]", Zimbabwe vs India (Link 1)
-https://no.link
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | Zimbabwe vs India [26 Jul 04:30 PM]", Zimbabwe vs India (SK LIVE)
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | Zimbabwe vs India [26 Jul 04:30 PM]", Zimbabwe vs India (HINDI 🇮🇳)
+https://livecf.fancode.com/143353_hindi_hls_43373ac75166824_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | Zimbabwe vs India [26 Jul 04:30 PM]", Zimbabwe vs India (ENGLISH 🇮🇳)
+https://livecf.fancode.com/143353_english_dash_71145_1drmta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | Zimbabwe vs India [26 Jul 04:30 PM]", Zimbabwe vs India (TAPMAD )
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="Upcoming | Pakistan vs West Indies [26 Jul 07:00 PM]", Pakistan vs West Indies (Link 1)
 https://no.link
