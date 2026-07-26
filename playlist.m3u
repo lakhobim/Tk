@@ -1,17 +1,23 @@
 #EXTM3U
-# Updated: 2026-07-26 08:58:38
-# Total Channels: 7
+# Updated: 2026-07-26 10:42:41
+# Total Channels: 8
 
 #EXTINF:-1 tvg-logo="" group-title="Recent | Global Super League [23 Jul 07:30 PM]", Global Super League (WILLOW)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=89191e6bfbd29dee4c593cb15c4925c3:ebcd78506f203fd0b3cf422d4a5ba0d4
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oakh3hb4vk/out/v1/a8493a8887bd47c8a40cea87ceef414f/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Upcoming | Kandy Royals vs Jaffna Kings [26 Jul 03:00 PM]", Kandy Royals vs Jaffna Kings (Link 1)
-https://no.link
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="🔴 Live | Kandy Royals vs Jaffna Kings [26 Jul 03:00 PM]", Kandy Royals vs Jaffna Kings (WILLOW)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bd8f61e29e4e73e1d44ce0a55a1981e:35e79af4972a7265ad6a220740905e3b
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wx8qp3mtj9/out/v1/e5a1e6f869a04a89a8fbf5d00b60cb72/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Upcoming | Manchester Super Giants vs Birmingham Phoenix [26 Jul 07:00 PM]", Manchester Super Giants vs Birmingham Phoenix (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Upcoming | Manchester Super Giants Women vs Birmingham Phoenix Women [26 Jul 03:30 PM]", Manchester Super Giants Women vs Birmingham Phoenix Women (SK LIVE)
-https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="🔴 Live | Manchester Super Giants Women vs Birmingham Phoenix Women [26 Jul 03:30 PM]", Manchester Super Giants Women vs Birmingham Phoenix Women (WILLOW)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a02e0fa15b5ff1f050bdbe8c9c0ab72:d9cfc6ec1e9ae3d1b2c5c2e0b380181f
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w1cm4ylv4o/out/v1/e16aca2f0b4c4d6199abd3c52ee1f813/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="🔴 Live | Manchester Super Giants Women vs Birmingham Phoenix Women [26 Jul 03:30 PM]", Manchester Super Giants Women vs Birmingham Phoenix Women (TAPMAD)
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://tapmad.com
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Upcoming | Trent Rockets Women vs London Spirit Women [26 Jul 07:00 PM]", Trent Rockets Women vs London Spirit Women (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Upcoming | Zimbabwe vs India [26 Jul 04:30 PM]", Zimbabwe vs India (Link 1)
