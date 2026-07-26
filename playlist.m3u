@@ -1,6 +1,6 @@
 #EXTM3U
-# Updated: 2026-07-26 16:43:45
-# Total Channels: 13
+# Updated: 2026-07-26 17:52:21
+# Total Channels: 12
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="🔴 Live | Manchester Super Giants vs Birmingham Phoenix [26 Jul 07:00 PM]", Manchester Super Giants vs Birmingham Phoenix (WILLOW ASFREE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -10,10 +10,6 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ur272zzea9/out/v1
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="🔴 Live | Manchester Super Giants vs Birmingham Phoenix [26 Jul 07:00 PM]", Manchester Super Giants vs Birmingham Phoenix (TAPMAD )
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="🔴 Live | Trent Rockets Women vs London Spirit Women [26 Jul 07:00 PM]", Trent Rockets Women vs London Spirit Women (SK LIVE)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=da70398048e1a4f2e03db01697a4c892:f13c3a32946c57d5a4972303bc2d6472
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ur272zzea9/out/v1/84f2f611ffa148dda829270ccd07da32/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | Zimbabwe vs India [26 Jul 04:30 PM]", Zimbabwe vs India (SK LIVE)
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | Zimbabwe vs India [26 Jul 04:30 PM]", Zimbabwe vs India (FC ENG)
@@ -38,5 +34,5 @@ https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8575cbe0b673985c268bcc0c68b6d45:175e263ff54564cfd91c23ee8ee89eda
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4ar5vpxijr/out/v1/679fbcd854064c98b175d2efe064b7cc/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Upcoming | Trent Rockets vs London Spirit [26 Jul 10:30 PM]", Trent Rockets vs London Spirit (Link 1)
-https://no.link
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="🔴 Live | Trent Rockets vs London Spirit [26 Jul 10:30 PM]", Trent Rockets vs London Spirit (Link 1)
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
