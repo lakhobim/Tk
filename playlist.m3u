@@ -1,8 +1,14 @@
 #EXTM3U
-# Updated: 2026-07-27 06:53:05
-# Total Channels: 2
+# Updated: 2026-07-27 10:30:42
+# Total Channels: 4
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Upcoming | Southern Brave vs MI London [27 Jul 11:00 PM]", Southern Brave vs MI London (Link 1)
 https://no.link
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Upcoming | Southern Brave Women vs MI London Women [27 Jul 07:30 PM]", Southern Brave Women vs MI London Women (Link 1)
 https://no.link
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | West Indies vs Pakistan [27 Jul 07:00 PM]", West Indies vs Pakistan (Link 1)
+https://no.link
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="🔴 Live | Namibia vs Nepal [27 Jul 02:30 PM]", Namibia vs Nepal (SK LIVE)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1785170737~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=268ce2f63a100df4424a63737022022c80f8fe84fe241b8bbbeedf6cf976d975/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
