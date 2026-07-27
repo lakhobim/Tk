@@ -1,13 +1,23 @@
 #EXTM3U
-# Updated: 2026-07-27 13:25:43
-# Total Channels: 4
+# Updated: 2026-07-27 16:00:11
+# Total Channels: 6
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Upcoming | Southern Brave vs MI London [27 Jul 11:00 PM]", Southern Brave vs MI London (Link 1)
 https://no.link
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Upcoming | Southern Brave Women vs MI London Women [27 Jul 07:30 PM]", Southern Brave Women vs MI London Women (Link 1)
-https://no.link
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | West Indies vs Pakistan [27 Jul 07:00 PM]", West Indies vs Pakistan (Link 1)
-https://no.link
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="🔴 Live | Southern Brave Women vs MI London Women [27 Jul 07:30 PM]", Southern Brave Women vs MI London Women (WILLOW)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed6ee371165b4b461e3731c3f43cfc65:5ecfb640507e9965abe4e68657a158ed
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/s0j8uhosdr/out/v1/75c45443b2ad43a6833b3c9b3aeb526a/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | West Indies vs Pakistan [27 Jul 07:30 PM]", West Indies vs Pakistan (WILLOW)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93e1e62b680676bd8ab5ad7ae3314cce:8af74962ecdff746cd019ba90935b215
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lgp77wdjaw/out/v1/9d70bc2c2c054c19a091dc3550ab5a1f/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | West Indies vs Pakistan [27 Jul 07:30 PM]", West Indies vs Pakistan (TAPMAD)
+https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8|referer=https://tapmad.com
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | West Indies vs Pakistan [27 Jul 07:30 PM]", West Indies vs Pakistan (WILLOW)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93e1e62b680676bd8ab5ad7ae3314cce:8af74962ecdff746cd019ba90935b215
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/2vtc9odh78/out/v1/5c031437d3434e34a7dc594467325531/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="🔴 Live | Namibia vs Nepal [27 Jul 02:30 PM]", Namibia vs Nepal (SK LIVE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
