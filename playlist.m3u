@@ -1,26 +1,18 @@
 #EXTM3U
-# Updated: 2026-07-27 17:43:08
-# Total Channels: 6
+# Updated: 2026-07-28 06:16:50
+# Total Channels: 4
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="🔴 Live | Southern Brave vs MI London [27 Jul 11:00 PM]", Southern Brave vs MI London (WILLOW)
+#EXTINF:-1 tvg-logo="" group-title="🔴 Live | Global Super League [28 Jul 04:30 AM]", Global Super League (WILLOW SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=79f7c04fd3fa5f3cdb7671b440f4ca97:85ecfe2836a55f14ec3c8c1d9486c44e
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/krb4ywqglt/out/v1/0f91f1c928fe492ca9de3a2106b38969/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="🔴 Live | Southern Brave Women vs MI London Women [27 Jul 07:30 PM]", Southern Brave Women vs MI London Women (WILLOW)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed6ee371165b4b461e3731c3f43cfc65:5ecfb640507e9965abe4e68657a158ed
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/s0j8uhosdr/out/v1/75c45443b2ad43a6833b3c9b3aeb526a/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | West Indies vs Pakistan [27 Jul 07:30 PM]", West Indies vs Pakistan (WILLOW)
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | West Indies vs Pakistan [28 Jul 07:30 PM]", West Indies vs Pakistan (WILLOW)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=93e1e62b680676bd8ab5ad7ae3314cce:8af74962ecdff746cd019ba90935b215
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lgp77wdjaw/out/v1/9d70bc2c2c054c19a091dc3550ab5a1f/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | West Indies vs Pakistan [27 Jul 07:30 PM]", West Indies vs Pakistan (TAPMAD)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | West Indies vs Pakistan [28 Jul 07:30 PM]", West Indies vs Pakistan (TAPMAD)
 https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8|referer=https://tapmad.com
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | West Indies vs Pakistan [27 Jul 07:30 PM]", West Indies vs Pakistan (WILLOW)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | West Indies vs Pakistan [28 Jul 07:30 PM]", West Indies vs Pakistan (WILLOW)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=93e1e62b680676bd8ab5ad7ae3314cce:8af74962ecdff746cd019ba90935b215
 https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/2vtc9odh78/out/v1/5c031437d3434e34a7dc594467325531/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="Recent | Namibia vs Nepal [27 Jul 02:30 PM]", Namibia vs Nepal (SK LIVE)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1785170737~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=268ce2f63a100df4424a63737022022c80f8fe84fe241b8bbbeedf6cf976d975/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
