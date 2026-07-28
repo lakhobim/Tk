@@ -1,6 +1,6 @@
 #EXTM3U
-# Updated: 2026-07-28 17:03:58
-# Total Channels: 10
+# Updated: 2026-07-28 18:45:46
+# Total Channels: 11
 
 #EXTINF:-1 tvg-logo="" group-title="Upcoming | Global Super League [29 Jul 04:30 PM]", Global Super League (WILLOW SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -12,8 +12,12 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cse2joomlh/out/v1/b5d5b79c707f431682623bc0bba523a4/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | West Indies vs Pakistan [28 Jul 07:30 PM]", West Indies vs Pakistan (TAPMAD)
 https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8|referer=https://tapmad.com
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Upcoming | Sunrisers Leeds vs Manchester Super Giants [28 Jul 11:00 PM]", Sunrisers Leeds vs Manchester Super Giants (SK LIVE)
-https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="🔴 Live | Sunrisers Leeds vs Manchester Super Giants [28 Jul 11:00 PM]", Sunrisers Leeds vs Manchester Super Giants (WILLOW ADFREE)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6615ff061d534480dfcc882d7d109368:ddd6d8d903e12981d3b18801c9adc188
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kh6uiu6upv/out/v1/29112f3b523f413bad078505dfc67250/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="🔴 Live | Sunrisers Leeds vs Manchester Super Giants [28 Jul 11:00 PM]", Sunrisers Leeds vs Manchester Super Giants (TAPMAD )
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="🔴 Live | Colombo Kaps vs Jaffna Kings [28 Jul 07:30 PM]", Colombo Kaps vs Jaffna Kings (WILLOW)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c9eb696a9eb04a3ff57e9d982b80d3e:24acd92a160f3e8cc26514b9696daa84
