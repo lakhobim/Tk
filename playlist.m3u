@@ -1,8 +1,8 @@
 #EXTM3U
-# Updated: 2026-07-28 06:16:50
-# Total Channels: 4
+# Updated: 2026-07-28 09:06:04
+# Total Channels: 18
 
-#EXTINF:-1 tvg-logo="" group-title="🔴 Live | Global Super League [28 Jul 04:30 AM]", Global Super League (WILLOW SPORTS)
+#EXTINF:-1 tvg-logo="" group-title="Upcoming | Global Super League [29 Jul 04:30 PM]", Global Super League (WILLOW SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -16,3 +16,33 @@ https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=93e1e62b680676bd8ab5ad7ae3314cce:8af74962ecdff746cd019ba90935b215
 https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/2vtc9odh78/out/v1/5c031437d3434e34a7dc594467325531/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Upcoming | Sunrisers Leeds vs Manchester Super Giants [28 Jul 11:00 PM]", Sunrisers Leeds vs Manchester Super Giants (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11177/image/dark" group-title="Upcoming | Lancashire vs Kent [28 Jul 03:30 PM]", Lancashire vs Kent (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11177/image/dark" group-title="Upcoming | Yorkshire vs Worcestershire [29 Jul 03:30 PM]", Yorkshire vs Worcestershire (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="🔴 Live | Sri Lanka Women vs Pakistan Women [28 Jul 10:00 AM]", Sri Lanka Women vs Pakistan Women (WILLOW SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="🔴 Live | Sri Lanka Women vs Pakistan Women [28 Jul 10:00 AM]", Sri Lanka Women vs Pakistan Women (FANCODE 🇮🇳)
+https://dai-fancode.pages.dev/mumbai/4247427_english_hls_abc2cd096315047_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11177/image/dark" group-title="Upcoming | Warwickshire vs Surrey [29 Jul 03:30 PM]", Warwickshire vs Surrey (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Upcoming | Colombo Kaps vs Jaffna Kings [28 Jul 07:30 PM]", Colombo Kaps vs Jaffna Kings (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11177/image/dark" group-title="Upcoming | Durham vs Glamorgan [29 Jul 03:30 PM]", Durham vs Glamorgan (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Upcoming | Welsh Fire Women vs Trent Rockets Women [29 Jul 04:00 PM]", Welsh Fire Women vs Trent Rockets Women (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11177/image/dark" group-title="Upcoming | Sussex vs Essex [29 Jul 03:30 PM]", Sussex vs Essex (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="Upcoming | Nepal vs Netherlands [29 Jul 02:30 PM]", Nepal vs Netherlands (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Upcoming | Galle Gallants vs Kandy Royals [29 Jul 03:00 PM]", Galle Gallants vs Kandy Royals (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Upcoming | Sunrisers Leeds Women vs Manchester Super Giants Women [28 Jul 07:30 PM]", Sunrisers Leeds Women vs Manchester Super Giants Women (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11177/image/dark" group-title="Upcoming | Nottinghamshire vs Leicestershire [28 Jul 03:30 PM]", Nottinghamshire vs Leicestershire (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
