@@ -1,36 +1,32 @@
 #EXTM3U
-# Updated: 2026-07-28 13:14:01
-# Total Channels: 12
+# Updated: 2026-07-28 15:34:32
+# Total Channels: 10
 
 #EXTINF:-1 tvg-logo="" group-title="Upcoming | Global Super League [29 Jul 04:30 PM]", Global Super League (WILLOW SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | West Indies vs Pakistan [28 Jul 07:30 PM]", West Indies vs Pakistan (WILLOW)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | West Indies vs Pakistan [28 Jul 07:30 PM]", West Indies vs Pakistan (WILLOW)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=93e1e62b680676bd8ab5ad7ae3314cce:8af74962ecdff746cd019ba90935b215
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lgp77wdjaw/out/v1/9d70bc2c2c054c19a091dc3550ab5a1f/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | West Indies vs Pakistan [28 Jul 07:30 PM]", West Indies vs Pakistan (TAPMAD)
+#KODIPROP:inputstream.adaptive.license_key=5a9710ee8a56086e0656c1522e763ac6:052e21ca664464ffe790a761a034862f
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cse2joomlh/out/v1/b5d5b79c707f431682623bc0bba523a4/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | West Indies vs Pakistan [28 Jul 07:30 PM]", West Indies vs Pakistan (TAPMAD)
 https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8|referer=https://tapmad.com
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | West Indies vs Pakistan [28 Jul 07:30 PM]", West Indies vs Pakistan (WILLOW)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=93e1e62b680676bd8ab5ad7ae3314cce:8af74962ecdff746cd019ba90935b215
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/2vtc9odh78/out/v1/5c031437d3434e34a7dc594467325531/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Upcoming | Sunrisers Leeds vs Manchester Super Giants [28 Jul 11:00 PM]", Sunrisers Leeds vs Manchester Super Giants (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Recent | Sri Lanka Women vs Pakistan Women [28 Jul 10:00 AM]", Sri Lanka Women vs Pakistan Women (WILLOW SPORTS)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="🔴 Live | Colombo Kaps vs Jaffna Kings [28 Jul 07:30 PM]", Colombo Kaps vs Jaffna Kings (WILLOW)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Recent | Sri Lanka Women vs Pakistan Women [28 Jul 10:00 AM]", Sri Lanka Women vs Pakistan Women (FANCODE 🇮🇳)
-https://dai-fancode.pages.dev/mumbai/4247427_english_hls_abc2cd096315047_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10)
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Upcoming | Colombo Kaps vs Jaffna Kings [28 Jul 07:30 PM]", Colombo Kaps vs Jaffna Kings (SK LIVE)
-https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#KODIPROP:inputstream.adaptive.license_key=0c9eb696a9eb04a3ff57e9d982b80d3e:24acd92a160f3e8cc26514b9696daa84
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/efdkd1x3jo/out/v1/d04063e0c3ba4e63a6efa8c62a940bf7/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Upcoming | Welsh Fire Women vs Trent Rockets Women [29 Jul 04:00 PM]", Welsh Fire Women vs Trent Rockets Women (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="Upcoming | Nepal vs Netherlands [29 Jul 02:30 PM]", Nepal vs Netherlands (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Upcoming | Galle Gallants vs Kandy Royals [29 Jul 03:00 PM]", Galle Gallants vs Kandy Royals (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Upcoming | Sunrisers Leeds Women vs Manchester Super Giants Women [28 Jul 07:30 PM]", Sunrisers Leeds Women vs Manchester Super Giants Women (SK LIVE)
-https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="🔴 Live | Sunrisers Leeds Women vs Manchester Super Giants Women [28 Jul 07:30 PM]", Sunrisers Leeds Women vs Manchester Super Giants Women (WILLOW)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=494d082382d3ef41b1857619bbe27fd7:f5722629661ef2b645d7f87aa46dac3f
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9qzz3zu84c/out/v1/72ca874e2c774b0ba038cd7a3d33dde6/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="🔴 Live | Sunrisers Leeds Women vs Manchester Super Giants Women [28 Jul 07:30 PM]", Sunrisers Leeds Women vs Manchester Super Giants Women (TAPMAD)
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com
