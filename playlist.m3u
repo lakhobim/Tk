@@ -1,15 +1,11 @@
 #EXTM3U
-# Updated: 2026-07-29 17:01:53
-# Total Channels: 7
+# Updated: 2026-07-29 18:14:52
+# Total Channels: 9
 
 #EXTINF:-1 tvg-logo="" group-title="🔴 Live | Global Super League [29 Jul 07:30 PM]", Global Super League (WILLOW SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e629d0aaf60443b92a120c0ed80c67a3:08e7dc7587376738b083cbd5d6f66f45
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ii1dbfdhjs/out/v1/2c6a1e4bfb8f4bddad1a1552ae171414/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="Recent | Nepal vs Netherlands [29 Jul 02:30 PM]", Nepal vs Netherlands (SK LIVE)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1785343429~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=4850f9d1-05d5-4a91-8443-7e5a216546e7~data=hdntl~hmac=fa2d71e111a74b5f4d343ef774adbd17a45922b7d1cb3892f34740b72254477a/manifest.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="🔴 Live | Colombo Kaps vs Dambulla Sixers [29 Jul 07:30 PM]", Colombo Kaps vs Dambulla Sixers (SK LIVE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efd939e5c984ade76f4edd017049d394:ba6c38b2763241f511b9c4c3af9a486c
@@ -22,5 +18,15 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/loztjq5f9j/out/v1
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="🔴 Live | MI London Women vs London Spirit Women [29 Jul 07:30 PM]", MI London Women vs London Spirit Women (SONYLIV)
 https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1785354641~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=3e0609cb62f89e47c5a5e9df09b1d8a2e38f27a0285ad3d150c5e6f2478134a0|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Upcoming | MI London vs London Spirit [29 Jul 11:00 PM]", MI London vs London Spirit (SK LIVE)
-https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="🔴 Live | MI London vs London Spirit [29 Jul 11:00 PM]", MI London vs London Spirit (WILLOW ADFREE )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=747fbb818421349d4646b712baaab8f0:7e06e8d6cf3a33ee75f86cf0b17cb35d
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7m17xpetrf/out/v1/9c9349077535456aaea6b83bf6cf79d4/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="🔴 Live | MI London vs London Spirit [29 Jul 11:00 PM]", MI London vs London Spirit (WILLOW ALT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=747fbb818421349d4646b712baaab8f0:7e06e8d6cf3a33ee75f86cf0b17cb35d
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7m17xpetrf/out/v1/9c9349077535456aaea6b83bf6cf79d4/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="🔴 Live | MI London vs London Spirit [29 Jul 11:00 PM]", MI London vs London Spirit (SKY CRICKET )
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="🔴 Live | MI London vs London Spirit [29 Jul 11:00 PM]", MI London vs London Spirit (TAPMAD )
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com
