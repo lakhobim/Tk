@@ -1,11 +1,17 @@
 #EXTM3U
-# Updated: 2026-07-30 11:21:02
-# Total Channels: 5
+# Updated: 2026-07-30 13:10:43
+# Total Channels: 8
 
 #EXTINF:-1 tvg-logo="" group-title="Upcoming | Global Super League [01 Aug 04:30 AM]", Global Super League (WILLOW SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e629d0aaf60443b92a120c0ed80c67a3:08e7dc7587376738b083cbd5d6f66f45
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ii1dbfdhjs/out/v1/2c6a1e4bfb8f4bddad1a1552ae171414/cenc.mpd
+#EXTINF:-1 tvg-logo="" group-title="🔴 Live | Asian Legends League [30 Jul 03:30 PM]", Asian Legends League (FANCODE 🇮🇳)
+https://dai-fancode.pages.dev/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🔴 Live | Asian Legends League [30 Jul 03:30 PM]", Asian Legends League (TAPMAD)
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|referer=https://tapmad.com
+#EXTINF:-1 tvg-logo="" group-title="🔴 Live | Asian Legends League [30 Jul 03:30 PM]", Asian Legends League (FANCODE 🇧🇩)
+https://bd-mc-pdlive.fancode.com/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Upcoming | Southern Brave vs Birmingham Phoenix [30 Jul 11:00 PM]", Southern Brave vs Birmingham Phoenix (Link 1)
 https://no.link
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="Upcoming | Sri Lanka Women vs Pakistan Women [31 Jul 10:00 AM]", Sri Lanka Women vs Pakistan Women (Link 1)
