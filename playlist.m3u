@@ -1,20 +1,24 @@
 #EXTM3U
-# Updated: 2026-07-31 09:26:05
-# Total Channels: 6
+# Updated: 2026-07-31 11:39:22
+# Total Channels: 7
 
 #EXTINF:-1 tvg-logo="" group-title="Upcoming | Global Super League [01 Aug 04:30 AM]", Global Super League (WILLOW SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e629d0aaf60443b92a120c0ed80c67a3:08e7dc7587376738b083cbd5d6f66f45
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ii1dbfdhjs/out/v1/2c6a1e4bfb8f4bddad1a1552ae171414/cenc.mpd
-#EXTINF:-1 tvg-logo="" group-title="Recent | Asian Legends League [30 Jul 03:30 PM]", Asian Legends League (FANCODE 🇮🇳)
-https://dai-fancode.pages.dev/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Recent | Asian Legends League [30 Jul 03:30 PM]", Asian Legends League (TAPMAD)
+#EXTINF:-1 tvg-logo="" group-title="🔴 Live | Asian Legends League [31 Jul 03:30 PM]", Asian Legends League (FANCODE 🇮🇳)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c35a2a158df4af1acb60bc7da22e92c:312988bf8ded9af0424cc758c82e6fd8
+https://in-mc-flive.fancode.com/mumbai/4248191_english_dash_1079_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-logo="" group-title="🔴 Live | Asian Legends League [31 Jul 03:30 PM]", Asian Legends League (TAPMAD)
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|referer=https://tapmad.com
-#EXTINF:-1 tvg-logo="" group-title="Recent | Asian Legends League [30 Jul 03:30 PM]", Asian Legends League (FANCODE 🇧🇩)
-https://bd-mc-pdlive.fancode.com/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="🔴 Live | Sri Lanka Women vs Pakistan Women [31 Jul 10:00 AM]", Sri Lanka Women vs Pakistan Women (WILLOW ADFREE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="🔴 Live | Sri Lanka Women vs Pakistan Women [31 Jul 10:00 AM]", Sri Lanka Women vs Pakistan Women (TAPMAD )
 https://premierleageplnew2.akamaized.net/hls/live/2107109/masd283674-auw/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Upcoming | Manchester Super Giants vs Trent Rockets [31 Jul 11:00 PM]", Manchester Super Giants vs Trent Rockets (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Upcoming | Manchester Super Giants Women vs Trent Rockets Women [31 Jul 07:30 PM]", Manchester Super Giants Women vs Trent Rockets Women (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
