@@ -1,6 +1,6 @@
 #EXTM3U
-# Updated: 2026-07-30 18:46:16
-# Total Channels: 12
+# Updated: 2026-07-31 06:34:50
+# Total Channels: 6
 
 #EXTINF:-1 tvg-logo="" group-title="Upcoming | Global Super League [01 Aug 04:30 AM]", Global Super League (WILLOW SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -12,25 +12,9 @@ https://dai-fancode.pages.dev/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|referer=https://tapmad.com
 #EXTINF:-1 tvg-logo="" group-title="Recent | Asian Legends League [30 Jul 03:30 PM]", Asian Legends League (FANCODE 🇧🇩)
 https://bd-mc-pdlive.fancode.com/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="🔴 Live | Southern Brave vs Birmingham Phoenix [30 Jul 11:00 PM]", Southern Brave vs Birmingham Phoenix (WILLOW ADFREE )
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="🔴 Live | Sri Lanka Women vs Pakistan Women [31 Jul 10:00 AM]", Sri Lanka Women vs Pakistan Women (WILLOW ADFREE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cdf12929b6d6bd0edd04c33a3652a07e:af48bca037bf7f8a19a9c0b99f985de3
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bibzrzfvpn/out/v1/3a2f65c85ede4520aac81230c4fb0a9f/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="Upcoming | Sri Lanka Women vs Pakistan Women [31 Jul 10:00 AM]", Sri Lanka Women vs Pakistan Women (Link 1)
-https://no.link
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="🔴 Live | Jaffna Kings vs Kandy Royals [30 Jul 07:30 PM]", Jaffna Kings vs Kandy Royals (WILLOW)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bb88765156b5ad3d80387bf317e9a9e:d0d384ff170674a6d69d87382470cfb4
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ycxxmmwqfg/out/v1/45bd0cb4691545ea8b518d9b71166211/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="🔴 Live | Jaffna Kings vs Kandy Royals [30 Jul 07:30 PM]", Jaffna Kings vs Kandy Royals (T SPORTS)
-https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="🔴 Live | Jaffna Kings vs Kandy Royals [30 Jul 07:30 PM]", Jaffna Kings vs Kandy Royals (FANCODE 🇮🇳)
-https://dai-fancode.pages.dev/mumbai/4246720_english_hls_e5254c82f165480_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="🔴 Live | Southern Brave Women vs Birmingham Phoenix Women [30 Jul 07:30 PM]", Southern Brave Women vs Birmingham Phoenix Women (WILLOW)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=943458a8f73e10e31fdc85a2ded6c185:64a44f3738bd54c360aafb8c9acfa959
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ywkoiqsp0p/out/v1/300859b3aec14d98a9b66beb95f8955b/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="🔴 Live | Southern Brave Women vs Birmingham Phoenix Women [30 Jul 07:30 PM]", Southern Brave Women vs Birmingham Phoenix Women (TAPMAD)
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="🔴 Live | Southern Brave Women vs Birmingham Phoenix Women [30 Jul 07:30 PM]", Southern Brave Women vs Birmingham Phoenix Women (SONYLIV 🇮🇳)
-https://sonydaimenew.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1785460559~acl=/*~id=37426982447636458455477290224253~hmac=b13459e51a79e0c3487460c569705ec816d391ef771d0c66c3b2aa762aa7098a
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="🔴 Live | Sri Lanka Women vs Pakistan Women [31 Jul 10:00 AM]", Sri Lanka Women vs Pakistan Women (TAPMAD )
+https://premierleageplnew2.akamaized.net/hls/live/2107109/masd283674-auw/master.m3u8
