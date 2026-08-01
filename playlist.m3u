@@ -1,6 +1,6 @@
 #EXTM3U
-# Updated: 2026-08-01 16:16:15
-# Total Channels: 11
+# Updated: 2026-08-01 17:16:52
+# Total Channels: 12
 
 #EXTINF:-1 tvg-logo="" group-title="Upcoming | Global Super League [02 Aug 04:30 AM]", Global Super League (WILLOW SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -34,3 +34,5 @@ https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d1f70173042301b032487392b35ca8b1:adfc1365758a8afc5f1c4b627474e915
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qnibsr61zt/out/v1/65d00769fa804b1c8b2b6832dd6ea171/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="🔴 Live | Colombo Kaps vs Galle Gallants [01 Aug 07:30 PM]", Colombo Kaps vs Galle Gallants (FANCODE WW)
+https://cdn.nexafootball.net/dx13hd/tracks-v1a1/mono.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 16; CPH2631 Build/BP2A.250605.015)&referer=https://yahoo.com/
