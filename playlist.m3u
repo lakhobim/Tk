@@ -1,26 +1,28 @@
 #EXTM3U
-# Updated: 2026-07-31 18:45:07
-# Total Channels: 7
+# Updated: 2026-08-01 06:19:05
+# Total Channels: 10
 
-#EXTINF:-1 tvg-logo="" group-title="Upcoming | Global Super League [01 Aug 04:30 AM]", Global Super League (WILLOW SPORTS)
+#EXTINF:-1 tvg-logo="" group-title="Upcoming | Global Super League [02 Aug 04:30 AM]", Global Super League (WILLOW SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e629d0aaf60443b92a120c0ed80c67a3:08e7dc7587376738b083cbd5d6f66f45
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ii1dbfdhjs/out/v1/2c6a1e4bfb8f4bddad1a1552ae171414/cenc.mpd
-#EXTINF:-1 tvg-logo="" group-title="Recent | Asian Legends League [31 Jul 03:30 PM]", Asian Legends League (FANCODE 🇮🇳)
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTINF:-1 tvg-logo="" group-title="Upcoming | Asian Legends League [01 Aug 01:00 PM]", Asian Legends League (FANCODE 🇮🇳)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c35a2a158df4af1acb60bc7da22e92c:312988bf8ded9af0424cc758c82e6fd8
 https://in-mc-flive.fancode.com/mumbai/4248191_english_dash_1079_1drmta-di_h264/index.mpd
-#EXTINF:-1 tvg-logo="" group-title="Recent | Asian Legends League [31 Jul 03:30 PM]", Asian Legends League (TAPMAD)
+#EXTINF:-1 tvg-logo="" group-title="Upcoming | Asian Legends League [01 Aug 01:00 PM]", Asian Legends League (TAPMAD)
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|referer=https://tapmad.com
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="🔴 Live | Manchester Super Giants vs Trent Rockets [31 Jul 11:00 PM]", Manchester Super Giants vs Trent Rockets (WILLOW ADFREE )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0cae86fb1afd60ef183c5a334c3a5422:9dfd7451be124599a96fa06cbc5082d4
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4jiqncqor/out/v1/c63970168daf442aa9d09bf871bbc43e/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="🔴 Live | Manchester Super Giants vs Trent Rockets [31 Jul 11:00 PM]", Manchester Super Giants vs Trent Rockets (SONYLIV 🇮🇳)
-https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1785559134~acl=/*~id=48196934254009613967032403550932~hmac=3d35551354963be707d536a820656c24454c50848c9e660055947efa2907b163
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="🔴 Live | Manchester Super Giants Women vs Trent Rockets Women [31 Jul 07:30 PM]", Manchester Super Giants Women vs Trent Rockets Women (WILLOW)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9a4840bd49eee42a5b329fc118714116:ee49bab3b57ba19d205e69758c8d67a8
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j5m5cvi1mw/out/v1/33c2ad2bd0754ee79571bd2c98e86460/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="🔴 Live | Manchester Super Giants Women vs Trent Rockets Women [31 Jul 07:30 PM]", Manchester Super Giants Women vs Trent Rockets Women (TAPMAD)
-https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8|referer=https://tapmad.com
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Upcoming | London Spirit Women vs Southern Brave Women [01 Aug 07:00 PM]", London Spirit Women vs Southern Brave Women (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Upcoming | Trent Rockets vs Sunrisers Leeds [02 Aug 07:00 PM]", Trent Rockets vs Sunrisers Leeds (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Upcoming | Colombo Kaps vs Galle Gallants [01 Aug 07:30 PM]", Colombo Kaps vs Galle Gallants (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Upcoming | MI London Women vs Manchester Super Giants Women [02 Aug 07:00 PM]", MI London Women vs Manchester Super Giants Women (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Upcoming | Trent Rockets Women vs Sunrisers Leeds Women [02 Aug 03:30 PM]", Trent Rockets Women vs Sunrisers Leeds Women (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Upcoming | Birmingham Phoenix vs Welsh Fire [01 Aug 07:00 PM]", Birmingham Phoenix vs Welsh Fire (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="Upcoming | Sri Lanka Women vs Pakistan Women [02 Aug 10:00 AM]", Sri Lanka Women vs Pakistan Women (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
