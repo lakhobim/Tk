@@ -1,6 +1,6 @@
 #EXTM3U
-# Updated: 2026-08-02 14:21:53
-# Total Channels: 14
+# Updated: 2026-08-02 15:41:12
+# Total Channels: 13
 
 #EXTINF:-1 tvg-logo="" group-title="Recent | Global Super League [02 Aug 04:30 AM]", Global Super League (WILLOW SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -24,10 +24,6 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|refe
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pl1ezqchyz/out/v1/605ef67735e2486abc1ba548e9ce0f7f/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="🔴 Live | MI London Women vs Manchester Super Giants Women [02 Aug 07:00 PM]", MI London Women vs Manchester Super Giants Women (TAPMAD)
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="🔴 Live | Trent Rockets Women vs Sunrisers Leeds Women [02 Aug 03:30 PM]", Trent Rockets Women vs Sunrisers Leeds Women (SK LIVE)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4233ee682178bef890187634568d759e:f285de0fb1c915abb65e94bec8e1b823
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qsp8wdw6zx/out/v1/8ec8b80ae2894df596d5f8458985ac07/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="🔴 Live | Jaffna Kings vs Dambulla Sixers [02 Aug 07:30 PM]", Jaffna Kings vs Dambulla Sixers (WILLOW ADFREE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=54bfa3c834811c007885354912593547:65cabf948613b32d83d14179670f7a13
