@@ -1,23 +1,17 @@
 #EXTM3U
-# Updated: 2026-08-02 16:43:39
+# Updated: 2026-08-02 17:51:14
 # Total Channels: 13
 
 #EXTINF:-1 tvg-logo="" group-title="Recent | Global Super League [02 Aug 04:30 AM]", Global Super League (WILLOW SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTINF:-1 tvg-logo="" group-title="🔴 Live | Asian Legends League [02 Aug 03:00 PM]", Asian Legends League (FANCODE 🇮🇳)
+#EXTINF:-1 tvg-logo="" group-title="Recent | Asian Legends League [02 Aug 03:00 PM]", Asian Legends League (FANCODE 🇮🇳)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=327dd50066bd4b2dbdc6c92cc7f08df3:3fbd5828cc2710d63ba679984ccfc306
 https://dai-fancode.pages.dev/mumbai/4248197_english_hls_f9620bce7b28629_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-logo="" group-title="🔴 Live | Asian Legends League [02 Aug 03:00 PM]", Asian Legends League (TAPMAD)
+#EXTINF:-1 tvg-logo="" group-title="Recent | Asian Legends League [02 Aug 03:00 PM]", Asian Legends League (TAPMAD)
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|referer=https://tapmad.com
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="🔴 Live | Trent Rockets vs Sunrisers Leeds [02 Aug 07:00 PM]", Trent Rockets vs Sunrisers Leeds (WILLOW)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e34f09cecd025b07b03fac4651db5dc0:242f315a8a0400c65ffa8bf4a02be4fe
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4wx4w5tg5j/out/v1/87a9fd25ee574b7bb5847ebc2f8659d6/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="🔴 Live | Trent Rockets vs Sunrisers Leeds [02 Aug 07:00 PM]", Trent Rockets vs Sunrisers Leeds (TAPMAD)
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="🔴 Live | MI London Women vs Manchester Super Giants Women [02 Aug 07:00 PM]", MI London Women vs Manchester Super Giants Women (WILLOW)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1edc619d2a59d202df46cf44697b09a1:c4621d2644854c372c6ef1c3dbd2532a
@@ -36,7 +30,13 @@ https://cdn.nexafootball.net/dx13hd/tracks-v1a1/mono.m3u8|User-agent=Dalvik/2.1.
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gwki82s2bi/out/v1/dae92d65465c4a8da6354123c9ae1b85/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | West Indies vs Pakistan [02 Aug 07:30 PM]", West Indies vs Pakistan (SD SERVER )
 https://cdn.nexafootball.net/dx17hd/tracks-v1a1/mono.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 16; CPH2631 Build/BP2A.250605.015)&referer=https://yahoo.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Upcoming | MI London vs Manchester Super Giants [02 Aug 10:30 PM]", MI London vs Manchester Super Giants (SK LIVE)
-https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="🔴 Live | MI London vs Manchester Super Giants [02 Aug 10:30 PM]", MI London vs Manchester Super Giants (WILLOW ADFREE)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=488f1e087ef08fde7bf01b963463d341:672611664799a02cd388ae17e4f0bfc7
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/65wmrzwreu/out/v1/a69f40a3fb1642f7ac58ab1458a00a65/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="🔴 Live | MI London vs Manchester Super Giants [02 Aug 10:30 PM]", MI London vs Manchester Super Giants (SKY CRICKET )
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="🔴 Live | MI London vs Manchester Super Giants [02 Aug 10:30 PM]", MI London vs Manchester Super Giants (TAPMAD )
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="Upcoming | Scotland vs United Arab Emirates [03 Aug 03:30 PM]", Scotland vs United Arab Emirates (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
