@@ -1,16 +1,16 @@
 #EXTM3U
-# Updated: 2026-08-04 06:18:24
+# Updated: 2026-08-04 09:11:38
 # Total Channels: 13
 
 #EXTINF:-1 tvg-logo="" group-title="Recent | Global Super League [02 Aug 04:30 AM]", Global Super League (WILLOW SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTINF:-1 tvg-logo="" group-title="Upcoming | Asian Legends League [04 Aug 01:00 PM]", Asian Legends League (FANCODE 🇮🇳)
+#EXTINF:-1 tvg-logo="" group-title="🔴 Live | Asian Legends League [04 Aug 01:00 PM]", Asian Legends League (FANCODE 🇮🇳)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=327dd50066bd4b2dbdc6c92cc7f08df3:3fbd5828cc2710d63ba679984ccfc306
 https://dai-fancode.pages.dev/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-logo="" group-title="Upcoming | Asian Legends League [04 Aug 01:00 PM]", Asian Legends League (TAPMAD)
+#EXTINF:-1 tvg-logo="" group-title="🔴 Live | Asian Legends League [04 Aug 01:00 PM]", Asian Legends League (TAPMAD)
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|referer=https://tapmad.com
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | West Indies vs Pakistan [04 Aug 07:30 PM]", West Indies vs Pakistan (WILLOW ADFREE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
