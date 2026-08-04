@@ -1,30 +1,38 @@
 #EXTM3U
-# Updated: 2026-08-03 18:05:42
-# Total Channels: 8
+# Updated: 2026-08-04 06:18:24
+# Total Channels: 13
 
 #EXTINF:-1 tvg-logo="" group-title="Recent | Global Super League [02 Aug 04:30 AM]", Global Super League (WILLOW SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-#EXTINF:-1 tvg-logo="" group-title="Recent | Asian Legends League [03 Aug 01:00 PM]", Asian Legends League (FANCODE 🇮🇳)
+#EXTINF:-1 tvg-logo="" group-title="Upcoming | Asian Legends League [04 Aug 01:00 PM]", Asian Legends League (FANCODE 🇮🇳)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=327dd50066bd4b2dbdc6c92cc7f08df3:3fbd5828cc2710d63ba679984ccfc306
 https://dai-fancode.pages.dev/mumbai/4248196_english_hls_474e9b2ae850769_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-logo="" group-title="Recent | Asian Legends League [03 Aug 01:00 PM]", Asian Legends League (TAPMAD)
+#EXTINF:-1 tvg-logo="" group-title="Upcoming | Asian Legends League [04 Aug 01:00 PM]", Asian Legends League (TAPMAD)
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|referer=https://tapmad.com
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | West Indies vs Pakistan [03 Aug 07:30 PM]", West Indies vs Pakistan (WILLOW ADFREE)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | West Indies vs Pakistan [04 Aug 07:30 PM]", West Indies vs Pakistan (WILLOW ADFREE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ac2311e52a567706a77f5e2eeb75e707:518aff73a8da4c8b84fbe711505aabc8
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/54xvj77jse/out/v1/3a5f4414cdd545839f98cc93b790af70/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | West Indies vs Pakistan [03 Aug 07:30 PM]", West Indies vs Pakistan (SD SERVER )
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | West Indies vs Pakistan [04 Aug 07:30 PM]", West Indies vs Pakistan (SD SERVER )
 https://cdn.nexafootball.net/dx17hd/tracks-v1a1/mono.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 16; CPH2631 Build/BP2A.250605.015)&referer=https://yahoo.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="🔴 Live | Welsh Fire Women vs Southern Brave Women [03 Aug 07:30 PM]", Welsh Fire Women vs Southern Brave Women (SK LIVE)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="🔴 Live | Sri Lanka Women vs Pakistan Women [04 Aug 10:00 AM]", Sri Lanka Women vs Pakistan Women (WILLOW SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5bf7ba08dbcbb5de11b183fe281c46ec:aaa3a81ae3d7c0c1b23e81decc61a788
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jxu8h3g1qm/out/v1/eef0cc6bfe96430896fb3dd56e8f0dff/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="Upcoming | Sri Lanka Women vs Pakistan Women [04 Aug 10:00 AM]", Sri Lanka Women vs Pakistan Women (SK LIVE)
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="🔴 Live | Sri Lanka Women vs Pakistan Women [04 Aug 10:00 AM]", Sri Lanka Women vs Pakistan Women (FANCODE 🇮🇳)
+https://dai-fancode.pages.dev/mumbai/4247429_english_hls_46b6a5959242798_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Upcoming | Jaffna Kings vs Galle Gallants [05 Aug 03:00 PM]", Jaffna Kings vs Galle Gallants (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="🔴 Live | Welsh Fire vs Southern Brave [03 Aug 11:00 PM]", Welsh Fire vs Southern Brave (WILLOW ADFREE )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f822ab5833682a8a33507774a31cfa13:7aaef11c2e4d4f0ddc2faa6d996a16ec
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uqlyxwabtw/out/v1/6b0bd05cc2744c2b8eca46759ee84057/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Upcoming | Ireland vs Afghanistan [05 Aug 03:15 PM]", Ireland vs Afghanistan (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="Upcoming | United Arab Emirates vs Canada [05 Aug 03:30 PM]", United Arab Emirates vs Canada (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Upcoming | Manchester Super Giants Women vs Welsh Fire Women [05 Aug 04:00 PM]", Manchester Super Giants Women vs Welsh Fire Women (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Upcoming | Sunrisers Leeds Women vs London Spirit Women [04 Aug 07:30 PM]", Sunrisers Leeds Women vs London Spirit Women (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Upcoming | Sunrisers Leeds vs London Spirit [04 Aug 11:00 PM]", Sunrisers Leeds vs London Spirit (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
