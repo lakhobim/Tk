@@ -1,13 +1,15 @@
 #EXTM3U
-# Updated: 2026-08-05 13:15:36
-# Total Channels: 11
+# Updated: 2026-08-05 15:28:17
+# Total Channels: 13
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | West Indies vs Pakistan [05 Aug 07:30 PM]", West Indies vs Pakistan (WILLOW ADFREE)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | West Indies vs Pakistan [05 Aug 07:30 PM]", West Indies vs Pakistan (WILLOW ADFREE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae4d308848c3fa0e2f6e9e57cae1bffb:12fdaa10a7f4dd536e9c121dc08a72b3
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rppouzsbk7/out/v1/f51c2e9845e24c8c959e0725614aaf61/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | West Indies vs Pakistan [05 Aug 07:30 PM]", West Indies vs Pakistan (SD SERVER )
+#KODIPROP:inputstream.adaptive.license_key=a24bbb091c849a230e8aad435a941a69:3d40240333ded1b4a60e14b34aeaa58a
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/otsc0y4fff/out/v1/70d1e416ce274818b66430b3b88dde9a/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | West Indies vs Pakistan [05 Aug 07:30 PM]", West Indies vs Pakistan (SD SERVER )
 https://cdn.nexafootball.net/dx17hd/tracks-v1a1/mono.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 16; CPH2631 Build/BP2A.250605.015)&referer=https://yahoo.com/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | West Indies vs Pakistan [05 Aug 07:30 PM]", West Indies vs Pakistan (TAPMAD)
+https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8|referer=https://tapmad.com
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="🔴 Live | Jaffna Kings vs Galle Gallants [05 Aug 03:00 PM]", Jaffna Kings vs Galle Gallants (WILLOW)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=595932d92efbd8423ac32fbffcc78dca:adea3202c6154d11faad1d54b363763c
@@ -22,13 +24,21 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mpk9tjbvih/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
 https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1785951934~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=9902401fefd8b556eb89db260a104dd0e68cad623200a31a019c48a9606db4d1/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="🔴 Live | Manchester Super Giants Women vs Welsh Fire Women [05 Aug 04:00 PM]", Manchester Super Giants Women vs Welsh Fire Women (SK LIVE)
-https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Upcoming | Manchester Super Giants vs Welsh Fire [05 Aug 07:30 PM]", Manchester Super Giants vs Welsh Fire (SK LIVE)
-https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Upcoming | Colombo Kaps vs Kandy Royals [05 Aug 07:30 PM]", Colombo Kaps vs Kandy Royals (SK LIVE)
-https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Upcoming | Trent Rockets Women vs Birmingham Phoenix Women [05 Aug 07:30 PM]", Trent Rockets Women vs Birmingham Phoenix Women (SK LIVE)
-https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="🔴 Live | Manchester Super Giants vs Welsh Fire [05 Aug 07:30 PM]", Manchester Super Giants vs Welsh Fire (WILLOW)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78ec9284132de7187cc62a368550a8b5:a0dc714d18448877d9664df9e34962ab
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rr2bvlgfda/out/v1/d1ee1f03673145d29d1e4a403288787f/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="🔴 Live | Manchester Super Giants vs Welsh Fire [05 Aug 07:30 PM]", Manchester Super Giants vs Welsh Fire (SONYLIV)
+https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1785957645~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=bb4f7fc241f16140e4dd1030531bc668fe6a8fb128ee1574b16f96f294540405|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="🔴 Live | Manchester Super Giants vs Welsh Fire [05 Aug 07:30 PM]", Manchester Super Giants vs Welsh Fire (TAPMAD)
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="🔴 Live | Colombo Kaps vs Kandy Royals [05 Aug 07:30 PM]", Colombo Kaps vs Kandy Royals (SK LIVE)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e6728d7cde921927aac8b68b38273da:8f218d41cf6a64179ff1f2a9d3b4190f
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qlfjlgeaxh/out/v1/9b5a56804ead44f1983d7abba2cdfe44/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="🔴 Live | Trent Rockets Women vs Birmingham Phoenix Women [05 Aug 07:30 PM]", Trent Rockets Women vs Birmingham Phoenix Women (SK LIVE)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=58773419ece0390ef34c7380b9dd71cd:7942050a4989357553266d7886b8c5d4
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/letejy2yfh/out/v1/d6e600aaeb0e4aeb8333a01e8f96a715/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Upcoming | Trent Rockets vs Birmingham Phoenix [05 Aug 11:00 PM]", Trent Rockets vs Birmingham Phoenix (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
