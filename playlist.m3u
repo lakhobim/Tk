@@ -1,11 +1,7 @@
 #EXTM3U
-# Updated: 2026-08-05 11:29:25
-# Total Channels: 12
+# Updated: 2026-08-05 13:15:36
+# Total Channels: 11
 
-#EXTINF:-1 tvg-logo="" group-title="Recent | Global Super League [02 Aug 04:30 AM]", Global Super League (WILLOW SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | West Indies vs Pakistan [05 Aug 07:30 PM]", West Indies vs Pakistan (WILLOW ADFREE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae4d308848c3fa0e2f6e9e57cae1bffb:12fdaa10a7f4dd536e9c121dc08a72b3
