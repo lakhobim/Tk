@@ -1,11 +1,17 @@
 #EXTM3U
-# Updated: 2026-08-06 13:30:08
-# Total Channels: 4
+# Updated: 2026-08-07 05:26:16
+# Total Channels: 5
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Upcoming | London Spirit Women vs MI London Women [06 Aug 07:30 PM]", London Spirit Women vs MI London Women (Link 1)
-https://no.link
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Upcoming | London Spirit vs MI London [06 Aug 11:00 PM]", London Spirit vs MI London (Link 1)
-https://no.link
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Recent | London Spirit Women vs MI London Women [06 Aug 07:30 PM]", London Spirit Women vs MI London Women (WILLOW)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6818868b06409ee7869850f878c30665:4766f05f2c1de3cd0896ccd99f662fd1
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/aom5odkfja/out/v1/6ee7883d26b84be3b4a1f79a8dbff0bf/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Recent | London Spirit Women vs MI London Women [06 Aug 07:30 PM]", London Spirit Women vs MI London Women (TAPMAD)
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Recent | London Spirit vs MI London [06 Aug 11:00 PM]", London Spirit vs MI London (Link 1)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56f46d806961b2b8b30d208b713c5061:dc474a96d57b2d143f477b4d5ade9ef0
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hmyciwvirh/out/v1/5e04c4a3116b4e848f99a37fefb996d0/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Upcoming | Ireland vs Afghanistan [07 Aug 03:15 PM]", Ireland vs Afghanistan (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="Upcoming | Scotland vs Canada [07 Aug 03:30 PM]", Scotland vs Canada (SK LIVE)
