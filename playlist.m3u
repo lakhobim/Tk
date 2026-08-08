@@ -1,10 +1,28 @@
 #EXTM3U
-# Updated: 2026-08-08 05:33:36
-# Total Channels: 3
+# Updated: 2026-08-08 06:22:00
+# Total Channels: 12
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Upcoming | MI London Women vs Trent Rockets Women [08 Aug 03:30 PM]", MI London Women vs Trent Rockets Women (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Upcoming | MI London vs Trent Rockets [08 Aug 07:00 PM]", MI London vs Trent Rockets (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Upcoming | Southern Brave Women vs Manchester Super Giants Women [08 Aug 07:00 PM]", Southern Brave Women vs Manchester Super Giants Women (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Upcoming | Southern Brave vs Manchester Super Giants [08 Aug 10:30 PM]", Southern Brave vs Manchester Super Giants (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Upcoming | Sunrisers Leeds Women vs Welsh Fire Women [09 Aug 03:30 PM]", Sunrisers Leeds Women vs Welsh Fire Women (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Upcoming | Sunrisers Leeds vs Welsh Fire [09 Aug 07:00 PM]", Sunrisers Leeds vs Welsh Fire (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Upcoming | MI London Women vs Trent Rockets Women [08 Aug 03:30 PM]", MI London Women vs Trent Rockets Women (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Upcoming | MI London vs Trent Rockets [08 Aug 07:00 PM]", MI London vs Trent Rockets (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Upcoming | Jaffna Kings vs Galle Gallants [08 Aug 07:30 PM]", Jaffna Kings vs Galle Gallants (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Upcoming | Southern Brave Women vs Manchester Super Giants Women [08 Aug 07:00 PM]", Southern Brave Women vs Manchester Super Giants Women (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="Upcoming | Scotland vs United Arab Emirates [09 Aug 03:30 PM]", Scotland vs United Arab Emirates (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Upcoming | London Spirit Women vs Birmingham Phoenix Women [09 Aug 07:00 PM]", London Spirit Women vs Birmingham Phoenix Women (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
