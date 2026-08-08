@@ -1,6 +1,6 @@
 #EXTM3U
-# Updated: 2026-08-08 08:08:35
-# Total Channels: 10
+# Updated: 2026-08-08 09:00:45
+# Total Channels: 9
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Upcoming | MI London Women vs Trent Rockets Women [08 Aug 03:30 PM]", MI London Women vs Trent Rockets Women (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
@@ -13,8 +13,6 @@ https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Upcoming | Sunrisers Leeds Women vs Welsh Fire Women [09 Aug 03:30 PM]", Sunrisers Leeds Women vs Welsh Fire Women (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Upcoming | Sunrisers Leeds vs Welsh Fire [09 Aug 07:00 PM]", Sunrisers Leeds vs Welsh Fire (SK LIVE)
-https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Upcoming | MI London vs Trent Rockets [08 Aug 07:00 PM]", MI London vs Trent Rockets (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16365/image/dark" group-title="Upcoming | Jaffna Kings vs Galle Gallants [08 Aug 07:30 PM]", Jaffna Kings vs Galle Gallants (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
