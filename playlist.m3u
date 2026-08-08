@@ -1,17 +1,7 @@
 #EXTM3U
-# Updated: 2026-08-08 14:08:48
-# Total Channels: 14
+# Updated: 2026-08-08 14:49:45
+# Total Channels: 10
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="🔴 Live | MI London Women vs Trent Rockets Women [08 Aug 03:30 PM]", MI London Women vs Trent Rockets Women (WILLOW)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe4a1bbfcf4147c8e38c241208232ad2:0e9258000b4216e095844163b5d1eb6d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/aksnjpdam2/out/v1/a71e0bd938ca471c918443039af47dd1/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="🔴 Live | MI London Women vs Trent Rockets Women [08 Aug 03:30 PM]", MI London Women vs Trent Rockets Women (WILLOW HD)
-https://messi.damitv.st/papi/tv/dlhd/346/playlist.m3u8?tk=-87Qx6IOhdI02snq5I0Qng&e=1786226352|referer=https://ondemand.st/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="🔴 Live | MI London Women vs Trent Rockets Women [08 Aug 03:30 PM]", MI London Women vs Trent Rockets Women (SKY NZ HD)
-https://messi.damitv.st/papi/tv/dlhd/590/playlist.m3u8?tk=AZ2hC4S7v2L27xEeJ_ztVg&e=1786226475|referer=https://ondemand.st/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="🔴 Live | MI London Women vs Trent Rockets Women [08 Aug 03:30 PM]", MI London Women vs Trent Rockets Women (TAPMAD)
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="🔴 Live | MI London vs Trent Rockets [08 Aug 07:00 PM]", MI London vs Trent Rockets (WILLOW)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd27c0daf95e9ed5d3b720578137c1f6:b564de023ff9e1564f89aabb5a9742f7
