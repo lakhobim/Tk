@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2026-08-08 16:54:57
+# Updated: 2026-08-08 17:19:07
 # Total Channels: 10
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="🔴 Live | MI London vs Trent Rockets [08 Aug 07:00 PM]", MI London vs Trent Rockets (WILLOW)
@@ -12,7 +12,7 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5evskgy7ci/out/v1
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zdj7qgaerx/out/v1/5683d35fda0b4e9086b8bc669416bcba/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="🔴 Live | Southern Brave Women vs Manchester Super Giants Women [08 Aug 07:00 PM]", Southern Brave Women vs Manchester Super Giants Women (TAPMAD)
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Upcoming | Southern Brave vs Manchester Super Giants [08 Aug 10:30 PM]", Southern Brave vs Manchester Super Giants (SK LIVE)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="🔴 Live | Southern Brave vs Manchester Super Giants [08 Aug 10:30 PM]", Southern Brave vs Manchester Super Giants (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Upcoming | Sunrisers Leeds Women vs Welsh Fire Women [09 Aug 03:30 PM]", Sunrisers Leeds Women vs Welsh Fire Women (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
