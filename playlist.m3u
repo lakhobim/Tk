@@ -1,8 +1,8 @@
 #EXTM3U
-# Updated: 2026-08-09 17:28:10
+# Updated: 2026-08-09 18:01:37
 # Total Channels: 3
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="🔴 Live | Sunrisers Leeds Women vs Welsh Fire Women [09 Aug 03:30 PM]", Sunrisers Leeds Women vs Welsh Fire Women (WILLOW)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Recent | Sunrisers Leeds Women vs Welsh Fire Women [09 Aug 03:30 PM]", Sunrisers Leeds Women vs Welsh Fire Women (WILLOW)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa4e1c6e21271c8c2e137768223a996d:696e0a088a59b611f5e1423072b84a53
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eocxevccof/out/v1/d508e88d5b47494a9f280daa21fc612d/cenc.mpd
