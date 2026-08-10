@@ -1,16 +1,5 @@
 #EXTM3U
-# Updated: 2026-08-09 18:01:37
-# Total Channels: 3
+# Updated: 2026-08-10 05:14:05
+# Total Channels: 0
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Recent | Sunrisers Leeds Women vs Welsh Fire Women [09 Aug 03:30 PM]", Sunrisers Leeds Women vs Welsh Fire Women (WILLOW)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa4e1c6e21271c8c2e137768223a996d:696e0a088a59b611f5e1423072b84a53
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eocxevccof/out/v1/d508e88d5b47494a9f280daa21fc612d/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="🔴 Live | Sunrisers Leeds vs Welsh Fire [09 Aug 07:00 PM]", Sunrisers Leeds vs Welsh Fire (WILLOW)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a9e55845e8eb687548fa6346e4a8972e:133a091bd544fccdd89614b2edc7bce7
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xnxbvyjlzb/out/v1/c5c78730d5cf4206aba342b24a00c3be/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="🔴 Live | London Spirit Women vs Birmingham Phoenix Women [09 Aug 07:00 PM]", London Spirit Women vs Birmingham Phoenix Women (WILLOW)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b69fc8e68c1368760c41742219ba95f7:2316ba4fb7fed894fd03d5c934f99f1f
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hfggzozkzw/out/v1/5a0e7944b83942b4afeba99b1385ec89/cenc.mpd
+# No Matches Found
