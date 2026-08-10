@@ -1,5 +1,12 @@
 #EXTM3U
-# Updated: 2026-08-10 05:14:05
-# Total Channels: 0
+# Updated: 2026-08-10 06:42:16
+# Total Channels: 4
 
-# No Matches Found
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Upcoming | Trent Rockets vs Southern Brave [10 Aug 11:00 PM]", Trent Rockets vs Southern Brave (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Upcoming | Trent Rockets Women vs Southern Brave Women [10 Aug 07:30 PM]", Trent Rockets Women vs Southern Brave Women (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="Upcoming | United Arab Emirates vs Canada [11 Aug 03:30 PM]", United Arab Emirates vs Canada (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Upcoming | Ireland vs Afghanistan [10 Aug 03:15 PM]", Ireland vs Afghanistan (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
