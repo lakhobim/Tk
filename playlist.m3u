@@ -1,9 +1,11 @@
 #EXTM3U
-# Updated: 2026-08-10 16:50:19
+# Updated: 2026-08-10 17:41:45
 # Total Channels: 5
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="Upcoming | Trent Rockets vs Southern Brave [10 Aug 11:00 PM]", Trent Rockets vs Southern Brave (SK LIVE)
-https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="🔴 Live | Trent Rockets vs Southern Brave [10 Aug 11:00 PM]", Trent Rockets vs Southern Brave (WILLOW)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2d90b5d203600947dca7edb4422a2b51:aa30b2d1feaf767f5b000356d5ea62ee
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mnu4onrfab/out/v1/64f6785b3c5f4e829052ba381a41e4f0/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="🔴 Live | Trent Rockets Women vs Southern Brave Women [10 Aug 07:30 PM]", Trent Rockets Women vs Southern Brave Women (WILLOW)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1688ed99b5ab9098b129cd74f3865614:58411d610b2d8fbb7d711f36d2b6ea4e
