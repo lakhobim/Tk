@@ -1,6 +1,6 @@
 #EXTM3U
-# Updated: 2026-08-12 16:09:17
-# Total Channels: 10
+# Updated: 2026-08-12 17:12:54
+# Total Channels: 9
 
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="🔴 Live | Ireland vs Afghanistan [12 Aug 03:15 PM]", Ireland vs Afghanistan (WILLOW ADFREE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -18,10 +18,6 @@ https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bcb40778a4f249ca839de8e6ff54814:c7ea7f7b641534d5cffc858eea927561
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5hqyskmg9y/out/v1/84dba1bff3be4096bbb0aed04af0099f/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="🔴 Live | Welsh Fire Women vs London Spirit Women [12 Aug 04:00 PM]", Welsh Fire Women vs London Spirit Women (SK LIVE)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3a6b9c70be7c5360d0d3280e9fe1fa9c:3bf2808053ddf9d664ff3d13498588ac
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uboilohtga/out/v1/c4ad81c73eed49b8a85ba0a36aa76583/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="🔴 Live | Welsh Fire vs London Spirit [12 Aug 07:30 PM]", Welsh Fire vs London Spirit (WILLOW)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4eafd178f8f4fe3ade4b7b4f46f2aa0a:bb2edfa85640210506bb61468a4b3bed
