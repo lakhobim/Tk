@@ -1,17 +1,11 @@
 #EXTM3U
-# Updated: 2026-08-11 18:06:51
-# Total Channels: 6
+# Updated: 2026-08-12 05:22:10
+# Total Channels: 4
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16710/image/dark" group-title="🔴 Live | Manchester Super Giants vs Sunrisers Leeds [11 Aug 11:00 PM]", Manchester Super Giants vs Sunrisers Leeds (SK LIVE)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b3a4173d4e7318247831287ce00395e:7144eda20ed87559acc226d79ea686fa
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/e8xfiwkrmm/out/v1/edffbaac67e44d9aa6eb6c9a01fb5aeb/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23342/image/dark" group-title="Upcoming | Hong Kong C. vs Uganda [12 Aug 11:30 AM]", Hong Kong C. vs Uganda (SK LIVE)
-https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23342/image/dark" group-title="Upcoming | Bahrain vs Singapore [12 Aug 11:30 AM]", Bahrain vs Singapore (SK LIVE)
-https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Upcoming | Ireland vs Afghanistan [12 Aug 03:15 PM]", Ireland vs Afghanistan (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Upcoming | Ireland vs Afghanistan [12 Aug 03:15 PM]", Ireland vs Afghanistan (TAPMAD 🇵🇰)
+https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Recent | National Champions Cup [11 Aug 03:30 PM]", National Champions Cup (SK LIVE)
 http://162.251.160.53:8089/crc101/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Recent | National Champions Cup [11 Aug 03:30 PM]", National Champions Cup (TAPMAD)
