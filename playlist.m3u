@@ -1,20 +1,20 @@
 #EXTM3U
-# Updated: 2026-08-13 12:28:30
+# Updated: 2026-08-13 14:02:40
 # Total Channels: 9
 
 #EXTINF:-1 tvg-logo="" group-title="Recent | National Champions Cup [11 Aug 03:30 PM]", National Champions Cup (SK LIVE)
 http://162.251.160.53:8089/crc101/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Recent | National Champions Cup [11 Aug 03:30 PM]", National Champions Cup (TAPMAD)
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | Australia vs Bangladesh [13 Aug 06:00 AM]", Australia vs Bangladesh (WILLOW )
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | Australia vs Bangladesh [14 Aug 06:00 AM]", Australia vs Bangladesh (WILLOW )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c476ca9f8aefdae6cb0d420f4004a4d:cf88a53fadee1f756c5aba2e45928546
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rxcjfnbuxt/out/v1/241044fb0e6c415192410432c2c825d0/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | Australia vs Bangladesh [13 Aug 06:00 AM]", Australia vs Bangladesh (SKY NZ)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | Australia vs Bangladesh [14 Aug 06:00 AM]", Australia vs Bangladesh (SKY NZ)
 https://latestmovies.net/api/live/playlist/590?.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | Australia vs Bangladesh [13 Aug 06:00 AM]", Australia vs Bangladesh (SUPER SPORTS)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | Australia vs Bangladesh [14 Aug 06:00 AM]", Australia vs Bangladesh (SUPER SPORTS)
 https://messi.damitv.st/papi/tv/dlhd/412/playlist.m3u8?tk=mJl-YNDzLW0QWDB6GuvaAQ&e=1786643457|referer=https://ondemand.st/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | Australia vs Bangladesh [13 Aug 06:00 AM]", Australia vs Bangladesh (S CRICKET)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | Australia vs Bangladesh [14 Aug 06:00 AM]", Australia vs Bangladesh (S CRICKET)
 https://messi.damitv.st/papi/tv/dlhd/368/playlist.m3u8?tk=Id67B-ubwwjV42wp-agMZg&e=1786643741|referer=https://ondemand.st/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="🔴 Live | Scotland vs Canada [13 Aug 03:30 PM]", Scotland vs Canada (SK LIVE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
