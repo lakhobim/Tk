@@ -1,16 +1,16 @@
 #EXTM3U
-# Updated: 2026-08-14 08:06:48
+# Updated: 2026-08-14 09:20:50
 # Total Channels: 9
 
 #EXTINF:-1 tvg-logo="" group-title="Recent | National Champions Cup [11 Aug 03:30 PM]", National Champions Cup (SK LIVE)
 http://162.251.160.53:8089/crc101/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Recent | National Champions Cup [11 Aug 03:30 PM]", National Champions Cup (TAPMAD)
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | Australia vs Bangladesh [14 Aug 06:00 AM]", Australia vs Bangladesh (WILLOW )
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | Australia vs Bangladesh [14 Aug 06:00 AM]", Australia vs Bangladesh (WILLOW )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39940cfcd0fe9b262d3cf16a58cc23cf:790f0f14a81197fb17f31518cc23992e
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8pgf2bl9ys/out/v1/52ec2605c0cd4a34b57b44d47be7ea9f/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | Australia vs Bangladesh [14 Aug 06:00 AM]", Australia vs Bangladesh (SKY NZ)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | Australia vs Bangladesh [14 Aug 06:00 AM]", Australia vs Bangladesh (SKY NZ)
 https://latestmovies.net/api/live/playlist/591?.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Upcoming | Sunrisers Leeds Women vs Southern Brave Women [14 Aug 06:45 PM]", Sunrisers Leeds Women vs Southern Brave Women (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
