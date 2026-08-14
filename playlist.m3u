@@ -1,24 +1,26 @@
 #EXTM3U
-# Updated: 2026-08-13 18:07:00
-# Total Channels: 8
+# Updated: 2026-08-14 05:22:44
+# Total Channels: 9
 
 #EXTINF:-1 tvg-logo="" group-title="Recent | National Champions Cup [11 Aug 03:30 PM]", National Champions Cup (SK LIVE)
 http://162.251.160.53:8089/crc101/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Recent | National Champions Cup [11 Aug 03:30 PM]", National Champions Cup (TAPMAD)
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | Australia vs Bangladesh [14 Aug 06:00 AM]", Australia vs Bangladesh (WILLOW )
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | Australia vs Bangladesh [14 Aug 06:00 AM]", Australia vs Bangladesh (WILLOW )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c476ca9f8aefdae6cb0d420f4004a4d:cf88a53fadee1f756c5aba2e45928546
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rxcjfnbuxt/out/v1/241044fb0e6c415192410432c2c825d0/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | Australia vs Bangladesh [14 Aug 06:00 AM]", Australia vs Bangladesh (SKY NZ)
-https://latestmovies.net/api/live/playlist/590?.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | Australia vs Bangladesh [14 Aug 06:00 AM]", Australia vs Bangladesh (SUPER SPORTS)
-https://messi.damitv.st/papi/tv/dlhd/412/playlist.m3u8?tk=mJl-YNDzLW0QWDB6GuvaAQ&e=1786643457|referer=https://ondemand.st/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | Australia vs Bangladesh [14 Aug 06:00 AM]", Australia vs Bangladesh (S CRICKET)
-https://messi.damitv.st/papi/tv/dlhd/368/playlist.m3u8?tk=Id67B-ubwwjV42wp-agMZg&e=1786643741|referer=https://ondemand.st/
+#KODIPROP:inputstream.adaptive.license_key=39940cfcd0fe9b262d3cf16a58cc23cf:790f0f14a81197fb17f31518cc23992e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8pgf2bl9ys/out/v1/52ec2605c0cd4a34b57b44d47be7ea9f/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | Australia vs Bangladesh [14 Aug 06:00 AM]", Australia vs Bangladesh (SKY NZ)
+https://latestmovies.net/api/live/playlist/591?.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/16717/image/dark" group-title="Upcoming | Sunrisers Leeds Women vs Southern Brave Women [14 Aug 06:45 PM]", Sunrisers Leeds Women vs Southern Brave Women (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Upcoming | CPL [14 Aug 05:30 AM]", CPL (SK LIVE)
+#EXTINF:-1 tvg-logo="" group-title="Upcoming | CPL [15 Aug 04:30 AM]", CPL (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="Upcoming | CPL [15 Aug 04:30 AM]", CPL (SKY NZ)
+https://tmaxapp.site/8wirwjs76erftg/skysport2nzf5az.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | Sri Lanka vs India [15 Aug 10:00 AM]", Sri Lanka vs India (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Upcoming | Ireland vs Afghanistan [15 Aug 03:15 PM]", Ireland vs Afghanistan (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
