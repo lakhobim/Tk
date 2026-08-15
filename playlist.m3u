@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2026-08-15 12:14:03
+# Updated: 2026-08-15 12:59:10
 # Total Channels: 16
 
 #EXTINF:-1 tvg-logo="" group-title="Recent | National Champions Cup [11 Aug 03:30 PM]", National Champions Cup (TAMASH 🇵🇰)
@@ -12,35 +12,35 @@ https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ze0xmkhfw8/out/v1/a36a54f3b43149f7885048f3465ea115/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | Australia vs Bangladesh [15 Aug 06:00 AM]", Australia vs Bangladesh (SKY NZ)
 https://latestmovies.net/api/live/playlist/592?.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Recent | CPL [15 Aug 04:30 AM]", CPL (WILLOW ADFREE)
+#EXTINF:-1 tvg-logo="" group-title="Upcoming | CPL [16 Aug 05:30 AM]", CPL (WILLOW ADFREE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=33ce9afd805f457505a17f55f9ca05d7:de955182ae936058856b9b5d6c6a1bf8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o3tljkfiq3/out/v1/422a03cdae134adf9b91a664b2bca2bb/cenc.mpd
-#EXTINF:-1 tvg-logo="" group-title="Recent | CPL [15 Aug 04:30 AM]", CPL (TNT SPORTS)
+#EXTINF:-1 tvg-logo="" group-title="Upcoming | CPL [16 Aug 05:30 AM]", CPL (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="" group-title="Recent | CPL [15 Aug 04:30 AM]", CPL (SKY NZ)
+#EXTINF:-1 tvg-logo="" group-title="Upcoming | CPL [16 Aug 05:30 AM]", CPL (SKY NZ)
 https://tmaxapp.site/8wirwjs76erftg/skysport2nzf5az.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | Sri Lanka vs India [15 Aug 10:00 AM]", Sri Lanka vs India (HINDI 🇮🇳)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | Sri Lanka vs India [15 Aug 10:00 AM]", Sri Lanka vs India (HINDI 🇮🇳)
 https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1508/HIN/std_lrh-800300010.m3u8?hdnea=exp=1786807765~acl=/*~id=58751610233779207942712244614493~hmac=40ab0540bbf3d5821ecc5e86919e5da89fe012f9631f73818787680500042765|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | Sri Lanka vs India [15 Aug 10:00 AM]", Sri Lanka vs India (ENGLISH 🇮🇳)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | Sri Lanka vs India [15 Aug 10:00 AM]", Sri Lanka vs India (ENGLISH 🇮🇳)
 https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786807765~acl=/*~id=58751610233779207942712244614493~hmac=40ab0540bbf3d5821ecc5e86919e5da89fe012f9631f73818787680500042765|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | Sri Lanka vs India [15 Aug 10:00 AM]", Sri Lanka vs India (TNT SPORTS )
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | Sri Lanka vs India [15 Aug 10:00 AM]", Sri Lanka vs India (TNT SPORTS )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | Sri Lanka vs India [15 Aug 10:00 AM]", Sri Lanka vs India (WILLOW ADFREE )
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | Sri Lanka vs India [15 Aug 10:00 AM]", Sri Lanka vs India (WILLOW ADFREE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=97a5513689d3b2f6a4e31bfedb2ea2d6:19ba11eba39303ebd05986d92d974a02
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vsbkktsjpw/out/v1/a73da2deccb14219939a675c0b3d99cf/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | Sri Lanka vs India [15 Aug 10:00 AM]", Sri Lanka vs India (TAPMAD )
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | Sri Lanka vs India [15 Aug 10:00 AM]", Sri Lanka vs India (TAPMAD )
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | Sri Lanka vs India [15 Aug 10:00 AM]", Sri Lanka vs India (TAMIL 🇮🇳)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | Sri Lanka vs India [15 Aug 10:00 AM]", Sri Lanka vs India (TAMIL 🇮🇳)
 https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1508/TAM/std_lrh-800300010.m3u8?hdnea=exp=1786807765~acl=/*~id=58751610233779207942712244614493~hmac=40ab0540bbf3d5821ecc5e86919e5da89fe012f9631f73818787680500042765|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | Sri Lanka vs India [15 Aug 10:00 AM]", Sri Lanka vs India (TELUGU 🇮🇳)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | Sri Lanka vs India [15 Aug 10:00 AM]", Sri Lanka vs India (TELUGU 🇮🇳)
 https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1508/TEL/std_lrh-800300010.m3u8?hdnea=exp=1786807765~acl=/*~id=58751610233779207942712244614493~hmac=40ab0540bbf3d5821ecc5e86919e5da89fe012f9631f73818787680500042765|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | Sri Lanka vs India [15 Aug 10:00 AM]", Sri Lanka vs India (KANNADA 🇮🇳)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | Sri Lanka vs India [15 Aug 10:00 AM]", Sri Lanka vs India (KANNADA 🇮🇳)
 https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1508/KAN/std_lrh-800300010.m3u8?hdnea=exp=1786807765~acl=/*~id=58751610233779207942712244614493~hmac=40ab0540bbf3d5821ecc5e86919e5da89fe012f9631f73818787680500042765|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="🔴 Live | Ireland vs Afghanistan [15 Aug 03:15 PM]", Ireland vs Afghanistan (SK LIVE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
