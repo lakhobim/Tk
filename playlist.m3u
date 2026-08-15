@@ -1,16 +1,16 @@
 #EXTM3U
-# Updated: 2026-08-15 08:14:33
+# Updated: 2026-08-15 08:45:14
 # Total Channels: 16
 
 #EXTINF:-1 tvg-logo="" group-title="Recent | National Champions Cup [11 Aug 03:30 PM]", National Champions Cup (TAMASH 🇵🇰)
 https://cdn05khi-n.tamashaweb.com:8087/jazzauth/NCC-2026-abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Recent | National Champions Cup [11 Aug 03:30 PM]", National Champions Cup (TAPMAD 🇵🇰)
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | Australia vs Bangladesh [15 Aug 06:00 AM]", Australia vs Bangladesh (WILLOW )
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | Australia vs Bangladesh [15 Aug 06:00 AM]", Australia vs Bangladesh (WILLOW )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0150a56b1be7ec9071169fd5bffc237:3f949ad399e6a732e57d9100cc79317e
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ze0xmkhfw8/out/v1/a36a54f3b43149f7885048f3465ea115/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | Australia vs Bangladesh [15 Aug 06:00 AM]", Australia vs Bangladesh (SKY NZ)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | Australia vs Bangladesh [15 Aug 06:00 AM]", Australia vs Bangladesh (SKY NZ)
 https://latestmovies.net/api/live/playlist/592?.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Recent | CPL [15 Aug 04:30 AM]", CPL (WILLOW ADFREE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
