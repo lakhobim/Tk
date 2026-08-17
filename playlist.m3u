@@ -1,6 +1,6 @@
 #EXTM3U
-# Updated: 2026-08-17 13:52:55
-# Total Channels: 15
+# Updated: 2026-08-17 14:15:56
+# Total Channels: 14
 
 #EXTINF:-1 tvg-logo="" group-title="Recent | National Champions Cup [11 Aug 03:30 PM]", National Champions Cup (TAMASH 🇵🇰)
 https://cdn05khi-n.tamashaweb.com:8087/jazzauth/NCC-2026-abr/playlist.m3u8
@@ -38,7 +38,3 @@ https://dai.google.com/ssai/event/gCbFB2FiSbO9XPsh832aaw/master.m3u8
 https://dai.google.com/ssai/event/klT2-_bHQdKcDjmRMQzpwg/master.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | Sri Lanka vs India [17 Aug 09:45 AM]", Sri Lanka vs India (KANNADA 🇮🇳)
 https://dai.google.com/ssai/event/t2rqeJPuSQuYLwlNYZPhpw/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/23342/image/dark" group-title="🔴 Live | Hong Kong C. vs Italy [17 Aug 11:30 AM]", Hong Kong C. vs Italy (SK LIVE)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1786976300~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=1d6c2e23-eed9-449d-bbc6-2e9d7bcd4392~data=hdntl~hmac=d56ded12976b6af9d3067bd09ac8fb05bbd7f3fdf15ae37f50d2411bd887d081/manifest.mpd|Referer=https://www.icc-cricket.com/&Origin=https://www.icc-cricket.com&User-Agent=Mozilla/5.0 (Linux; Android 13; M2012K11AI) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7103.125 Mobile Safari/537.36
