@@ -1,6 +1,6 @@
 #EXTM3U
-# Updated: 2026-08-19 11:40:55
-# Total Channels: 20
+# Updated: 2026-08-19 12:19:58
+# Total Channels: 21
 
 #EXTINF:-1 tvg-logo="" group-title="Recent | National Champions Cup [11 Aug 03:30 PM]", National Champions Cup (TAMASH 🇵🇰)
 https://cdn05khi-n.tamashaweb.com:8087/jazzauth/NCC-2026-abr/playlist.m3u8
@@ -44,6 +44,8 @@ https://cdn01isb-n.tamashaweb.com:8087/jazzauth/PAKvsEng-Test-abr/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bbbbf36eb1942bfa4154a54252dad7b5:f6d1b5529c367871a43d846a7d23f5cb
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3amgoohuyk/out/v1/2593db7b5e144e73862c1a6f7460abaa/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | England vs Pakistan [19 Aug 03:30 PM]", England vs Pakistan (SKY CRICKET)
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | England vs Pakistan [19 Aug 03:30 PM]", England vs Pakistan (TAPMAD)
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | England vs Pakistan [19 Aug 03:30 PM]", England vs Pakistan (SONYLIV)
