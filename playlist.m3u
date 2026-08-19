@@ -1,6 +1,6 @@
 #EXTM3U
-# Updated: 2026-08-19 11:14:03
-# Total Channels: 22
+# Updated: 2026-08-19 11:40:55
+# Total Channels: 20
 
 #EXTINF:-1 tvg-logo="" group-title="Recent | National Champions Cup [11 Aug 03:30 PM]", National Champions Cup (TAMASH 🇵🇰)
 https://cdn05khi-n.tamashaweb.com:8087/jazzauth/NCC-2026-abr/playlist.m3u8
@@ -38,21 +38,17 @@ https://dai.google.com/ssai/event/gCbFB2FiSbO9XPsh832aaw/master.m3u8
 https://dai.google.com/ssai/event/klT2-_bHQdKcDjmRMQzpwg/master.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | Sri Lanka vs India [18 Aug 10:00 AM]", Sri Lanka vs India (KANNADA 🇮🇳)
 https://dai.google.com/ssai/event/t2rqeJPuSQuYLwlNYZPhpw/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | England vs Pakistan [19 Aug 03:30 PM]", England vs Pakistan (TAMASHA)
+https://cdn01isb-n.tamashaweb.com:8087/jazzauth/PAKvsEng-Test-abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | England vs Pakistan [19 Aug 03:30 PM]", England vs Pakistan (WILLOW)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bbbbf36eb1942bfa4154a54252dad7b5:f6d1b5529c367871a43d846a7d23f5cb
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3amgoohuyk/out/v1/2593db7b5e144e73862c1a6f7460abaa/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | England vs Pakistan [19 Aug 03:30 PM]", England vs Pakistan (ASTRO CRICKET HD)
-https://messi.damitv.st/papi/tv/dlhd/370/playlist.m3u8?tk=WVf-ZHlIWr4UDb0OzfTC4Q&e=1787175785|referer=https://ondemand.st/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | England vs Pakistan [19 Aug 03:30 PM]", England vs Pakistan (TEN SPORTS PK HD)
-https://messi.damitv.st/papi/tv/dlhd/741/playlist.m3u8?tk=nyUCQsupj7sgmQwX36WKyQ&e=1787175863|referer=https://ondemand.st/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | England vs Pakistan [19 Aug 03:30 PM]", England vs Pakistan (SKY CRICKET HD)
-https://messi.damitv.st/papi/tv/dlhd/65/playlist.m3u8?tk=3WsVnkFqaUrIQ4DaheC53g&e=1787175978|referer=https://ondemand.st/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | England vs Pakistan [19 Aug 03:30 PM]", England vs Pakistan (TAPMAD)
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | England vs Pakistan [19 Aug 03:30 PM]", England vs Pakistan (SONYLIV)
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000376/criclive1908/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=b043eacd29e24116a4f97e19d5db6fdc-1787131803231
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | England vs Pakistan [19 Aug 03:30 PM]", England vs Pakistan (PTV SPORTS )
 https://live.incableinternet.com/ptv-sports/720p.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | England vs Pakistan [19 Aug 03:30 PM]", England vs Pakistan (TEN SPORTS HD)
-https://messi.damitv.st/papi/tv/dlhd/450/playlist.m3u8?tk=QtfSKrZYd_eZB_pcFbclgQ&e=1787175926|referer=https://ondemand.st/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | England vs Pakistan [19 Aug 03:30 PM]", England vs Pakistan (WILLOW 2 HD)
-https://messi.damitv.st/papi/tv/dlhd/598/playlist.m3u8?tk=I6H6QNJcATqhrHo4-_nBfA&e=1787175673|referer=https://ondemand.st/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | Australia vs Bangladesh [22 Aug 05:30 AM]", Australia vs Bangladesh (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
