@@ -1,6 +1,6 @@
 #EXTM3U
-# Updated: 2026-08-19 10:00:45
-# Total Channels: 21
+# Updated: 2026-08-19 10:46:18
+# Total Channels: 22
 
 #EXTINF:-1 tvg-logo="" group-title="Recent | National Champions Cup [11 Aug 03:30 PM]", National Champions Cup (TAMASH 🇵🇰)
 https://cdn05khi-n.tamashaweb.com:8087/jazzauth/NCC-2026-abr/playlist.m3u8
@@ -54,3 +54,5 @@ https://live.incableinternet.com/ptv-sports/720p.m3u8
 https://messi.damitv.st/papi/tv/dlhd/450/playlist.m3u8?tk=QtfSKrZYd_eZB_pcFbclgQ&e=1787175926|referer=https://ondemand.st/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | England vs Pakistan [19 Aug 03:30 PM]", England vs Pakistan (WILLOW 2 HD)
 https://messi.damitv.st/papi/tv/dlhd/598/playlist.m3u8?tk=I6H6QNJcATqhrHo4-_nBfA&e=1787175673|referer=https://ondemand.st/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | Australia vs Bangladesh [22 Aug 05:30 AM]", Australia vs Bangladesh (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
