@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2026-08-21 11:42:49
+# Updated: 2026-08-21 12:21:34
 # Total Channels: 21
 
 #EXTINF:-1 tvg-logo="" group-title="Recent | National Champions Cup [11 Aug 03:30 PM]", National Champions Cup (TAMASH 🇵🇰)
@@ -47,7 +47,7 @@ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ui
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | England vs Pakistan [21 Aug 03:30 PM]", England vs Pakistan (TAPMAD)
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | England vs Pakistan [21 Aug 03:30 PM]", England vs Pakistan (SONYLIV)
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000376/criclive1908/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=b043eacd29e24116a4f97e19d5db6fdc-1787131803231
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000296/England_2108/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=34b56bf18c930ec829ab54053414be70-1787304603542
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | England vs Pakistan [21 Aug 03:30 PM]", England vs Pakistan (PTV SPORTS )
 https://live.incableinternet.com/ptv-sports/720p.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | Australia vs Bangladesh [22 Aug 05:30 AM]", Australia vs Bangladesh (SK LIVE)
