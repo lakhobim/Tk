@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2026-08-21 10:03:05
+# Updated: 2026-08-21 10:47:56
 # Total Channels: 21
 
 #EXTINF:-1 tvg-logo="" group-title="Recent | National Champions Cup [11 Aug 03:30 PM]", National Champions Cup (TAMASH 🇵🇰)
@@ -38,8 +38,8 @@ https://dai.google.com/ssai/event/klT2-_bHQdKcDjmRMQzpwg/master.m3u8
 https://dai.google.com/ssai/event/t2rqeJPuSQuYLwlNYZPhpw/master.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | England vs Pakistan [21 Aug 03:30 PM]", England vs Pakistan (WILLOW ADFREE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d99fdaca6d45a2a1e882cf6d9e6d874:fb7579beeb6e29d1bec76bcd1dc68c5d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/koc8anrj2t/out/v1/6333afb5e11340338ab382a3891ffcd9/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=29d072b25f76b3780e17d9b234023ebd:e4fff1626205ed70ed25e551044afeb8
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mv2a4a16dt/out/v1/15437c63a814419182f1dfde499357f2/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | England vs Pakistan [21 Aug 03:30 PM]", England vs Pakistan (TAMASHA)
 https://cdn01isb-n.tamashaweb.com:8087/jazzauth/PAKvsEng-Test-abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | England vs Pakistan [21 Aug 03:30 PM]", England vs Pakistan (SKY CRICKET)
