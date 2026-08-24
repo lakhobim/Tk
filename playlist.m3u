@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2026-08-24 06:05:47
+# Updated: 2026-08-24 07:28:48
 # Total Channels: 17
 
 #EXTINF:-1 tvg-logo="" group-title="Recent | CPL [23 Aug 04:30 AM]", CPL (TNT SPORTS)
@@ -30,8 +30,8 @@ https://otte.cache.aiv-cdn.net/bom-nitro/enc/wm7nvzuo81/out/v1/4be515e8c9c3450c9
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/&Origin=https://www.tapmad.com
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | Sri Lanka vs India [24 Aug 10:00 AM]", Sri Lanka vs India (TNT SPORTS )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | Sri Lanka vs India [24 Aug 10:00 AM]", Sri Lanka vs India (WILLOW ADFREE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f56f327399f2a6f58a875c57fee77f6:a8ba4ecc2bf32075e4d5509b8abc6c12
