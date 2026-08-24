@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2026-08-24 10:56:00
+# Updated: 2026-08-24 11:17:54
 # Total Channels: 17
 
 #EXTINF:-1 tvg-logo="" group-title="Recent | CPL [23 Aug 04:30 AM]", CPL (TNT SPORTS)
@@ -8,19 +8,19 @@
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="" group-title="Recent | CPL [23 Aug 04:30 AM]", CPL (TAPMAD)
 https://cpl-tap.kamrukhanchy.workers.dev/&.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | England vs Pakistan [21 Aug 03:30 PM]", England vs Pakistan (WILLOW ADFREE )
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | England vs Pakistan [27 Aug 03:30 PM]", England vs Pakistan (WILLOW ADFREE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=29d072b25f76b3780e17d9b234023ebd:e4fff1626205ed70ed25e551044afeb8
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mv2a4a16dt/out/v1/15437c63a814419182f1dfde499357f2/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | England vs Pakistan [21 Aug 03:30 PM]", England vs Pakistan (TAMASHA)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | England vs Pakistan [27 Aug 03:30 PM]", England vs Pakistan (TAMASHA)
 https://cdn01isb-n.tamashaweb.com:8087/jazzauth/PAKvsEng-Test-abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | England vs Pakistan [21 Aug 03:30 PM]", England vs Pakistan (SKY CRICKET)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | England vs Pakistan [27 Aug 03:30 PM]", England vs Pakistan (SKY CRICKET)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | England vs Pakistan [21 Aug 03:30 PM]", England vs Pakistan (TAPMAD)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | England vs Pakistan [27 Aug 03:30 PM]", England vs Pakistan (TAPMAD)
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | England vs Pakistan [21 Aug 03:30 PM]", England vs Pakistan (SONYLIV)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | England vs Pakistan [27 Aug 03:30 PM]", England vs Pakistan (SONYLIV)
 https://sonymtmnew-akamaized.pages.dev/hls/live/20000296/England_2108/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=34b56bf18c930ec829ab54053414be70-1787304603542
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | England vs Pakistan [21 Aug 03:30 PM]", England vs Pakistan (PTV SPORTS )
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | England vs Pakistan [27 Aug 03:30 PM]", England vs Pakistan (PTV SPORTS )
 https://live.incableinternet.com/ptv-sports/720p.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | Australia vs Bangladesh [23 Aug 05:30 AM]", Australia vs Bangladesh (WILLOW ADFREE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
