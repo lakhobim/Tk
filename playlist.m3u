@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2026-08-26 05:07:30
+# Updated: 2026-08-26 05:50:12
 # Total Channels: 18
 
 #EXTINF:-1 tvg-logo="" group-title="🔴 Live | CPL [26 Aug 04:30 AM]", CPL (TNT SPORTS)
@@ -37,16 +37,16 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1
 #KODIPROP:inputstream.adaptive.license_key=0a50b3d757cc9e068d2cf40c4d8ac0be:84cb83e63052f5687d43cacec0d26321
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uco516bnrm/out/v1/18af9eadf25d4479b5b3238fed0b27d4/cenc.mpd
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | Sri Lanka vs India [26 Aug 09:45 AM]", Sri Lanka vs India (HINDI 🇮🇳)
-https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi2508/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c237a77ee4b4fce133a23b1d7aa50165-1787627403252
+https://sonymtmnew.akamaized.net/hls/live/2105080/cricodi2608/HIN/master.m3u8?hdnea=exp=1787753425~acl=/*~id=c8f6b0c27724ba2e4512ac1c9bf31216-1787710200527~hmac=45602be99e2cd7a6212292a48cfe1daebb77153388b6340e7a1437bc35ed601a|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=105ae075c0042c73d524990a9a718421-1787715250793
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | Sri Lanka vs India [26 Aug 09:45 AM]", Sri Lanka vs India (ENGLISH 🇮🇳)
-https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi2508/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c237a77ee4b4fce133a23b1d7aa50165-1787627403252
+https://sonymtmnew.akamaized.net/hls/live/2043696/cricodi2608/ENG/master.m3u8?hdnea=exp=1787753425~acl=/*~id=c8f6b0c27724ba2e4512ac1c9bf31216-1787710200527~hmac=45602be99e2cd7a6212292a48cfe1daebb77153388b6340e7a1437bc35ed601a|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=105ae075c0042c73d524990a9a718421-1787715250793
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | Sri Lanka vs India [26 Aug 09:45 AM]", Sri Lanka vs India (TELUGU 🇮🇳)
-https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi2508/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c237a77ee4b4fce133a23b1d7aa50165-1787627403252
+https://sonymtmnew.akamaized.net/hls/live/2105079/cricodi2608/TEL/master.m3u8?hdnea=exp=1787753425~acl=/*~id=c8f6b0c27724ba2e4512ac1c9bf31216-1787710200527~hmac=45602be99e2cd7a6212292a48cfe1daebb77153388b6340e7a1437bc35ed601a|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=105ae075c0042c73d524990a9a718421-1787715250793
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | Sri Lanka vs India [26 Aug 09:45 AM]", Sri Lanka vs India (TAMIL 🇮🇳)
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/cricodi2508/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c237a77ee4b4fce133a23b1d7aa50165-1787627403252
-#EXTINF:-1 tvg-logo="" group-title="Recent | TOP END T20 [25 Aug 10:30 AM]", TOP END T20 (WILLOW)
+https://sonymtmnew.akamaized.net/hls/live/2094590/cricodi2608/TAM/master.m3u8?hdnea=exp=1787753425~acl=/*~id=c8f6b0c27724ba2e4512ac1c9bf31216-1787710200527~hmac=45602be99e2cd7a6212292a48cfe1daebb77153388b6340e7a1437bc35ed601a|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=105ae075c0042c73d524990a9a718421-1787715250793
+#EXTINF:-1 tvg-logo="" group-title="🔴 Live | TOP END T20 [26 Aug 10:30 AM]", TOP END T20 (WILLOW)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b3135d0a72c3ea3170425888a64bc272:e0d6515b5400358ef79a4637ac2f8671
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/i62ybobyvi/out/v1/3484fdc786484db59cb3b9c0f76e9688/cenc.mpd
-#EXTINF:-1 tvg-logo="" group-title="Recent | TOP END T20 [25 Aug 10:30 AM]", TOP END T20 (FANCODE 🇮🇳)
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 tvg-logo="" group-title="🔴 Live | TOP END T20 [26 Aug 10:30 AM]", TOP END T20 (FANCODE 🇮🇳)
 https://dai-fancode.pages.dev/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
