@@ -1,6 +1,6 @@
 #EXTM3U
-# Updated: 2026-08-26 12:24:51
-# Total Channels: 19
+# Updated: 2026-08-26 13:36:11
+# Total Channels: 22
 
 #EXTINF:-1 tvg-logo="" group-title="Upcoming | CPL [27 Aug 04:30 AM]", CPL (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -44,13 +44,23 @@ https://sonymtmnew.akamaized.net/hls/live/2043696/cricodi2608/ENG/master.m3u8?hd
 https://sonymtmnew.akamaized.net/hls/live/2105079/cricodi2608/TEL/master.m3u8?hdnea=exp=1787753425~acl=/*~id=c8f6b0c27724ba2e4512ac1c9bf31216-1787710200527~hmac=45602be99e2cd7a6212292a48cfe1daebb77153388b6340e7a1437bc35ed601a|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=105ae075c0042c73d524990a9a718421-1787715250793
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | Sri Lanka vs India [27 Aug 09:45 AM]", Sri Lanka vs India (TAMIL 🇮🇳)
 https://sonymtmnew.akamaized.net/hls/live/2094590/cricodi2608/TAM/master.m3u8?hdnea=exp=1787753425~acl=/*~id=c8f6b0c27724ba2e4512ac1c9bf31216-1787710200527~hmac=45602be99e2cd7a6212292a48cfe1daebb77153388b6340e7a1437bc35ed601a|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=105ae075c0042c73d524990a9a718421-1787715250793
-#EXTINF:-1 tvg-logo="" group-title="🔴 Live | TOP END T20 [26 Aug 10:30 AM]", TOP END T20 (WILLOW SPORTS)
+#EXTINF:-1 tvg-logo="" group-title="Recent | TOP END T20 [26 Aug 10:30 AM]", TOP END T20 (WILLOW SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-logo="" group-title="🔴 Live | TOP END T20 [26 Aug 10:30 AM]", TOP END T20 (WILLOW)
+#KODIPROP:inputstream.adaptive.license_key=d71892cc919d77335b73d1e5861d1f84:9d11c1065a6b99dbcfbd981ddf4a12d1
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tp4gtrjgyz/out/v1/3dce53aae026463d9f18251a046ef2c4/cenc.mpd
+#EXTINF:-1 tvg-logo="" group-title="Recent | TOP END T20 [26 Aug 10:30 AM]", TOP END T20 (WILLOW)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5e05176f9bbc9a3e05dcae9046059df1:cb913ff6959971a81e60d0438aaa6590
 https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tbeumofljq/out/v1/903ec09cb3a94af58e0b7d3e167d9c10/cenc.mpd
-#EXTINF:-1 tvg-logo="" group-title="🔴 Live | TOP END T20 [26 Aug 10:30 AM]", TOP END T20 (MYCO)
+#EXTINF:-1 tvg-logo="" group-title="Recent | TOP END T20 [26 Aug 10:30 AM]", TOP END T20 (MYCO)
 https://ml-pull-hwc.myco.io/PTPL2025/hls/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🔴 Live | EUROPEAN T20 [26 Aug 06:45 PM]", EUROPEAN T20 (TNT SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="🔴 Live | EUROPEAN T20 [26 Aug 06:45 PM]", EUROPEAN T20 (WILLOW)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b219ceefaace66c8e3373c741bcc05aa:f7ca0a04d4d697f36d7444fae029c097
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/st9ogvodch/out/v1/ee8a9f8060e845f497cd83bb229a32fb/cenc.mpd
+#EXTINF:-1 tvg-logo="" group-title="🔴 Live | EUROPEAN T20 [26 Aug 06:45 PM]", EUROPEAN T20 (TAPMAD)
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/
