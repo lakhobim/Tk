@@ -1,6 +1,6 @@
 #EXTM3U
-# Updated: 2026-08-26 05:50:12
-# Total Channels: 18
+# Updated: 2026-08-26 06:26:11
+# Total Channels: 19
 
 #EXTINF:-1 tvg-logo="" group-title="🔴 Live | CPL [26 Aug 04:30 AM]", CPL (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -44,9 +44,13 @@ https://sonymtmnew.akamaized.net/hls/live/2043696/cricodi2608/ENG/master.m3u8?hd
 https://sonymtmnew.akamaized.net/hls/live/2105079/cricodi2608/TEL/master.m3u8?hdnea=exp=1787753425~acl=/*~id=c8f6b0c27724ba2e4512ac1c9bf31216-1787710200527~hmac=45602be99e2cd7a6212292a48cfe1daebb77153388b6340e7a1437bc35ed601a|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=105ae075c0042c73d524990a9a718421-1787715250793
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | Sri Lanka vs India [26 Aug 09:45 AM]", Sri Lanka vs India (TAMIL 🇮🇳)
 https://sonymtmnew.akamaized.net/hls/live/2094590/cricodi2608/TAM/master.m3u8?hdnea=exp=1787753425~acl=/*~id=c8f6b0c27724ba2e4512ac1c9bf31216-1787710200527~hmac=45602be99e2cd7a6212292a48cfe1daebb77153388b6340e7a1437bc35ed601a|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=105ae075c0042c73d524990a9a718421-1787715250793
-#EXTINF:-1 tvg-logo="" group-title="🔴 Live | TOP END T20 [26 Aug 10:30 AM]", TOP END T20 (WILLOW)
+#EXTINF:-1 tvg-logo="" group-title="🔴 Live | TOP END T20 [26 Aug 10:30 AM]", TOP END T20 (WILLOW SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-logo="" group-title="🔴 Live | TOP END T20 [26 Aug 10:30 AM]", TOP END T20 (FANCODE 🇮🇳)
-https://dai-fancode.pages.dev/mumbai/4248440_english_hls_fddf53e1c144358_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-logo="" group-title="🔴 Live | TOP END T20 [26 Aug 10:30 AM]", TOP END T20 (WILLOW)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e05176f9bbc9a3e05dcae9046059df1:cb913ff6959971a81e60d0438aaa6590
+https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tbeumofljq/out/v1/903ec09cb3a94af58e0b7d3e167d9c10/cenc.mpd
+#EXTINF:-1 tvg-logo="" group-title="🔴 Live | TOP END T20 [26 Aug 10:30 AM]", TOP END T20 (MYCO)
+https://ml-pull-hwc.myco.io/PTPL2025/hls/index.m3u8
