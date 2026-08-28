@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2026-08-27 14:50:22
+# Updated: 2026-08-28 00:08:24
 # Total Channels: 20
 
 #EXTINF:-1 tvg-logo="" group-title="Recent | CPL [27 Aug 04:30 AM]", CPL (TNT SPORTS)
@@ -8,17 +8,17 @@
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="" group-title="Recent | CPL [27 Aug 04:30 AM]", CPL (TAPMAD)
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8?|referer=https://tapmad.com
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | England vs Pakistan [27 Aug 03:30 PM]", England vs Pakistan (WILLOW ADFREE )
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | England vs Pakistan [27 Aug 03:30 PM]", England vs Pakistan (WILLOW ADFREE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b3104b62743843561a440babd015d34:c4401f6ccc1d262a1fbcf5b449dbc2e1
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4s0wwwegjd/out/v1/4bfbc194e61d4c5eb9cc29843938d018/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | England vs Pakistan [27 Aug 03:30 PM]", England vs Pakistan (SONYLIV 🇮🇳)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | England vs Pakistan [27 Aug 03:30 PM]", England vs Pakistan (SONYLIV 🇮🇳)
 https://dai.google.com/ssai/event/crsp3JRrRlSvHEUFEn4FPA/master.m3u8?hdnea=exp=1787862284~acl=/*~id=6ce0645ec29f4196f29013307dce4e98-1787818250680~hmac=a25c849b56272b7628080066eb69b2d7c9343c43a53c968dcf3abfeebd3e8d27|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=0e6ec16b1d957465476bd8c1ff7a794c-1787824200717
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | England vs Pakistan [27 Aug 03:30 PM]", England vs Pakistan (SKY CRICKET)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | England vs Pakistan [27 Aug 03:30 PM]", England vs Pakistan (SKY CRICKET)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | England vs Pakistan [27 Aug 03:30 PM]", England vs Pakistan (TAPMAD)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | England vs Pakistan [27 Aug 03:30 PM]", England vs Pakistan (TAPMAD)
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | England vs Pakistan [27 Aug 03:30 PM]", England vs Pakistan (PTV SPORTS )
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | England vs Pakistan [27 Aug 03:30 PM]", England vs Pakistan (PTV SPORTS )
 https://live.incableinternet.com/ptv-sports/720p.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | Australia vs Bangladesh [23 Aug 05:30 AM]", Australia vs Bangladesh (WILLOW ADFREE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -50,13 +50,13 @@ https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bdpodaudgc
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-logo="" group-title="🔴 Live | EUROPEAN T20 [27 Aug 03:00 PM]", EUROPEAN T20 (WILLOW)
+#EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 [27 Aug 03:00 PM]", EUROPEAN T20 (WILLOW)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31704e972fdba30e90f065b9f3bdf56a:2191bff71a0360ba9b6ddde5fc4d0db6
 https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/wgymrgykex/out/v1/89def83a6ad546868c872cbbf06a7e18/cenc.mpd
-#EXTINF:-1 tvg-logo="" group-title="🔴 Live | EUROPEAN T20 [27 Aug 03:00 PM]", EUROPEAN T20 (TNT SPORTS)
+#EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 [27 Aug 03:00 PM]", EUROPEAN T20 (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="" group-title="🔴 Live | EUROPEAN T20 [27 Aug 03:00 PM]", EUROPEAN T20 (TAPMAD)
+#EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 [27 Aug 03:00 PM]", EUROPEAN T20 (TAPMAD)
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/
