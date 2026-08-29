@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2026-08-29 10:32:21
+# Updated: 2026-08-29 15:16:47
 # Total Channels: 22
 
 #EXTINF:-1 tvg-logo="" group-title="Upcoming | CPL [30 Aug 04:30 AM]", CPL (TNT SPORTS)
@@ -60,7 +60,9 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/61jrb85xgy/out/v1
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="" group-title="🔴 Live | EUROPEAN T20 [29 Aug 03:00 PM]", EUROPEAN T20 (TAPMAD)
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Upcoming | Sri Lanka Women vs United Arab Emirates Women [29 Aug 08:00 PM]", Sri Lanka Women vs United Arab Emirates Women (SK LIVE)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔴 Live | Sri Lanka Women vs United Arab Emirates Women [29 Aug 08:00 PM]", Sri Lanka Women vs United Arab Emirates Women (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/35293/image/dark" group-title="Upcoming | South Africa vs Zimbabwe [29 Aug 05:30 PM]", South Africa vs Zimbabwe (SK LIVE)
-https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/35293/image/dark" group-title="🔴 Live | South Africa vs Zimbabwe [29 Aug 05:30 PM]", South Africa vs Zimbabwe (FANCODE)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
