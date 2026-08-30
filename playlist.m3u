@@ -1,24 +1,24 @@
 #EXTM3U
-# Updated: 2026-08-29 18:33:30
-# Total Channels: 20
+# Updated: 2026-08-30 09:31:46
+# Total Channels: 22
 
-#EXTINF:-1 tvg-logo="" group-title="Upcoming | CPL [30 Aug 04:30 AM]", CPL (TNT SPORTS)
+#EXTINF:-1 tvg-logo="" group-title="Recent | CPL [30 Aug 04:30 AM]", CPL (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-#EXTINF:-1 tvg-logo="" group-title="Upcoming | CPL [30 Aug 04:30 AM]", CPL (TAPMAD)
+#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="Recent | CPL [30 Aug 04:30 AM]", CPL (TAPMAD)
 https://cpl-tap.kamrukhanchy.workers.dev/&.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | England vs Pakistan [29 Aug 03:30 PM]", England vs Pakistan (WILLOW ADFREE )
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | England vs Pakistan [30 Aug 03:30 PM]", England vs Pakistan (WILLOW ADFREE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bbbc154dd73f9ccee54dd1112458616:20322e913ab288675fc246c1158c8410
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b4ucq4oftf/out/v1/cd942b7b9a8d40d4af75866734dac72a/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | England vs Pakistan [29 Aug 03:30 PM]", England vs Pakistan (SONYLIV 🇮🇳)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | England vs Pakistan [30 Aug 03:30 PM]", England vs Pakistan (SONYLIV 🇮🇳)
 http://dai.google.com/ssai/event/jOHc0xjyQUWiTpMoswilcg/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | England vs Pakistan [29 Aug 03:30 PM]", England vs Pakistan (SKY CRICKET)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | England vs Pakistan [30 Aug 03:30 PM]", England vs Pakistan (SKY CRICKET)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | England vs Pakistan [29 Aug 03:30 PM]", England vs Pakistan (TAPMAD)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | England vs Pakistan [30 Aug 03:30 PM]", England vs Pakistan (TAPMAD)
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | England vs Pakistan [29 Aug 03:30 PM]", England vs Pakistan (PTV SPORTS )
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | England vs Pakistan [30 Aug 03:30 PM]", England vs Pakistan (PTV SPORTS )
 https://live.incableinternet.com/ptv-sports/720p.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | Australia vs Bangladesh [23 Aug 05:30 AM]", Australia vs Bangladesh (WILLOW ADFREE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -42,21 +42,25 @@ https://dai.google.com/ssai/event/DgeLzKxsSMuwfRa8znq4RQ/master.m3u8|User-Agent=
 https://sonymtmnew.akamaized.net/hls/live/2105079/cricodi2608/TEL/master.m3u8?hdnea=exp=1787753425~acl=/*~id=c8f6b0c27724ba2e4512ac1c9bf31216-1787710200527~hmac=45602be99e2cd7a6212292a48cfe1daebb77153388b6340e7a1437bc35ed601a|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=105ae075c0042c73d524990a9a718421-1787715250793
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | Sri Lanka vs India [27 Aug 09:45 AM]", Sri Lanka vs India (TAMIL 🇮🇳)
 https://sonymtmnew.akamaized.net/hls/live/2094590/cricodi2708/TAM/master.m3u8?hdnea=exp=1787837437~acl=/*~id=5eaafe32adfe3664cdf2f6cd2f24ab45-1787794205008~hmac=30e67cbe188b88b47bb24266936d2a808f6b7c525865dd99d30585267edc9215
-#EXTINF:-1 tvg-logo="" group-title="Recent | TOP END T20 [29 Aug 01:00 PM]", TOP END T20 (WILLOW SPORTS)
+#EXTINF:-1 tvg-logo="" group-title="🔴 Live | TOP END T20 [30 Aug 12:00 PM]", TOP END T20 (WILLOW SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-logo="" group-title="Recent | TOP END T20 [29 Aug 01:00 PM]", TOP END T20 (WILLOW)
+#EXTINF:-1 tvg-logo="" group-title="🔴 Live | TOP END T20 [30 Aug 12:00 PM]", TOP END T20 (WILLOW)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99e1d49c1d6fb66884e9d3a9a273cc1b:b5f5f8ce01b3a92a07272f90b3dcfd76
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nhdmhpvi3b/out/v1/bc705429eaf94036ab154f1981760316/cenc.mpd
-#EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 [29 Aug 03:00 PM]", EUROPEAN T20 (WILLOW)
+#EXTINF:-1 tvg-logo="" group-title="🔴 Live | EUROPEAN T20 [30 Aug 03:00 PM]", EUROPEAN T20 (WILLOW)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=29909175882bb66557e51b765266c822:920b51ab82b6b1250aba897885467ca3
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/61jrb85xgy/out/v1/8a9bccabdaa74994b954dc966a2c3daf/cenc.mpd
-#EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 [29 Aug 03:00 PM]", EUROPEAN T20 (TNT SPORTS)
+#KODIPROP:inputstream.adaptive.license_key=a6afd168c09734b602c18c4c6cb58e60:60a6851b08dc064f65be90aa4fd9688f
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/hvyahni0qz/out/v1/6430b1eff22041c890ecf7f4b92d724c/cenc.mpd
+#EXTINF:-1 tvg-logo="" group-title="🔴 Live | EUROPEAN T20 [30 Aug 03:00 PM]", EUROPEAN T20 (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 [29 Aug 03:00 PM]", EUROPEAN T20 (TAPMAD)
+#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="🔴 Live | EUROPEAN T20 [30 Aug 03:00 PM]", EUROPEAN T20 (TAPMAD)
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Upcoming | India Women vs Thailand Women [30 Aug 08:00 PM]", India Women vs Thailand Women (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/35293/image/dark" group-title="Upcoming | Namibia vs Zimbabwe [31 Aug 05:30 PM]", Namibia vs Zimbabwe (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
