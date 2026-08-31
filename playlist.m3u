@@ -1,12 +1,12 @@
 #EXTM3U
-# Updated: 2026-08-30 18:10:15
-# Total Channels: 26
+# Updated: 2026-08-31 10:11:49
+# Total Channels: 21
 
-#EXTINF:-1 tvg-logo="" group-title="Recent | CPL [30 Aug 04:30 AM]", CPL (TNT SPORTS)
+#EXTINF:-1 tvg-logo="" group-title="Recent | CPL [31 Aug 04:30 AM]", CPL (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="" group-title="Recent | CPL [30 Aug 04:30 AM]", CPL (TAPMAD)
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="Recent | CPL [31 Aug 04:30 AM]", CPL (TAPMAD)
 https://cpl-tap.kamrukhanchy.workers.dev/&.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | England vs Pakistan [30 Aug 03:30 PM]", England vs Pakistan (WILLOW ADFREE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -60,17 +60,5 @@ https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/hvyahni0qz/out/v1/6430
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 [30 Aug 03:00 PM]", EUROPEAN T20 (TAPMAD)
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔴 Live | India Women vs Thailand Women [30 Aug 08:00 PM]", India Women vs Thailand Women (WILLOW)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6aa3d669577f1f94e7a235efed36fff5:13a909e97536492a83f5229b2d22867b
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7hpz2nuaay/out/v1/54335f6493944b3995bb44abc037aaab/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔴 Live | India Women vs Thailand Women [30 Aug 08:00 PM]", India Women vs Thailand Women (SONY - ENG 🇮🇳)
-https://sonymtmnew.akamaized.net/hls/live/2043696/cricodi3008/ENG/master.m3u8?hdnea=exp=1788139857~acl=/*~id=fa1d628c3e611c679d7ec5241c24e398-1788096601607~hmac=c899cbf0c0a678b8b9f72cede9b4569bf1bc62fed025442f1cf929b3e1c09887|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a7a5231fbc554cb7bfd5568d579f934c-1788097201718
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔴 Live | India Women vs Thailand Women [30 Aug 08:00 PM]", India Women vs Thailand Women (SONY - HINDI 🇮🇳)
-https://sonymtmnew.akamaized.net/hls/live/2105080/cricodi3008/HIN/master.m3u8?hdnea=exp=1788139857~acl=/*~id=fa1d628c3e611c679d7ec5241c24e398-1788096601607~hmac=c899cbf0c0a678b8b9f72cede9b4569bf1bc62fed025442f1cf929b3e1c09887|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a7a5231fbc554cb7bfd5568d579f934c-1788097201718
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔴 Live | India Women vs Thailand Women [30 Aug 08:00 PM]", India Women vs Thailand Women (SONY - TAMIL 🇮🇳)
-https://sonymtmnew.akamaized.net/hls/live/2037143/cricodi3008/TAM/master.m3u8?hdnea=exp=1788139857~acl=/*~id=fa1d628c3e611c679d7ec5241c24e398-1788096601607~hmac=c899cbf0c0a678b8b9f72cede9b4569bf1bc62fed025442f1cf929b3e1c09887|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a7a5231fbc554cb7bfd5568d579f934c-1788097201718
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔴 Live | India Women vs Thailand Women [30 Aug 08:00 PM]", India Women vs Thailand Women (SONY - TELUGU 🇮🇳)
-https://sonymtmnew.akamaized.net/hls/live/2094590/cricodi3008/TEL/master.m3u8?hdnea=exp=1788139857~acl=/*~id=fa1d628c3e611c679d7ec5241c24e398-1788096601607~hmac=c899cbf0c0a678b8b9f72cede9b4569bf1bc62fed025442f1cf929b3e1c09887|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a7a5231fbc554cb7bfd5568d579f934c-1788097201718
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/35293/image/dark" group-title="Upcoming | Namibia vs Zimbabwe [31 Aug 05:30 PM]", Namibia vs Zimbabwe (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
