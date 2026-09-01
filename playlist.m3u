@@ -1,6 +1,6 @@
 #EXTM3U
-# Updated: 2026-09-01 13:52:47
-# Total Channels: 24
+# Updated: 2026-09-01 17:29:07
+# Total Channels: 26
 
 #EXTINF:-1 tvg-logo="" group-title="Upcoming | CPL [02 Sep 04:30 AM]", CPL (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -72,5 +72,11 @@ https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Liv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Upcoming | Pakistan Women vs Thailand Women [01 Sep 08:00 PM]", Pakistan Women vs Thailand Women (SK LIVE)
-https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔴 Live | Pakistan Women vs Thailand Women [01 Sep 08:00 PM]", Pakistan Women vs Thailand Women (WILLOW)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5c92a6434312eddbd619a7768c6ca83:4beb7aae28de326b77871519453cc8a4
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/izhke9a0pd/out/v1/44eafef0a0d0459e8691134fec46ad9c/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔴 Live | Pakistan Women vs Thailand Women [01 Sep 08:00 PM]", Pakistan Women vs Thailand Women (SONY ENGLISH)
+https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔴 Live | Pakistan Women vs Thailand Women [01 Sep 08:00 PM]", Pakistan Women vs Thailand Women (SONY HINDI)
+https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8
