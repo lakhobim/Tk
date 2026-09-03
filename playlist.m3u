@@ -1,16 +1,16 @@
 #EXTM3U
-# Updated: 2026-09-03 12:58:44
-# Total Channels: 26
+# Updated: 2026-09-03 16:55:29
+# Total Channels: 28
 
-#EXTINF:-1 tvg-logo="" group-title="Recent | CPL [03 Sep 04:30 AM]", CPL (WILLOW )
+#EXTINF:-1 tvg-logo="" group-title="Upcoming | CPL [04 Sep 04:30 AM]", CPL (WILLOW )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=803f1e2fda33aaece2e8e7886559ad84:2e1216fadbfdcfc93125f3a660caa89b
 https://otte.cache.aiv-cdn.net/bom-nitro/enc/kgxqapdel8/out/v1/2736150644d2417ea38c9139cf11960f/cenc.mpd
-#EXTINF:-1 tvg-logo="" group-title="Recent | CPL [03 Sep 04:30 AM]", CPL (TNT SPORTS)
+#EXTINF:-1 tvg-logo="" group-title="Upcoming | CPL [04 Sep 04:30 AM]", CPL (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="" group-title="Recent | CPL [03 Sep 04:30 AM]", CPL (TAPMAD)
+#EXTINF:-1 tvg-logo="" group-title="Upcoming | CPL [04 Sep 04:30 AM]", CPL (TAPMAD)
 https://cpl-tap.kamrukhanchy.workers.dev/&.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | England vs Pakistan [30 Aug 03:30 PM]", England vs Pakistan (WILLOW ADFREE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -74,5 +74,13 @@ https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/sgepjksrv8/out/v1/d4ec
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="" group-title="Upcoming | EUROPEAN T20 Premier League [03 Sep 06:45 PM]", EUROPEAN T20 Premier League (SK LIVE)
-https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🔴 Live | EUROPEAN T20 Premier League [03 Sep 06:45 PM]", EUROPEAN T20 Premier League (WILLOW)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f2212b8b44f648cfbec541972f1317f:17bcbd6c29439f699082a5d310d76d29
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/i29wc7rgws/out/v1/620df28d026f425da1b826a40c43bebc/cenc.mpd
+#EXTINF:-1 tvg-logo="" group-title="🔴 Live | EUROPEAN T20 Premier League [03 Sep 06:45 PM]", EUROPEAN T20 Premier League (TNT SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="🔴 Live | EUROPEAN T20 Premier League [03 Sep 06:45 PM]", EUROPEAN T20 Premier League (TAPMAD)
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://tapmad.com
