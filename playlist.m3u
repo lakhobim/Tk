@@ -1,12 +1,16 @@
 #EXTM3U
-# Updated: 2026-09-02 19:32:23
-# Total Channels: 27
+# Updated: 2026-09-03 08:20:56
+# Total Channels: 26
 
-#EXTINF:-1 tvg-logo="" group-title="Upcoming | CPL [03 Sep 04:30 AM]", CPL (TNT SPORTS)
+#EXTINF:-1 tvg-logo="" group-title="Recent | CPL [03 Sep 04:30 AM]", CPL (WILLOW )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=803f1e2fda33aaece2e8e7886559ad84:2e1216fadbfdcfc93125f3a660caa89b
+https://otte.cache.aiv-cdn.net/bom-nitro/enc/kgxqapdel8/out/v1/2736150644d2417ea38c9139cf11960f/cenc.mpd
+#EXTINF:-1 tvg-logo="" group-title="Recent | CPL [03 Sep 04:30 AM]", CPL (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="" group-title="Upcoming | CPL [03 Sep 04:30 AM]", CPL (TAPMAD)
+#EXTINF:-1 tvg-logo="" group-title="Recent | CPL [03 Sep 04:30 AM]", CPL (TAPMAD)
 https://cpl-tap.kamrukhanchy.workers.dev/&.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | England vs Pakistan [30 Aug 03:30 PM]", England vs Pakistan (WILLOW ADFREE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -50,29 +54,21 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99e1d49c1d6fb66884e9d3a9a273cc1b:b5f5f8ce01b3a92a07272f90b3dcfd76
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nhdmhpvi3b/out/v1/bc705429eaf94036ab154f1981760316/cenc.mpd
-#EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 [02 Sep 03:00 PM]", EUROPEAN T20 (WILLOW)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2d4fd63a677fb3fb2cec81aba6893bc3:86afdab67b583024b92f7f58b1295fc6
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1ylx5xgker/out/v1/d2e04639c946424a931b32475bfd637a/cenc.mpd
-#EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 [02 Sep 03:00 PM]", EUROPEAN T20 (TNT SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 [02 Sep 03:00 PM]", EUROPEAN T20 (TAPMAD)
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔴 Live | Sri Lanka Women vs Indonesia Women [02 Sep 08:00 PM]", Sri Lanka Women vs Indonesia Women (WILLOW)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Recent | Sri Lanka Women vs Indonesia Women [02 Sep 08:00 PM]", Sri Lanka Women vs Indonesia Women (WILLOW)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c2742087a88dea969b5ece23a12ebd3d:ecf606a690163ef1f4a59bfc8ffacff3
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qakii0966h/out/v1/126e3a7da95544e788abfeaba16bcc26/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔴 Live | Sri Lanka Women vs Indonesia Women [02 Sep 08:00 PM]", Sri Lanka Women vs Indonesia Women (SONY ENGLISH)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Recent | Sri Lanka Women vs Indonesia Women [02 Sep 08:00 PM]", Sri Lanka Women vs Indonesia Women (SONY ENGLISH)
 https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔴 Live | Sri Lanka Women vs Indonesia Women [02 Sep 08:00 PM]", Sri Lanka Women vs Indonesia Women (SONY HINDI)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Recent | Sri Lanka Women vs Indonesia Women [02 Sep 08:00 PM]", Sri Lanka Women vs Indonesia Women (SONY HINDI)
 https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔴 Live | Sri Lanka Women vs Indonesia Women [02 Sep 08:00 PM]", Sri Lanka Women vs Indonesia Women (SONY TAMIL)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Recent | Sri Lanka Women vs Indonesia Women [02 Sep 08:00 PM]", Sri Lanka Women vs Indonesia Women (SONY TAMIL)
 https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔴 Live | Sri Lanka Women vs Indonesia Women [02 Sep 08:00 PM]", Sri Lanka Women vs Indonesia Women (SONY TELUGU)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Recent | Sri Lanka Women vs Indonesia Women [02 Sep 08:00 PM]", Sri Lanka Women vs Indonesia Women (SONY TELUGU)
 https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Upcoming | England Women vs Ireland Women [03 Sep 05:30 PM]", England Women vs Ireland Women (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/35293/image/dark" group-title="Upcoming | Namibia vs Zimbabwe [03 Sep 05:30 PM]", Namibia vs Zimbabwe (SK LIVE)
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Upcoming | EUROPEAN T20 Premier League [03 Sep 06:45 PM]", EUROPEAN T20 Premier League (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
