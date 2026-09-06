@@ -1,12 +1,12 @@
 #EXTM3U
-# Updated: 2026-09-06 17:40:48
-# Total Channels: 19
+# Updated: 2026-09-06 19:29:01
+# Total Channels: 15
 
-#EXTINF:-1 tvg-logo="" group-title="Recent | CPL [06 Sep 05:30 AM]", CPL (TNT SPORTS)
+#EXTINF:-1 tvg-logo="" group-title="🔴 Live | CPL [07 Sep 12:30 AM]", CPL (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="" group-title="Recent | CPL [06 Sep 05:30 AM]", CPL (TAPMAD)
+#EXTINF:-1 tvg-logo="" group-title="🔴 Live | CPL [07 Sep 12:30 AM]", CPL (TAPMAD)
 https://cpl-tap.kamrukhanchy.workers.dev/&.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | Australia vs Bangladesh [23 Aug 05:30 AM]", Australia vs Bangladesh (WILLOW ADFREE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -32,12 +32,6 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qxo2jociu4/
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 Premier League [05 Sep 08:00 PM]", EUROPEAN T20 Premier League (TAPMAD)
 https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://tapmad.com
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Recent | England Women vs Ireland Women [06 Sep 03:00 PM]", England Women vs Ireland Women (WILLOW ADFREE )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ee7f6ce967d4af1d584f8c25a3efddb:58976090849462fb9dc92e65cf1d9864
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/boklt7ko2t/out/v1/05900e63d3f34094885df3060a208099/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Recent | England Women vs Ireland Women [06 Sep 03:00 PM]", England Women vs Ireland Women (SKY CRICKET )
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔴 Live | Sri Lanka Women vs Bangladesh Women [06 Sep 08:00 PM]", Sri Lanka Women vs Bangladesh Women (WILLOW ADFREE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=35685a3096b1e97a9e94a58fe59e195e:76c135928d6b9bb5d3a492c9ef546958
@@ -52,11 +46,3 @@ https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8
 https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔴 Live | Sri Lanka Women vs Bangladesh Women [06 Sep 08:00 PM]", Sri Lanka Women vs Bangladesh Women (KANNADA 🇮🇳)
 https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/35293/image/dark" group-title="🔴 Live | South Africa vs Zimbabwe [06 Sep 05:30 PM]", South Africa vs Zimbabwe (FANCODE )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/35293/image/dark" group-title="🔴 Live | South Africa vs Zimbabwe [06 Sep 05:30 PM]", South Africa vs Zimbabwe (FANCODE SD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
