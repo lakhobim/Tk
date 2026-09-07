@@ -1,19 +1,13 @@
 #EXTM3U
-# Updated: 2026-09-06 19:29:01
-# Total Channels: 15
+# Updated: 2026-09-07 08:42:10
+# Total Channels: 8
 
-#EXTINF:-1 tvg-logo="" group-title="🔴 Live | CPL [07 Sep 12:30 AM]", CPL (TNT SPORTS)
+#EXTINF:-1 tvg-logo="" group-title="Recent | CPL [07 Sep 12:30 AM]", CPL (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="" group-title="🔴 Live | CPL [07 Sep 12:30 AM]", CPL (TAPMAD)
+#EXTINF:-1 tvg-logo="" group-title="Recent | CPL [07 Sep 12:30 AM]", CPL (TAPMAD)
 https://cpl-tap.kamrukhanchy.workers.dev/&.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | Australia vs Bangladesh [23 Aug 05:30 AM]", Australia vs Bangladesh (WILLOW ADFREE )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3b91297bf1b32f957b9ad9df063cccf:1dffa592b7bbeeda714ac1ba3b70f04b
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/wm7nvzuo81/out/v1/4be515e8c9c3450c9d73b2d2d8c25d46/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | Australia vs Bangladesh [23 Aug 05:30 AM]", Australia vs Bangladesh (TAPMAD)
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/&Origin=https://www.tapmad.com
 #EXTINF:-1 tvg-logo="" group-title="Recent | TOP END T20 [30 Aug 12:00 PM]", TOP END T20 (WILLOW SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
@@ -22,27 +16,11 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99e1d49c1d6fb66884e9d3a9a273cc1b:b5f5f8ce01b3a92a07272f90b3dcfd76
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nhdmhpvi3b/out/v1/bc705429eaf94036ab154f1981760316/cenc.mpd
-#EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 Premier League [05 Sep 08:00 PM]", EUROPEAN T20 Premier League (WILLOW )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f0d01ac1817a13b581b0144822f4818:bb771380eea40f9a03988d3a95ad64e0
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qxo2jociu4/out/v1/6180823d21684900a57e2fa120a6cc58/cenc.mpd
-#EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 Premier League [05 Sep 08:00 PM]", EUROPEAN T20 Premier League (TNT SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 Premier League [05 Sep 08:00 PM]", EUROPEAN T20 Premier League (TAPMAD)
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://tapmad.com
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔴 Live | Sri Lanka Women vs Bangladesh Women [06 Sep 08:00 PM]", Sri Lanka Women vs Bangladesh Women (WILLOW ADFREE )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=35685a3096b1e97a9e94a58fe59e195e:76c135928d6b9bb5d3a492c9ef546958
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dqziy3zhl0/out/v1/3771aa137e904907860eadab578c406d/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔴 Live | Sri Lanka Women vs Bangladesh Women [06 Sep 08:00 PM]", Sri Lanka Women vs Bangladesh Women (ENGLISH 🇮🇳)
-https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔴 Live | Sri Lanka Women vs Bangladesh Women [06 Sep 08:00 PM]", Sri Lanka Women vs Bangladesh Women (HINDI 🇮🇳)
-https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔴 Live | Sri Lanka Women vs Bangladesh Women [06 Sep 08:00 PM]", Sri Lanka Women vs Bangladesh Women (TAMIL 🇮🇳)
-https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔴 Live | Sri Lanka Women vs Bangladesh Women [06 Sep 08:00 PM]", Sri Lanka Women vs Bangladesh Women (TELUGU 🇮🇳)
-https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔴 Live | Sri Lanka Women vs Bangladesh Women [06 Sep 08:00 PM]", Sri Lanka Women vs Bangladesh Women (KANNADA 🇮🇳)
-https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Upcoming | EUROPEAN T20 Premier League [07 Sep 06:45 PM]", EUROPEAN T20 Premier League (TAPMAD)
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Upcoming | EUROPEAN T20 Premier League [07 Sep 06:45 PM]", EUROPEAN T20 Premier League (FOX CRICKET )
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Upcoming | EUROPEAN T20 Premier League [07 Sep 06:45 PM]", EUROPEAN T20 Premier League (WILLOW HD)
+http://tvsen5.aynascope.net/willowhd/index.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Upcoming | Pakistan Women vs Hong Kong C. [07 Sep 08:00 PM]", Pakistan Women vs Hong Kong C. (Link 1)
+https://no.link
