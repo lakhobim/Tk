@@ -1,6 +1,6 @@
 #EXTM3U
-# Updated: 2026-09-07 18:50:11
-# Total Channels: 10
+# Updated: 2026-09-08 08:23:35
+# Total Channels: 8
 
 #EXTINF:-1 tvg-logo="" group-title="Upcoming | CPL [09 Sep 04:30 AM]", CPL (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -22,11 +22,5 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Upcoming | EUROPEAN T20 Premier League [09 Sep 06:45 PM]", EUROPEAN T20 Premier League (WILLOW HD)
 http://tvsen5.aynascope.net/willowhd/index.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔴 Live | Pakistan Women vs Hong Kong C. [07 Sep 08:00 PM]", Pakistan Women vs Hong Kong C. (WILLOW ADFREE )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecfd503a2e10cdfc5cc824087a70824e:f33f6735b179d13d712de1c1ad2db810
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qhj7fyqqpl/out/v1/bca61413994542088261e44b1bf1c5de/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔴 Live | Pakistan Women vs Hong Kong C. [07 Sep 08:00 PM]", Pakistan Women vs Hong Kong C. (ENGLISH 🇮🇳)
-https://dai.google.com/ssai/event/Vqhl5bQURxa3_aLKeTXABA/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="🔴 Live | Pakistan Women vs Hong Kong C. [07 Sep 08:00 PM]", Pakistan Women vs Hong Kong C. (HINDI 🇮🇳)
-https://dai.google.com/ssai/event/aGNPcotmQHS93Wy7COJ5dQ/master.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Upcoming | Bangladesh Women vs United Arab Emirates Women [08 Sep 08:00 PM]", Bangladesh Women vs United Arab Emirates Women (Link 1)
+https://no.link
