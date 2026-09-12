@@ -1,6 +1,6 @@
 #EXTM3U
-# Updated: 2026-09-12 08:11:07
-# Total Channels: 19
+# Updated: 2026-09-12 12:11:00
+# Total Channels: 18
 
 #EXTINF:-1 tvg-logo="" group-title="Recent | CPL [09 Sep 04:30 AM]", CPL (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -16,29 +16,25 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99e1d49c1d6fb66884e9d3a9a273cc1b:b5f5f8ce01b3a92a07272f90b3dcfd76
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nhdmhpvi3b/out/v1/bc705429eaf94036ab154f1981760316/cenc.mpd
-#EXTINF:-1 tvg-logo="" group-title="Upcoming | EUROPEAN T20 Premier League [12 Sep 03:00 PM]", EUROPEAN T20 Premier League (WILLOW ADFREE)
+#EXTINF:-1 tvg-logo="" group-title="🔴 Live | EUROPEAN T20 Premier League [12 Sep 03:00 PM]", EUROPEAN T20 Premier League (WILLOW ADFREE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4f04d96a04402d8818478ece57b9475f:fedfd84ff9b4034a5d20dec45c282c0a
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ijdtchzbii/out/v1/1d139fe172f94e6c8c107da1bdee0192/cenc.mpd
-#EXTINF:-1 tvg-logo="" group-title="Upcoming | EUROPEAN T20 Premier League [12 Sep 03:00 PM]", EUROPEAN T20 Premier League (TAPMAD)
+#KODIPROP:inputstream.adaptive.license_key=b58270b226e165048628aa8ed0006adc:d4081d990e8eac7ed6b130975bad3df8
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zybwmiliv8/out/v1/4d20415f335e4283b92e6a62f6967bcd/cenc.mpd
+#EXTINF:-1 tvg-logo="" group-title="🔴 Live | EUROPEAN T20 Premier League [12 Sep 03:00 PM]", EUROPEAN T20 Premier League (TAPMAD)
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Upcoming | EUROPEAN T20 Premier League [12 Sep 03:00 PM]", EUROPEAN T20 Premier League (FOX CRICKET )
+#EXTINF:-1 tvg-logo="" group-title="🔴 Live | EUROPEAN T20 Premier League [12 Sep 03:00 PM]", EUROPEAN T20 Premier League (FOX CRICKET )
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Upcoming | EUROPEAN T20 Premier League [12 Sep 03:00 PM]", EUROPEAN T20 Premier League (WILLOW HD)
+#EXTINF:-1 tvg-logo="" group-title="🔴 Live | EUROPEAN T20 Premier League [12 Sep 03:00 PM]", EUROPEAN T20 Premier League (WILLOW HD)
 http://tvsen5.aynascope.net/willowhd/index.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Recent | Namibia vs South Africa [11 Sep 01:00 PM]", Namibia vs South Africa (FANCODE )
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | England vs Pakistan [12 Sep 03:30 PM]", England vs Pakistan (WILLOW ADFREE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | England vs Pakistan [12 Sep 03:30 PM]", England vs Pakistan (WILLOW ADFREE )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b449e62d6400a82c000f057837d3c34:6726fe4c78a06a3861c5403c716ea96f
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kbatzaazbo/out/v1/e12d4e78342c47348c272f5d5979eeec/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | England vs Pakistan [12 Sep 03:30 PM]", England vs Pakistan (SKY SPORTS )
+#KODIPROP:inputstream.adaptive.license_key=227091e30e129f3d085506e8153c208a:5e082e054635e0532947eedb4f5b1861
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oz1myqmjwy/out/v1/a511251e49ee413ab48bad03d3d32863/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | England vs Pakistan [12 Sep 03:30 PM]", England vs Pakistan (SKY SPORTS )
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | England vs Pakistan [12 Sep 03:30 PM]", England vs Pakistan (TAMASHA 🇵🇰)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | England vs Pakistan [12 Sep 03:30 PM]", England vs Pakistan (TAMASHA 🇵🇰)
 https://cdn06khi-n.tamashaweb.com:8087/jazzauth/PAKvsEng-Test-SVOD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDI2IDk6NDQ6NDcgQU0maGFzaF92YWx1ZT1VVmp4c1lmVFhEQ3hPNklqNDRUalV3PT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | England vs Pakistan [12 Sep 03:30 PM]", England vs Pakistan (SONYLIV 🇮🇳)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | England vs Pakistan [12 Sep 03:30 PM]", England vs Pakistan (SONYLIV 🇮🇳)
 https://sonymtmnew-akamaized.pages.dev/hls/live/2037142/criclive1109/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=44649048e8888c54853e613a2e64a930-1789119004647
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11220/image/dark" group-title="Recent | India Women vs Bangladesh Women [10 Sep 08:00 PM]", India Women vs Bangladesh Women (WILLOW ADFREE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
