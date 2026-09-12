@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2026-09-12 15:32:38
+# Updated: 2026-09-12 17:48:13
 # Total Channels: 18
 
 #EXTINF:-1 tvg-logo="" group-title="Recent | CPL [09 Sep 04:30 AM]", CPL (TNT SPORTS)
@@ -16,15 +16,15 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99e1d49c1d6fb66884e9d3a9a273cc1b:b5f5f8ce01b3a92a07272f90b3dcfd76
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nhdmhpvi3b/out/v1/bc705429eaf94036ab154f1981760316/cenc.mpd
-#EXTINF:-1 tvg-logo="" group-title="🔴 Live | EUROPEAN T20 Premier League [12 Sep 03:00 PM]", EUROPEAN T20 Premier League (WILLOW ADFREE)
+#EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 Premier League [12 Sep 03:00 PM]", EUROPEAN T20 Premier League (WILLOW ADFREE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b58270b226e165048628aa8ed0006adc:d4081d990e8eac7ed6b130975bad3df8
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zybwmiliv8/out/v1/4d20415f335e4283b92e6a62f6967bcd/cenc.mpd
-#EXTINF:-1 tvg-logo="" group-title="🔴 Live | EUROPEAN T20 Premier League [12 Sep 03:00 PM]", EUROPEAN T20 Premier League (TAPMAD)
+#EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 Premier League [12 Sep 03:00 PM]", EUROPEAN T20 Premier League (TAPMAD)
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🔴 Live | EUROPEAN T20 Premier League [12 Sep 03:00 PM]", EUROPEAN T20 Premier League (FOX CRICKET )
+#EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 Premier League [12 Sep 03:00 PM]", EUROPEAN T20 Premier League (FOX CRICKET )
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🔴 Live | EUROPEAN T20 Premier League [12 Sep 03:00 PM]", EUROPEAN T20 Premier League (WILLOW HD)
+#EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 Premier League [12 Sep 03:00 PM]", EUROPEAN T20 Premier League (WILLOW HD)
 http://tvsen5.aynascope.net/willowhd/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | England vs Pakistan [12 Sep 03:30 PM]", England vs Pakistan (WILLOW ADFREE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
