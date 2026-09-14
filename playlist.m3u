@@ -1,26 +1,26 @@
 #EXTM3U
-# Updated: 2026-09-13 19:27:49
+# Updated: 2026-09-14 09:19:50
 # Total Channels: 17
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | Afghanistan vs India [13 Sep 07:30 PM]", Afghanistan vs India (WILLOW)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Recent | Afghanistan vs India [13 Sep 07:30 PM]", Afghanistan vs India (WILLOW)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34d9aa9c9437b91d9235b62cbe5ce551:6851a07451382c5eadffe9cb7a130440
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/va142ya1td/out/v1/aae3c310bf7446e9a8dd88ed7de5b1ee/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | Afghanistan vs India [13 Sep 07:30 PM]", Afghanistan vs India (FANCODE)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Recent | Afghanistan vs India [13 Sep 07:30 PM]", Afghanistan vs India (FANCODE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | Afghanistan vs India [13 Sep 07:30 PM]", Afghanistan vs India (SONY HINDI 🇮🇳)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Recent | Afghanistan vs India [13 Sep 07:30 PM]", Afghanistan vs India (SONY HINDI 🇮🇳)
 https://cloudplay-sonyliv.pages.dev/ten3hd.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | Afghanistan vs India [13 Sep 07:30 PM]", Afghanistan vs India (FANCODE HINDI 🇮🇳)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Recent | Afghanistan vs India [13 Sep 07:30 PM]", Afghanistan vs India (FANCODE HINDI 🇮🇳)
 https://dai-fancode.pages.dev/mumbai/4248491_hindi_hls_ed24a8186993836_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | Afghanistan vs India [13 Sep 07:30 PM]", Afghanistan vs India (MAX 🇮🇳)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Recent | Afghanistan vs India [13 Sep 07:30 PM]", Afghanistan vs India (MAX 🇮🇳)
 https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1789353717~acl=*~id=15567844849341243007~hmac=c7216c1f90823e010c1fa8d69b61361a9c1a731231ef275db159553a426c9c85
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | Afghanistan vs India [13 Sep 07:30 PM]", Afghanistan vs India (SONY HINDI 🇮🇳)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Recent | Afghanistan vs India [13 Sep 07:30 PM]", Afghanistan vs India (SONY HINDI 🇮🇳)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=68318f7c97c55ba6ab8d0398a88fed3e:d312fb3325b4eb9462b4a0d2b6794adf
 https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_3_MOB/WDVLive/index.mpd|cookie=__hdnea__=st=1789305511~exp=1789327111~acl=/*~hmac=69358f42e8e101bc739454191231ff8040d5a5a065de0a8d51c335c36c5b36fd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | Afghanistan vs India [13 Sep 07:30 PM]", Afghanistan vs India (FANCODE 🇮🇳)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Recent | Afghanistan vs India [13 Sep 07:30 PM]", Afghanistan vs India (FANCODE 🇮🇳)
 https://in-mc-flive.fancode.com/mumbai/4248491_hindi_hls_ed24a8186993836_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789392659~_GO=Generated~acl=/mumbai/4248491_hindi_hls_ed24a8186993836_1ta-di_h264/*~Signature=AWDec-HByQhk68qSCnCZyABpf45aQQnnay5WKHnruoErrGrN-vafHAIvAttH8kmxylYL3z2vHk2KCGSXRBizd32DMxwF
 #EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 Premier League [13 Sep 02:45 PM]", EUROPEAN T20 Premier League (WILLOW ADFREE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
