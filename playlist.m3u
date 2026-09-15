@@ -1,36 +1,30 @@
 #EXTM3U
-# Updated: 2026-09-15 09:01:43
-# Total Channels: 19
+# Updated: 2026-09-15 14:20:12
+# Total Channels: 17
 
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Upcoming | Afghanistan vs India [15 Sep 07:30 PM]", Afghanistan vs India (WILLOW)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | Afghanistan vs India [15 Sep 07:30 PM]", Afghanistan vs India (WILLOW ADFREE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34d9aa9c9437b91d9235b62cbe5ce551:6851a07451382c5eadffe9cb7a130440
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/va142ya1td/out/v1/aae3c310bf7446e9a8dd88ed7de5b1ee/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Upcoming | Afghanistan vs India [15 Sep 07:30 PM]", Afghanistan vs India (FANCODE)
+#KODIPROP:inputstream.adaptive.license_key=881660f21b521a54803840a388caaffa:b152a33ccb29c23fc05f8e6379f69551
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8t3oqznxym/out/v1/49c0d8b9b6c5406492957674e591586f/cenc.mpd
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | Afghanistan vs India [15 Sep 07:30 PM]", Afghanistan vs India (FANCODE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Upcoming | Afghanistan vs India [15 Sep 07:30 PM]", Afghanistan vs India (SONY HINDI 🇮🇳)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | Afghanistan vs India [15 Sep 07:30 PM]", Afghanistan vs India (SONY HINDI 🇮🇳)
 https://cloudplay-sonyliv.pages.dev/ten3hd.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Upcoming | Afghanistan vs India [15 Sep 07:30 PM]", Afghanistan vs India (FANCODE HINDI 🇮🇳)
-https://dai-fancode.pages.dev/mumbai/4248491_hindi_hls_ed24a8186993836_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Upcoming | Afghanistan vs India [15 Sep 07:30 PM]", Afghanistan vs India (MAX 🇮🇳)
-https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1789353717~acl=*~id=15567844849341243007~hmac=c7216c1f90823e010c1fa8d69b61361a9c1a731231ef275db159553a426c9c85
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Upcoming | Afghanistan vs India [15 Sep 07:30 PM]", Afghanistan vs India (SONY HINDI 🇮🇳)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | Afghanistan vs India [15 Sep 07:30 PM]", Afghanistan vs India (FANCODE HINDI 🇮🇳)
+https://dai-fancode.pages.dev/out/v1/ap-south-1/4248493_hindi_150048/ad-h264/index.m3u8
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | Afghanistan vs India [15 Sep 07:30 PM]", Afghanistan vs India (FANCODE 🇮🇳)
+https://dai-fancode.pages.dev/out/v1/ap-south-1/4248493_english_466708/ad-h264/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🔴 Live | EUROPEAN T20 Premier League [15 Sep 03:00 PM]", EUROPEAN T20 Premier League (TNT SPORTS )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=68318f7c97c55ba6ab8d0398a88fed3e:d312fb3325b4eb9462b4a0d2b6794adf
-https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_3_MOB/WDVLive/index.mpd|cookie=__hdnea__=st=1789305511~exp=1789327111~acl=/*~hmac=69358f42e8e101bc739454191231ff8040d5a5a065de0a8d51c335c36c5b36fd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Upcoming | Afghanistan vs India [15 Sep 07:30 PM]", Afghanistan vs India (FANCODE 🇮🇳)
-https://in-mc-flive.fancode.com/mumbai/4248491_hindi_hls_ed24a8186993836_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789392659~_GO=Generated~acl=/mumbai/4248491_hindi_hls_ed24a8186993836_1ta-di_h264/*~Signature=AWDec-HByQhk68qSCnCZyABpf45aQQnnay5WKHnruoErrGrN-vafHAIvAttH8kmxylYL3z2vHk2KCGSXRBizd32DMxwF
-#EXTINF:-1 tvg-logo="" group-title="Upcoming | EUROPEAN T20 Premier League [15 Sep 03:00 PM]", EUROPEAN T20 Premier League (WILLOW ADFREE)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8851eadd8b8c8eea0ad4b63d57331135:3d17c357fc922961efb2a329e99f0404
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4ze16eer4q/out/v1/ca4786cfa5d045789549d63f6fdd5188/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="" group-title="Upcoming | EUROPEAN T20 Premier League [15 Sep 03:00 PM]", EUROPEAN T20 Premier League (TAPMAD)
+#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+#EXTINF:-1 tvg-logo="" group-title="🔴 Live | EUROPEAN T20 Premier League [15 Sep 03:00 PM]", EUROPEAN T20 Premier League (TAPMAD)
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Upcoming | EUROPEAN T20 Premier League [15 Sep 03:00 PM]", EUROPEAN T20 Premier League (FOX CRICKET )
+#EXTINF:-1 tvg-logo="" group-title="🔴 Live | EUROPEAN T20 Premier League [15 Sep 03:00 PM]", EUROPEAN T20 Premier League (FOX CRICKET )
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Upcoming | EUROPEAN T20 Premier League [15 Sep 03:00 PM]", EUROPEAN T20 Premier League (WILLOW HD)
+#EXTINF:-1 tvg-logo="" group-title="🔴 Live | EUROPEAN T20 Premier League [15 Sep 03:00 PM]", EUROPEAN T20 Premier League (WILLOW HD)
 http://tvsen5.aynascope.net/willowhd/index.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | England vs Pakistan [12 Sep 03:30 PM]", England vs Pakistan (WILLOW ADFREE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -50,5 +44,5 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1
 https://dai-fancode.pages.dev/mumbai/4249098_english_hls_23b38859e816047_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Upcoming | England vs Sri Lanka [15 Sep 11:00 PM]", England vs Sri Lanka (Link 1)
 https://no.link
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="Upcoming | Zimbabwe Women vs South Africa Women [15 Sep 05:00 PM]", Zimbabwe Women vs South Africa Women (SK LIVE)
+#EXTINF:-1 tvg-logo="" group-title="Upcoming | CPL [17 Sep 04:30 AM]", CPL (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
