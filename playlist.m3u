@@ -1,6 +1,6 @@
 #EXTM3U
-# Updated: 2026-09-25 09:09:42
-# Total Channels: 8
+# Updated: 2026-09-25 14:36:29
+# Total Channels: 6
 
 #EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 Premier League [19 Sep 06:45 PM]", EUROPEAN T20 Premier League (TNT SPORTS )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -16,9 +16,3 @@ http://tvsen5.aynascope.net/willowhd/index.m3u8
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="Upcoming | Japan vs Nepal [26 Sep 05:30 AM]", Japan vs Nepal (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="🔴 Live | Afghanistan vs Nepal [25 Sep 10:30 AM]", Afghanistan vs Nepal (WILLOW)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b535c85849cc63ff2db626085eca0b1:40e3f86321b88e87faba0e03fad20bae
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ofqlfxnyrj/out/v1/87e0c2d189424713a24c80bc9d3603ed/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark" group-title="🔴 Live | Afghanistan vs Nepal [25 Sep 10:30 AM]", Afghanistan vs Nepal (SONYLIV)
-https://sonymtmnew-akamaized.pages.dev/hls/live/2120302/AG_DXCri2409/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=82c115fe6133bf20aa42b87e2de9f3f9-1790311200994
