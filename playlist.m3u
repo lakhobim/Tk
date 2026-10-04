@@ -1,6 +1,6 @@
 #EXTM3U
-# Updated: 2026-10-04 10:16:33
-# Total Channels: 4
+# Updated: 2026-10-04 15:23:40
+# Total Channels: 8
 
 #EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 Premier League [19 Sep 06:45 PM]", EUROPEAN T20 Premier League (TNT SPORTS )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -12,3 +12,15 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 Premier League [19 Sep 06:45 PM]", EUROPEAN T20 Premier League (WILLOW HD)
 http://tvsen5.aynascope.net/willowhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://wclegends.org/wp-content/uploads/2026/06/WCL-Season-3.jpg" group-title="🔴 Live | WCL vs WCL [04 Oct 05:00 PM]", WCL vs WCL (WILLOW ADFREE)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4191cd14283b963a1bdafcc9cada82f4:4087250da5d99f2ecd69546c34972ee1
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vgvtvcvqun/out/v1/f0b20eb59a9047a58a2c7234ca84ae70/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://wclegends.org/wp-content/uploads/2026/06/WCL-Season-3.jpg" group-title="🔴 Live | WCL vs WCL [04 Oct 05:00 PM]", WCL vs WCL (FANCODE WW)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://wclegends.org/wp-content/uploads/2026/06/WCL-Season-3.jpg" group-title="🔴 Live | WCL vs WCL [04 Oct 05:00 PM]", WCL vs WCL (HINDI 🇮🇳)
+https://in-mc-flive.fancode.com/mumbai/4249219_hindi_hls_421ac5df5368597_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791197911~_GO=Generated~acl=/mumbai/4249219_hindi_hls_421ac5df5368597_1ta-di_h264/*~Signature=ARxeIm-9uKnlaRo6lSIF7_V23otnuX1hIooylkFBF_iGVvitmvwQhEobDlmUWRO_PL0N3ESWupFS-F3OTxpHagvsJ48A
+#EXTINF:-1 tvg-logo="https://wclegends.org/wp-content/uploads/2026/06/WCL-Season-3.jpg" group-title="🔴 Live | WCL vs WCL [04 Oct 05:00 PM]", WCL vs WCL (ENGLISH 🇮🇳)
+https://in-mc-flive.fancode.com/mumbai/4249219_english_hls_7a9df8332c65789_1ta-di_h264/1080p.m3u8?hdntl=Expires=1791197911~_GO=Generated~acl=/mumbai/4249219_english_hls_7a9df8332c65789_1ta-di_h264/*~Signature=ARxeIm_eC8pY3wRuqfDUEmJ8MvvhHm98mU_-GSHr9Xep1GX7XCspYW0vHnQOoBLvugAkA1pb36swhyZsRK_AYC8y1NsO
