@@ -1,6 +1,6 @@
 #EXTM3U
-# Updated: 2026-10-05 10:56:07
-# Total Channels: 8
+# Updated: 2026-10-05 19:26:31
+# Total Channels: 7
 
 #EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 Premier League [19 Sep 06:45 PM]", EUROPEAN T20 Premier League (TNT SPORTS )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -12,15 +12,13 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 Premier League [19 Sep 06:45 PM]", EUROPEAN T20 Premier League (WILLOW HD)
 http://tvsen5.aynascope.net/willowhd/index.m3u8
-#EXTINF:-1 tvg-logo="https://wclegends.org/wp-content/uploads/2026/06/WCL-Season-3.jpg" group-title="Upcoming | WCL vs WCL [05 Oct 05:00 PM]", WCL vs WCL (FANCODE WW)
+#EXTINF:-1 tvg-logo="https://wclegends.org/wp-content/uploads/2026/06/WCL-Season-3.jpg" group-title="🔴 Live | WCL vs WCL [05 Oct 09:00 PM]", WCL vs WCL (WILLOW SPORTS )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://wclegends.org/wp-content/uploads/2026/06/WCL-Season-3.jpg" group-title="Upcoming | WCL vs WCL [05 Oct 05:00 PM]", WCL vs WCL (WILLOW ADFREE)
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|referer=https://www.amazon.com/&origin=https://www.amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 OPR/135.0.0.0
+#EXTINF:-1 tvg-logo="https://wclegends.org/wp-content/uploads/2026/06/WCL-Season-3.jpg" group-title="🔴 Live | WCL vs WCL [05 Oct 09:00 PM]", WCL vs WCL (WILLOW ADFREE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fd73ed2416f865f64c3531cdb2ee4f82:82bc46b3cd438e34923d12c5591654ed
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdqnlnqefq/out/v1/49ddd42b1eda4ef2a9a14f5a84732743/cenc.mpd
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="Upcoming | USA vs United Arab Emirates [05 Oct 08:30 PM]", USA vs United Arab Emirates (SK LIVE)
-https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
+#KODIPROP:inputstream.adaptive.license_key=78090352c9a0d9d111321531abac5d84:e1f3409d25274b3c335f9179b80f481b
+https://otte.cache.aiv-cdn.net/bom-nitro/enc/4xrvq8cub7/out/v1/e341473ca5c249318f1ec8b9352012c1/cenc.mpd|referer=https://www.amazon.com/&origin=https://www.amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 OPR/135.0.0.0
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Upcoming | India vs West Indies [06 Oct 07:00 PM]", India vs West Indies (SK LIVE)
 https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
