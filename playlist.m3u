@@ -1,6 +1,6 @@
 #EXTM3U
-# Updated: 2026-10-09 17:18:22
-# Total Channels: 17
+# Updated: 2026-10-09 21:44:04
+# Total Channels: 13
 
 #EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 Premier League [19 Sep 06:45 PM]", EUROPEAN T20 Premier League (TNT SPORTS )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -12,49 +12,37 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 Premier League [19 Sep 06:45 PM]", EUROPEAN T20 Premier League (WILLOW HD)
 http://tvsen5.aynascope.net/willowhd/index.m3u8
-#EXTINF:-1 tvg-logo="https://wclegends.org/wp-content/uploads/2026/06/WCL-Season-3.jpg" group-title="🔴 Live | WCL vs WCL [09 Oct 05:00 PM]", WCL vs WCL (WILLOW ADFREE)
+#EXTINF:-1 tvg-logo="https://wclegends.org/wp-content/uploads/2026/06/WCL-Season-3.jpg" group-title="Recent | WCL vs WCL [09 Oct 05:00 PM]", WCL vs WCL (WILLOW ADFREE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9dd245fb23d190ca8222a4d94476ab40:c8cbd313661d9ab75603ce59a0c974b0
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/baf1i3t0be/out/v1/4682e81704e242fd9bfb36f56b6413e7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | India vs West Indies [09 Oct 07:00 PM]", India vs West Indies (WILLOW ADFREE )
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Recent | India vs West Indies [09 Oct 07:00 PM]", India vs West Indies (WILLOW ADFREE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fad9e48c64d0d1ead45f180925d56199:5918fd6e6e51982bd18b5ee7f3188039
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wydu3dzs2m/out/v1/5488d585f04143e7afd19ef4a7c46237/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | India vs West Indies [09 Oct 07:00 PM]", India vs West Indies (TNT SPORTS )
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Recent | India vs West Indies [09 Oct 07:00 PM]", India vs West Indies (TNT SPORTS )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | India vs West Indies [09 Oct 07:00 PM]", India vs West Indies (HINDI 🇮🇳)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Recent | India vs West Indies [09 Oct 07:00 PM]", India vs West Indies (HINDI 🇮🇳)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b9f1cb8a1361457bbd8097f8c2590000:1960274b7ba344cb899eba2e80916774
 https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd?|cookie=hdntl=exp=1791571049~acl=%2f*~id=1676bd217b3b2ad87cef775c85833762~data=hdntl~hmac=6abb050a5a1cfa5cd28fb161bc0fdd3732050d3aef802f4402c1033ceaf5774a&referer=https://www.hotstar.com/&origin=https://www.hotstar.com
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | India vs West Indies [09 Oct 07:00 PM]", India vs West Indies (ENGLISH 🇮🇳)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Recent | India vs West Indies [09 Oct 07:00 PM]", India vs West Indies (ENGLISH 🇮🇳)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85897bf6e594d698b7c82646c8e0000:d2dda31234ae40538843e871cd4dcc2a
 https://livetv.hotstar.com/mp1/gec-india-1540068247/9a6e7c30f9194cc1a6a6250cedb115fb/index.mpd?|cookie=hdntl=exp=1791571049~acl=%2f*~id=1676bd217b3b2ad87cef775c85833762~data=hdntl~hmac=6abb050a5a1cfa5cd28fb161bc0fdd3732050d3aef802f4402c1033ceaf5774a&referer=https://www.hotstar.com/&origin=https://www.hotstar.com
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | India vs West Indies [09 Oct 07:00 PM]", India vs West Indies (TELUGU 🇮🇳)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Recent | India vs West Indies [09 Oct 07:00 PM]", India vs West Indies (TELUGU 🇮🇳)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4634b32328f242e3be51c3e06cde0000:42e90ab215bf4a438b55851b5e0f50dc
 https://livetv.hotstar.com/mp2/gec-india-1540068280/e8c0ed405e544793a1f827c477839581/index.mpd|Cookie=hdntl=exp=1791571049~acl=%2f*~id=1676bd217b3b2ad87cef775c85833762~data=hdntl~hmac=6abb050a5a1cfa5cd28fb161bc0fdd3732050d3aef802f4402c1033ceaf5774a&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | India vs West Indies [09 Oct 07:00 PM]", India vs West Indies (TAMIL 🇮🇳)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Recent | India vs West Indies [09 Oct 07:00 PM]", India vs West Indies (TAMIL 🇮🇳)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8cecd7ec1ee04eecb49ddbdc8c420000:499ea72b59f14337a0acb057cd9dffc0
 https://livetv.hotstar.com/mp2/gec-india-1540068337/9e957d4aa8054fdfa75a02de6c38e8d0/index.mpd?|cookie=hdntl=exp=1791571049~acl=%2f*~id=1676bd217b3b2ad87cef775c85833762~data=hdntl~hmac=6abb050a5a1cfa5cd28fb161bc0fdd3732050d3aef802f4402c1033ceaf5774a&referer=https://www.hotstar.com/&origin=https://www.hotstar.com
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | India vs West Indies [09 Oct 07:00 PM]", India vs West Indies (KANNADA 🇮🇳)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Recent | India vs West Indies [09 Oct 07:00 PM]", India vs West Indies (KANNADA 🇮🇳)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb2f9710abf44bb1bcf51400ccc00000:5f29f372823346e78934431f2a924065
 https://livetv.hotstar.com/mp1/gec-india-1540068322/6409ab04235d4a0886656913f360c0a7/index.mpd|Cookie=hdntl=exp=1791571049~acl=%2f*~id=1676bd217b3b2ad87cef775c85833762~data=hdntl~hmac=6abb050a5a1cfa5cd28fb161bc0fdd3732050d3aef802f4402c1033ceaf5774a&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | India vs West Indies [09 Oct 07:00 PM]", India vs West Indies (TAPMAD )
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Recent | India vs West Indies [09 Oct 07:00 PM]", India vs West Indies (TAPMAD )
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8|referer=https://tapmad.com/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | South Africa vs Australia [09 Oct 01:00 PM]", South Africa vs Australia (WILLOW ADFREE)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bf2a8826b3cc5a87caa2b8aa888060db:c0f33b4323fa41faeff80d202d87627d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eunzq9z92j/out/v1/ea61ce095f934361a1dbcd055dde344e/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | South Africa vs Australia [09 Oct 01:00 PM]", South Africa vs Australia (SKY CRICKET )
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | Pakistan vs Sri Lanka [09 Oct 06:30 PM]", Pakistan vs Sri Lanka (WILLOW HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="🔴 Live | Pakistan vs Sri Lanka [09 Oct 06:30 PM]", Pakistan vs Sri Lanka (TAPMAD )
-https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
