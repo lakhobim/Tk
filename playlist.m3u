@@ -1,7 +1,15 @@
 #EXTM3U
-# Updated: 2026-10-10 19:36:37
-# Total Channels: 9
+# Updated: 2026-10-11 10:23:18
+# Total Channels: 13
 
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Upcoming | India vs West Indies [11 Oct 07:00 PM]", India vs West Indies (HINDI 🇮🇳)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9f1cb8a1361457bbd8097f8c2590000:1960274b7ba344cb899eba2e80916774
+https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd?|cookie=hdntl=exp=1791755217~acl=%2f*~id=b07da0716d746fbed90b93cd36005057~data=hdntl~hmac=cdabcb08256a10a738b3e139cd4b392a6dd9b04d623638c965fed089f9b2cca8&referer=https://www.hotstar.com/&origin=https://www.hotstar.com
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Upcoming | India vs West Indies [11 Oct 07:00 PM]", India vs West Indies (ENGLISH 🇮🇳)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e85897bf6e594d698b7c82646c8e0000:d2dda31234ae40538843e871cd4dcc2a
+https://livetv.hotstar.com/mp1/gec-india-1540068247/9a6e7c30f9194cc1a6a6250cedb115fb/index.mpd?|cookie=hdntl=exp=1791755217~acl=%2f*~id=b07da0716d746fbed90b93cd36005057~data=hdntl~hmac=cdabcb08256a10a738b3e139cd4b392a6dd9b04d623638c965fed089f9b2cca8&referer=https://www.hotstar.com/&origin=https://www.hotstar.com
 #EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 Premier League [19 Sep 06:45 PM]", EUROPEAN T20 Premier League (TNT SPORTS )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
@@ -12,19 +20,25 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 Premier League [19 Sep 06:45 PM]", EUROPEAN T20 Premier League (WILLOW HD)
 http://tvsen5.aynascope.net/willowhd/index.m3u8
-#EXTINF:-1 tvg-logo="https://wclegends.org/wp-content/uploads/2026/06/WCL-Season-3.jpg" group-title="Recent | WCL vs WCL [09 Oct 05:00 PM]", WCL vs WCL (WILLOW ADFREE)
+#EXTINF:-1 tvg-logo="https://wclegends.org/wp-content/uploads/2026/06/WCL-Season-3.jpg" group-title="Upcoming | WCL vs WCL [11 Oct 05:00 PM]", WCL vs WCL (WILLOW ADFREE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9dd245fb23d190ca8222a4d94476ab40:c8cbd313661d9ab75603ce59a0c974b0
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/baf1i3t0be/out/v1/4682e81704e242fd9bfb36f56b6413e7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Recent | Afghanistan vs Bangladesh [10 Oct 11:30 AM]", Afghanistan vs Bangladesh (WILLOW ADFREE)
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="🔴 Live | Afghanistan vs Bangladesh [11 Oct 11:30 AM]", Afghanistan vs Bangladesh (WILLOW ADFREE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09269747be60ae1f8d4283d6d5d01fd2:a46879b547df24d568c8f89ae6c3273c
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v8s736w0hw/out/v1/157d723d80d94a3998a06a8e78ad0686/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Recent | Afghanistan vs Bangladesh [10 Oct 11:30 AM]", Afghanistan vs Bangladesh (TAPMAD)
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM/master.m3u8|referer=https://www.tapmad.com/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | South Africa vs Australia [10 Oct 01:00 PM]", South Africa vs Australia (WILLOW ADFREE)
+#KODIPROP:inputstream.adaptive.license_key=2a90a3c5b4d9c0616f4ecb1505a24e0b:058f1d252ada25265a12c34956938d13
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/e0eyt6dthw/out/v1/48477a7069c144249da1056a87e3d764/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="🔴 Live | Afghanistan vs Bangladesh [11 Oct 11:30 AM]", Afghanistan vs Bangladesh (TAPMAD)
+https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8|referer=https://tapmad.com/
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | South Africa vs Australia [11 Oct 01:00 PM]", South Africa vs Australia (WILLOW ADFREE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=61b5fe1a7d9d83929d15da6db1c5f427:6e8231835a24911fd035a47e49f5c53b
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1dwfmiwgbk/out/v1/713012dd281246dc827872d3920a8443/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | South Africa vs Australia [10 Oct 01:00 PM]", South Africa vs Australia (SKY CRICKET )
+#KODIPROP:inputstream.adaptive.license_key=61b5fe1a7d9d83929d15da6db1c93a6a7eba3555210bbeb9a8bc1770a71:86b8aed2b10c0124d6da65bdeafa67075f427:6e8231835a24911fd035a47e49f5c53b
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ik0zeufmnr/out/v1/4ce238b19c5c4541bff0e2697c5d3fc5/cenc.mpd
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | South Africa vs Australia [11 Oct 01:00 PM]", South Africa vs Australia (SKY CRICKET )
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="🔴 Live | Australia Women vs Bangladesh Women [11 Oct 09:20 AM]", Australia Women vs Bangladesh Women (Link 1)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d9a00a9fc737d5ef4e05c9649eae1b4:58fd9a8122f34cef93c6c4ac432bc1e5
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jhqpjlh8bf/out/v1/6d0833973c0742f7be950ca5738cc98a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Upcoming | Pakistan vs Sri Lanka [11 Oct 06:30 PM]", Pakistan vs Sri Lanka (Link 1)
+https://no.link
