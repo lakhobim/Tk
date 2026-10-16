@@ -1,6 +1,6 @@
 #EXTM3U
-# Updated: 2026-10-16 08:33:40
-# Total Channels: 10
+# Updated: 2026-10-16 13:29:26
+# Total Channels: 11
 
 #EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 Premier League [19 Sep 06:45 PM]", EUROPEAN T20 Premier League (TNT SPORTS )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -12,7 +12,7 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 Premier League [19 Sep 06:45 PM]", EUROPEAN T20 Premier League (WILLOW HD)
 http://tvsen5.aynascope.net/willowhd/index.m3u8
-#EXTINF:-1 tvg-logo="https://wclegends.org/wp-content/uploads/2026/06/WCL-Season-3.jpg" group-title="Upcoming | WCL vs WCL [16 Oct 05:00 PM]", WCL vs WCL (STARZ PLAY)
+#EXTINF:-1 tvg-logo="https://wclegends.org/wp-content/uploads/2026/06/WCL-Season-3.jpg" group-title="🔴 Live | WCL vs WCL [16 Oct 05:00 PM]", WCL vs WCL (STARZ PLAY)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9
 https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd
@@ -28,3 +28,7 @@ https://no.link
 https://no.link
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="Upcoming | Canada vs Nepal [17 Oct 11:00 AM]", Canada vs Nepal (Link 1)
 https://no.link
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="Upcoming | India Women vs Zimbabwe Women [16 Oct 07:00 PM]", India Women vs Zimbabwe Women (WILLOW HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
