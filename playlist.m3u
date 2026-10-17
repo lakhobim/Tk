@@ -1,6 +1,6 @@
 #EXTM3U
-# Updated: 2026-10-17 08:06:14
-# Total Channels: 11
+# Updated: 2026-10-17 12:11:22
+# Total Channels: 12
 
 #EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 Premier League [19 Sep 06:45 PM]", EUROPEAN T20 Premier League (TNT SPORTS )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -22,15 +22,19 @@ https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/in
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vtnaoi93r1/out/v1/d9590bf213cb4df3b5ef8ae5aaf25d0a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Recent | Pakistan vs Sri Lanka [13 Oct 06:30 PM]", Pakistan vs Sri Lanka (TAPMAD)
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8|referer=https://tapmad.com/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Upcoming | India vs West Indies [17 Oct 07:00 PM]", India vs West Indies (Link 1)
-https://no.link
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/37663/image/dark" group-title="Upcoming | Bangladesh vs Zimbabwe [17 Oct 05:30 PM]", Bangladesh vs Zimbabwe (Link 1)
-https://no.link
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="🔴 Live | Canada vs Nepal [17 Oct 11:00 AM]", Canada vs Nepal (ICC TV)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Upcoming | India vs West Indies [17 Oct 07:00 PM]", India vs West Indies (HINDI 🇮🇳)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-10)/hdntl=exp=1792242011~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=ac4c9d8b443780294b7557bdddccaff13a3ddf2e7355eab11e0e405277d3b3e5/manifest.mpd?vcfilter=ad10685a-90e7-4006-bc71-2d7eef2d7b2a&|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A157.0)%20Gecko%2F20100101%20Firefox%2F157.0&Referer=https%3A%2F%2Fwww.icc-cricket.com%2F&Origin=https%3A%2F%2Fwww.icc-cricket.com
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/21958/image/dark" group-title="🔴 Live | Canada vs Nepal [17 Oct 11:00 AM]", Canada vs Nepal (ICC TV 2)
+#KODIPROP:inputstream.adaptive.license_key=b9f1cb8a1361457bbd8097f8c2590000:1960274b7ba344cb899eba2e80916774
+https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd|Cookie=hdntl=exp=1792321802~acl=%2f*~id=240a0f7bae3a4a3593b500232358b7ba~data=hdntl~hmac=e86150faa37ec2f4b21e57e4988feb142ea081f426453c2f49f7dbb4024ab355&User-Agent=Hotstar;in.startv.hotstar.dplus.tv/26.05.10.2 (Android/14; androidtv)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Upcoming | India vs West Indies [17 Oct 07:00 PM]", India vs West Indies (ENGLISH 🇮🇳)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d-nodvr/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1792242007~acl=%2fvariant%2fv1blackout%2fvcg-01-d-nodvr%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=326c543f04bc5d1f63e8119fc1b0a0aea342f1a2b9d805d3e68d02f0a1274a12/manifest.mpd?vcfilter=e747806c-2d6c-47f9-adf5-40e9f734a8a8&|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A157.0)%20Gecko%2F20100101%20Firefox%2F157.0&Referer=https%3A%2F%2Fwww.icc-cricket.com%2F&Origin=https%3A%2F%2Fwww.icc-cricket.com
+#KODIPROP:inputstream.adaptive.license_key=e85897bf6e594d698b7c82646c8e0000:d2dda31234ae40538843e871cd4dcc2a
+https://livetv.hotstar.com/mp1/gec-india-1540068247/9a6e7c30f9194cc1a6a6250cedb115fb/index.mpd|Cookie=hdntl=exp=1792321887~acl=%2f*~id=cc9e4fcdc355f0f039435d4381617f70~data=hdntl~hmac=65ab59db8dc6e5865663cf3975092efa5119a79c610fbaa33460d5fe820a7202&User-Agent=Hotstar;in.startv.hotstar.dplus.tv/26.05.10.2 (Android/14; androidtv)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/37663/image/dark" group-title="🔴 Live | Bangladesh vs Zimbabwe [17 Oct 05:00 PM]", Bangladesh vs Zimbabwe (WILLOW ADFREE)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d67c0f3e8d176e693e9d452ec4aeca2f:3cae5de28b16ae8152999574ced3b4db
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iiqppqpksi/out/v1/5aedff78e45a44a08461ab32fa41310a/cenc.mpd
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/37663/image/dark" group-title="🔴 Live | Bangladesh vs Zimbabwe [17 Oct 05:00 PM]", Bangladesh vs Zimbabwe (TAPMAD )
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8|referer=https://tapmad.com/
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/37663/image/dark" group-title="🔴 Live | Bangladesh vs Zimbabwe [17 Oct 05:00 PM]", Bangladesh vs Zimbabwe (FANCODE 🇮🇳)
+https://dai-fancode.pages.dev/mumbai/4249694_english_hls_c370ab317921311_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
