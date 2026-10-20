@@ -1,6 +1,6 @@
 #EXTM3U
-# Updated: 2026-10-20 14:03:27
-# Total Channels: 24
+# Updated: 2026-10-20 18:27:53
+# Total Channels: 21
 
 #EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 Premier League [19 Sep 06:45 PM]", EUROPEAN T20 Premier League (TNT SPORTS )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -12,15 +12,15 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 Premier League [19 Sep 06:45 PM]", EUROPEAN T20 Premier League (WILLOW HD)
 http://tvsen5.aynascope.net/willowhd/index.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | South Africa vs Australia [20 Oct 01:30 PM]", South Africa vs Australia (WILLOW ADFREE )
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | South Africa vs Australia [20 Oct 01:30 PM]", South Africa vs Australia (WILLOW ADFREE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=080ee04799e134b38da01ba4bfca26b7:e7238b74d5c55457ea611fe541c358aa
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4kosuavavh/out/v1/9e742bb032404e1fb540828f2aaca55c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | South Africa vs Australia [20 Oct 01:30 PM]", South Africa vs Australia (FANCODE )
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | South Africa vs Australia [20 Oct 01:30 PM]", South Africa vs Australia (FANCODE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | South Africa vs Australia [20 Oct 01:30 PM]", South Africa vs Australia (SKY CRICKET )
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | South Africa vs Australia [20 Oct 01:30 PM]", South Africa vs Australia (SKY CRICKET )
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="🔴 Live | India Women vs Zimbabwe Women [20 Oct 07:00 PM]", India Women vs Zimbabwe Women (WILLOW ADFREE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -54,29 +54,17 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8?|referer=https://tapmad.com/&origin=https://tapmad.com
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/37663/image/dark" group-title="Recent | Afghanistan vs Zimbabwe [19 Oct 05:00 PM]", Afghanistan vs Zimbabwe (FANCODE 🇮🇳)
 https://dai-fancode.pages.dev/mumbai/4249694_english_hls_c370ab317921311_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/22868/image/dark" group-title="🔴 Live | Pakistan vs England [20 Oct 01:30 PM]", Pakistan vs England (WILLOW ADFREE)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/22868/image/dark" group-title="Recent | Pakistan vs England [20 Oct 01:30 PM]", Pakistan vs England (WILLOW ADFREE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a735880c9bd9c4b32e5bbda6e7d31f:5c80ac6538d99e2fd05fceee6c549138
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/afwmxgd4dp/out/v1/40ec86a6a3cd409a93bab83897ab5aa8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/22868/image/dark" group-title="🔴 Live | Pakistan vs England [20 Oct 01:30 PM]", Pakistan vs England (WILLOW ALT)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/22868/image/dark" group-title="Recent | Pakistan vs England [20 Oct 01:30 PM]", Pakistan vs England (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c4845fc9cde933409425c0832b6b048:7170bec182bad38d5021df6b8d4e8b41
 https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/3uuodbjubt/out/v1/bb97fd1f7ebc4aeaae687094586a984c/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/22868/image/dark" group-title="🔴 Live | Pakistan vs England [20 Oct 01:30 PM]", Pakistan vs England (SKY CRICKET )
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/22868/image/dark" group-title="Recent | Pakistan vs England [20 Oct 01:30 PM]", Pakistan vs England (SKY CRICKET )
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/22868/image/dark" group-title="🔴 Live | Pakistan vs England [20 Oct 01:30 PM]", Pakistan vs England (TAPMAD)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/22868/image/dark" group-title="Recent | Pakistan vs England [20 Oct 01:30 PM]", Pakistan vs England (TAPMAD)
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad5/master.m3u8|referer=https://tapmad.com/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/22868/image/dark" group-title="🔴 Live | Pakistan vs England [20 Oct 01:30 PM]", Pakistan vs England (TAMASHA 🇵🇰)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/22868/image/dark" group-title="Recent | Pakistan vs England [20 Oct 01:30 PM]", Pakistan vs England (TAMASHA 🇵🇰)
 https://cdn2aws.tamashaweb.com/out/v1/bbe6ba6d0d1c47fbb8042a49b64db630/index.m3u8?start=1792308000
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="🔴 Live | Australia Women vs New Zealand Women [20 Oct 01:45 PM]", Australia Women vs New Zealand Women (WILLOW ADFREE )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ff6bbc0fa89d51311428943f62a4a963:baaf14b24baf5bcf71e5f342aea992c0
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pabc4zn8o5/out/v1/59ab1033880d45108fe6ef7e6d493c5a/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="🔴 Live | Australia Women vs New Zealand Women [20 Oct 01:45 PM]", Australia Women vs New Zealand Women (WILLOW ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ff6bbc0fa89d51311428943f62a4a963:baaf14b24baf5bcf71e5f342aea992c0
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pabc4zn8o5/out/v1/59ab1033880d45108fe6ef7e6d493c5a/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="🔴 Live | Australia Women vs New Zealand Women [20 Oct 01:45 PM]", Australia Women vs New Zealand Women (WILLOW HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
