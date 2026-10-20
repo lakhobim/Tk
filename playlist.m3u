@@ -1,6 +1,6 @@
 #EXTM3U
-# Updated: 2026-10-19 21:12:59
-# Total Channels: 18
+# Updated: 2026-10-20 08:58:06
+# Total Channels: 24
 
 #EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 Premier League [19 Sep 06:45 PM]", EUROPEAN T20 Premier League (TNT SPORTS )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -12,44 +12,36 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 Premier League [19 Sep 06:45 PM]", EUROPEAN T20 Premier League (WILLOW HD)
 http://tvsen5.aynascope.net/willowhd/index.m3u8
-#EXTINF:-1 tvg-logo="https://wclegends.org/wp-content/uploads/2026/06/WCL-Season-3.jpg" group-title="Recent | WCL vs WCL [18 Oct 09:00 PM]", WCL vs WCL (STARZ PLAY)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | South Africa vs Australia [20 Oct 01:30 PM]", South Africa vs Australia (WILLOW ADFREE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9
-https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd
-#EXTINF:-1 tvg-logo="https://wclegends.org/wp-content/uploads/2026/06/WCL-Season-3.jpg" group-title="Recent | WCL vs WCL [18 Oct 09:00 PM]", WCL vs WCL (WILLOW ADFREE)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c4e6bd30698f91c0d1e99e505d8859c7:cea8ba61e532c7143c630f0c9becd7a6
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/szep2s50dy/out/v1/0654483782a74c1e9e3e578377d28fc6/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | South Africa vs Australia [19 Oct 01:30 PM]", South Africa vs Australia (WILLOW ADFREE )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d104ea685f4e34ca82b51758c4a1f1f:3817e044aa7cf3c012069fae8a1b17cb
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fspu6lxxw0/out/v1/690becb9981247eda1a04ab7229753b5/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | South Africa vs Australia [19 Oct 01:30 PM]", South Africa vs Australia (FANCODE )
+#KODIPROP:inputstream.adaptive.license_key=080ee04799e134b38da01ba4bfca26b7:e7238b74d5c55457ea611fe541c358aa
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4kosuavavh/out/v1/9e742bb032404e1fb540828f2aaca55c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | South Africa vs Australia [20 Oct 01:30 PM]", South Africa vs Australia (FANCODE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | South Africa vs Australia [19 Oct 01:30 PM]", South Africa vs Australia (SKY CRICKET )
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | South Africa vs Australia [20 Oct 01:30 PM]", South Africa vs Australia (SKY CRICKET )
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="Recent | India Women vs Zimbabwe Women [18 Oct 07:00 PM]", India Women vs Zimbabwe Women (WILLOW ADFREE)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="Upcoming | India Women vs Zimbabwe Women [20 Oct 07:00 PM]", India Women vs Zimbabwe Women (WILLOW ADFREE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0053b9514409de27bf6221c814b538f4:1811438205be600833cc92aa28208d7f
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/axd5oq6w8a/out/v1/38e4c16be26a4a668643e206c7eeec25/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="Recent | India Women vs Zimbabwe Women [18 Oct 07:00 PM]", India Women vs Zimbabwe Women (HINDI 🇮🇳)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="Upcoming | India Women vs Zimbabwe Women [20 Oct 07:00 PM]", India Women vs Zimbabwe Women (HINDI 🇮🇳)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b9f1cb8a1361457bbd8097f8c2590000:1960274b7ba344cb899eba2e80916774
-https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd|Cookie=hdntl=exp=1792365968~acl=%2f*~id=d2760bd41641623da0563427ebeb34ad~data=hdntl~hmac=4a87bbdea92e48379ab19d76087635f53999077f40b3945255cf01cd63ae7780&User-Agent=Virat&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="Recent | India Women vs Zimbabwe Women [18 Oct 07:00 PM]", India Women vs Zimbabwe Women (ENGLISH 🇮🇳)
+https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd|Cookie=hdntl=exp=1792542637~acl=%2f*~id=d1feff19091856cd9efa6a105ae2a139~data=hdntl~hmac=65e69c4f024629f7292f9d614b7a3819d332987adadc460f5ef1d9662931cecc&User-Agent=Virat&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="Upcoming | India Women vs Zimbabwe Women [20 Oct 07:00 PM]", India Women vs Zimbabwe Women (ENGLISH 🇮🇳)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e85897bf6e594d698b7c82646c8e0000:d2dda31234ae40538843e871cd4dcc2a
-https://livetv.hotstar.com/mp1/gec-india-1540068247/9a6e7c30f9194cc1a6a6250cedb115fb/index.mpd|Cookie=hdntl=exp=1792365968~acl=%2f*~id=d2760bd41641623da0563427ebeb34ad~data=hdntl~hmac=4a87bbdea92e48379ab19d76087635f53999077f40b3945255cf01cd63ae7780&User-Agent=Virat&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="Recent | India Women vs Zimbabwe Women [18 Oct 07:00 PM]", India Women vs Zimbabwe Women (TAMIL 🇮🇳)
+https://livetv.hotstar.com/mp1/gec-india-1540068247/9a6e7c30f9194cc1a6a6250cedb115fb/index.mpd|Cookie=hdntl=exp=1792542637~acl=%2f*~id=d1feff19091856cd9efa6a105ae2a139~data=hdntl~hmac=65e69c4f024629f7292f9d614b7a3819d332987adadc460f5ef1d9662931cecc&User-Agent=Virat&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="Upcoming | India Women vs Zimbabwe Women [20 Oct 07:00 PM]", India Women vs Zimbabwe Women (TAMIL 🇮🇳)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=01cc63d414394296bb3e6cfaffee0000:c1fba587fc8b4218ade5ace1e62e5aaf
-https://livetv.hotstar.com/mp2/gec-india-1540068334/3468fd902b12418598cabe63585e7efe/index.mpd|Cookie=hdntl=exp=1792365968~acl=%2f*~id=d2760bd41641623da0563427ebeb34ad~data=hdntl~hmac=4a87bbdea92e48379ab19d76087635f53999077f40b3945255cf01cd63ae7780&User-Agent=Virat&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="Recent | India Women vs Zimbabwe Women [18 Oct 07:00 PM]", India Women vs Zimbabwe Women (TELUGU 🇮🇳)
+https://livetv.hotstar.com/mp2/gec-india-1540068334/3468fd902b12418598cabe63585e7efe/index.mpd|Cookie=hdntl=exp=1792542637~acl=%2f*~id=d1feff19091856cd9efa6a105ae2a139~data=hdntl~hmac=65e69c4f024629f7292f9d614b7a3819d332987adadc460f5ef1d9662931cecc&User-Agent=Virat&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="Upcoming | India Women vs Zimbabwe Women [20 Oct 07:00 PM]", India Women vs Zimbabwe Women (TELUGU 🇮🇳)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4634b32328f242e3be51c3e06cde0000:42e90ab215bf4a438b55851b5e0f50dc
-https://livetv.hotstar.com/mp2/gec-india-1540068280/e8c0ed405e544793a1f827c477839581/index.mpd|Cookie=hdntl=exp=1792365968~acl=%2f*~id=d2760bd41641623da0563427ebeb34ad~data=hdntl~hmac=4a87bbdea92e48379ab19d76087635f53999077f40b3945255cf01cd63ae7780&User-Agent=Virat&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
+https://livetv.hotstar.com/mp2/gec-india-1540068280/e8c0ed405e544793a1f827c477839581/index.mpd|Cookie=hdntl=exp=1792542637~acl=%2f*~id=d1feff19091856cd9efa6a105ae2a139~data=hdntl~hmac=65e69c4f024629f7292f9d614b7a3819d332987adadc460f5ef1d9662931cecc&User-Agent=Virat&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/37663/image/dark" group-title="Recent | Afghanistan vs Zimbabwe [19 Oct 05:00 PM]", Afghanistan vs Zimbabwe (WILLOW ADFREE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d57bd95dbcabbb9bd7917982d72b4c5:1cac0963a8a04fab11efa87f1a09b1b3
@@ -62,3 +54,29 @@ https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8?|referer=https://tapmad.com/&origin=https://tapmad.com
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/37663/image/dark" group-title="Recent | Afghanistan vs Zimbabwe [19 Oct 05:00 PM]", Afghanistan vs Zimbabwe (FANCODE 🇮🇳)
 https://dai-fancode.pages.dev/mumbai/4249694_english_hls_c370ab317921311_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/22868/image/dark" group-title="🔴 Live | Pakistan vs England [20 Oct 01:30 PM]", Pakistan vs England (WILLOW ADFREE)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69a735880c9bd9c4b32e5bbda6e7d31f:5c80ac6538d99e2fd05fceee6c549138
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/afwmxgd4dp/out/v1/40ec86a6a3cd409a93bab83897ab5aa8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/22868/image/dark" group-title="🔴 Live | Pakistan vs England [20 Oct 01:30 PM]", Pakistan vs England (WILLOW ALT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c4845fc9cde933409425c0832b6b048:7170bec182bad38d5021df6b8d4e8b41
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/3uuodbjubt/out/v1/bb97fd1f7ebc4aeaae687094586a984c/cenc.mpd
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/22868/image/dark" group-title="🔴 Live | Pakistan vs England [20 Oct 01:30 PM]", Pakistan vs England (SKY CRICKET )
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/22868/image/dark" group-title="🔴 Live | Pakistan vs England [20 Oct 01:30 PM]", Pakistan vs England (TAPMAD)
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad5/master.m3u8|referer=https://tapmad.com/
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/22868/image/dark" group-title="🔴 Live | Pakistan vs England [20 Oct 01:30 PM]", Pakistan vs England (TAMASHA 🇵🇰)
+https://cdn2aws.tamashaweb.com/out/v1/bbe6ba6d0d1c47fbb8042a49b64db630/index.m3u8?start=1792308000
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="🔴 Live | Australia Women vs New Zealand Women [20 Oct 01:45 PM]", Australia Women vs New Zealand Women (WILLOW ADFREE )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff6bbc0fa89d51311428943f62a4a963:baaf14b24baf5bcf71e5f342aea992c0
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pabc4zn8o5/out/v1/59ab1033880d45108fe6ef7e6d493c5a/cenc.mpd
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="🔴 Live | Australia Women vs New Zealand Women [20 Oct 01:45 PM]", Australia Women vs New Zealand Women (WILLOW ALT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff6bbc0fa89d51311428943f62a4a963:baaf14b24baf5bcf71e5f342aea992c0
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pabc4zn8o5/out/v1/59ab1033880d45108fe6ef7e6d493c5a/cenc.mpd
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark" group-title="🔴 Live | Australia Women vs New Zealand Women [20 Oct 01:45 PM]", Australia Women vs New Zealand Women (WILLOW HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
