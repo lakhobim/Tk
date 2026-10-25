@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2026-10-25 13:25:09
+# Updated: 2026-10-25 17:11:48
 # Total Channels: 13
 
 #EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 Premier League [19 Sep 06:45 PM]", EUROPEAN T20 Premier League (TNT SPORTS )
@@ -12,29 +12,29 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 Premier League [19 Sep 06:45 PM]", EUROPEAN T20 Premier League (WILLOW HD)
 http://tvsen5.aynascope.net/willowhd/index.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="🔴 Live | India Women vs Zimbabwe Women [25 Oct 02:00 PM]", India Women vs Zimbabwe Women (WILLOW ADFREE)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Recent | India Women vs Zimbabwe Women [25 Oct 02:00 PM]", India Women vs Zimbabwe Women (WILLOW ADFREE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7aa827ea7809299f1459d4934d4d9953:f899257f571bd6a083d8a113edfc3a39
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8vuwsrlox8/out/v1/4f4d1839e07a4c79b0dc7b5a30cea419/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="🔴 Live | India Women vs Zimbabwe Women [25 Oct 02:00 PM]", India Women vs Zimbabwe Women (TNT SPORTS )
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Recent | India Women vs Zimbabwe Women [25 Oct 02:00 PM]", India Women vs Zimbabwe Women (TNT SPORTS )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="🔴 Live | India Women vs Zimbabwe Women [25 Oct 02:00 PM]", India Women vs Zimbabwe Women (WILLOW ALT)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18793/image/dark" group-title="Recent | India Women vs Zimbabwe Women [25 Oct 02:00 PM]", India Women vs Zimbabwe Women (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7aa827ea7809299f1459d4934d4d9953:f899257f571bd6a083d8a113edfc3a39
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/8vuwsrlox8/out/v1/4f4d1839e07a4c79b0dc7b5a30cea419/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/22868/image/dark" group-title="🔴 Live | Pakistan vs England [25 Oct 01:30 PM]", Pakistan vs England (WILLOW ADFREE)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/22868/image/dark" group-title="Recent | Pakistan vs England [25 Oct 01:30 PM]", Pakistan vs England (WILLOW ADFREE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=53ac5670511d1300366b35b85eb6eadc:e255086091e4638f16985ca3ddd56e2b
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/etttcyodrm/out/v1/2e476a75a79741c0bc7c9586e59a5f0e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/22868/image/dark" group-title="🔴 Live | Pakistan vs England [25 Oct 01:30 PM]", Pakistan vs England (SKY SPORTS )
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/22868/image/dark" group-title="Recent | Pakistan vs England [25 Oct 01:30 PM]", Pakistan vs England (SKY SPORTS )
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/22868/image/dark" group-title="🔴 Live | Pakistan vs England [25 Oct 01:30 PM]", Pakistan vs England (FOX CRICKET )
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/22868/image/dark" group-title="Recent | Pakistan vs England [25 Oct 01:30 PM]", Pakistan vs England (FOX CRICKET )
 https://motherofdragons.bondsplive.online/441307/logosp.webp?&e=.m3u8|referer=https://youjizz.com/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/22868/image/dark" group-title="🔴 Live | Pakistan vs England [25 Oct 01:30 PM]", Pakistan vs England (TAPMAD)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/22868/image/dark" group-title="Recent | Pakistan vs England [25 Oct 01:30 PM]", Pakistan vs England (TAPMAD)
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8?|referer=https://tapmad.com/&origin=https://tapmad.com
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/22868/image/dark" group-title="🔴 Live | Pakistan vs England [25 Oct 01:30 PM]", Pakistan vs England (TAMASHA 🇵🇰)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/22868/image/dark" group-title="Recent | Pakistan vs England [25 Oct 01:30 PM]", Pakistan vs England (TAMASHA 🇵🇰)
 https://cdn2aws.tamashaweb.com/out/v1/bbe6ba6d0d1c47fbb8042a49b64db630/index.m3u8
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Upcoming | New Zealand vs India [27 Oct 12:30 PM]", New Zealand vs India (Link 1)
 https://no.link
