@@ -1,32 +1,12 @@
 #EXTM3U
-# Updated: 2026-10-28 16:38:02
-# Total Channels: 15
+# Updated: 2026-10-28 21:17:47
+# Total Channels: 9
 
-#EXTINF:-1 tvg-logo="" group-title="🔴 Live | WPL 2026 AUCTION  [28 Oct 05:00 PM]", WPL 2026 AUCTION  (HINDI 🇮🇳)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b9f1cb8a1361457bbd8097f8c2590000:1960274b7ba344cb899eba2e80916774
-https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd|Cookie=hdntl=exp=1793253538~acl=%2f*~id=8fed6805eda91ca509d388b736efbe4a~data=hdntl~hmac=dd1d8f5fb990c1532682d13474e7ecc38d31981e7af37163b295022c45e001d2&User-Agent=Virat&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-#EXTINF:-1 tvg-logo="" group-title="🔴 Live | WPL 2026 AUCTION  [28 Oct 05:00 PM]", WPL 2026 AUCTION  (ENGLISH 🇮🇳)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e85897bf6e594d698b7c82646c8e0000:d2dda31234ae40538843e871cd4dcc2a
-https://livetv.hotstar.com/mp1/gec-india-1540068247/9a6e7c30f9194cc1a6a6250cedb115fb/index.mpd|Cookie=hdntl=exp=1793253538~acl=%2f*~id=8fed6805eda91ca509d388b736efbe4a~data=hdntl~hmac=dd1d8f5fb990c1532682d13474e7ecc38d31981e7af37163b295022c45e001d2&User-Agent=Virat&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-#EXTINF:-1 tvg-logo="" group-title="🔴 Live | WPL 2026 AUCTION  [28 Oct 05:00 PM]", WPL 2026 AUCTION  (TAMIL 🇮🇳)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=01cc63d414394296bb3e6cfaffee0000:c1fba587fc8b4218ade5ace1e62e5aaf
-https://livetv.hotstar.com/mp2/gec-india-1540068334/3468fd902b12418598cabe63585e7efe/index.mpd|Cookie=hdntl=exp=1793253538~acl=%2f*~id=8fed6805eda91ca509d388b736efbe4a~data=hdntl~hmac=dd1d8f5fb990c1532682d13474e7ecc38d31981e7af37163b295022c45e001d2&User-Agent=Virat&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-#EXTINF:-1 tvg-logo="" group-title="🔴 Live | WPL 2026 AUCTION  [28 Oct 05:00 PM]", WPL 2026 AUCTION  (TELUGU 🇮🇳)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4634b32328f242e3be51c3e06cde0000:42e90ab215bf4a438b55851b5e0f50dc
-https://livetv.hotstar.com/mp2/gec-india-1540068280/e8c0ed405e544793a1f827c477839581/index.mpd|Cookie=hdntl=exp=1793253538~acl=%2f*~id=8fed6805eda91ca509d388b736efbe4a~data=hdntl~hmac=dd1d8f5fb990c1532682d13474e7ecc38d31981e7af37163b295022c45e001d2&User-Agent=Virat&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-#EXTINF:-1 tvg-logo="" group-title="🔴 Live | WPL 2026 AUCTION  [28 Oct 05:00 PM]", WPL 2026 AUCTION  (KANNADA 🇮🇳)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eb2f9710abf44bb1bcf51400ccc00000:5f29f372823346e78934431f2a924065
-https://livetv.hotstar.com/mp1/gec-india-1540068322/6409ab04235d4a0886656913f360c0a7/index.mpd|Cookie=hdntl=exp=1793253538~acl=%2f*~id=8fed6805eda91ca509d388b736efbe4a~data=hdntl~hmac=dd1d8f5fb990c1532682d13474e7ecc38d31981e7af37163b295022c45e001d2&User-Agent=Virat&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL-S3.png" group-title="🔴 Live | NPL vs NPL [28 Oct 04:45 PM]", NPL vs NPL (STAR SELECT HD)
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL-S3.png" group-title="Recent | NPL vs NPL [28 Oct 04:45 PM]", NPL vs NPL (STAR SELECT HD)
 https://spowncdn.bondsplive.online/npokl/logo.png?&e=.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL-S3.png" group-title="🔴 Live | NPL vs NPL [28 Oct 04:45 PM]", NPL vs NPL (SD SERVER )
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL-S3.png" group-title="Recent | NPL vs NPL [28 Oct 04:45 PM]", NPL vs NPL (SD SERVER )
 http://162.251.160.53:8089/NPLT20/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL-S3.png" group-title="🔴 Live | NPL vs NPL [28 Oct 04:45 PM]", NPL vs NPL (STAR SELECT )
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL-S3.png" group-title="Recent | NPL vs NPL [28 Oct 04:45 PM]", NPL vs NPL (STAR SELECT )
 https://baila-lentoo.pages.dev/all-sp/373201.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 Premier League [19 Sep 06:45 PM]", EUROPEAN T20 Premier League (TNT SPORTS )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -38,13 +18,7 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 Premier League [19 Sep 06:45 PM]", EUROPEAN T20 Premier League (WILLOW HD)
 http://tvsen5.aynascope.net/willowhd/index.m3u8
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | South Africa vs Australia [28 Oct 02:00 PM]", South Africa vs Australia (WILLOW ADFREE )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d8a8cf63f2cb151902100b0d9e668dd:e75124a72568aee19b04558263d1d050
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cqpsmp3hvg/out/v1/9e9f972a0244430f880cee85c6addb7d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | South Africa vs Australia [28 Oct 02:00 PM]", South Africa vs Australia (FANCODE )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | South Africa vs Australia [28 Oct 02:00 PM]", South Africa vs Australia (SKY CRICKET )
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/22868/image/dark" group-title="Upcoming | Sri Lanka vs England [29 Oct 01:30 PM]", Sri Lanka vs England (Link 1)
+https://no.link
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Upcoming | Afghanistan vs Zimbabwe [29 Oct 08:00 PM]", Afghanistan vs Zimbabwe (Link 1)
+https://no.link
