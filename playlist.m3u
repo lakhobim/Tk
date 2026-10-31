@@ -1,12 +1,12 @@
 #EXTM3U
-# Updated: 2026-10-31 15:37:38
-# Total Channels: 24
+# Updated: 2026-10-31 19:30:59
+# Total Channels: 21
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL-S3.png" group-title="🔴 Live | NPL vs NPL [31 Oct 04:15 PM]", NPL vs NPL (SK LIVE )
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL-S3.png" group-title="Recent | NPL vs NPL [31 Oct 04:15 PM]", NPL vs NPL (SK LIVE )
 https://ottnlive-fstream.nettvstreamz.com/live_hls/npl_match_3/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL-S3.png" group-title="🔴 Live | NPL vs NPL [31 Oct 04:15 PM]", NPL vs NPL (SD SERVER )
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL-S3.png" group-title="Recent | NPL vs NPL [31 Oct 04:15 PM]", NPL vs NPL (SD SERVER )
 http://162.251.160.53:8089/NPLT20/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL-S3.png" group-title="🔴 Live | NPL vs NPL [31 Oct 04:15 PM]", NPL vs NPL (STAR SELECT )
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL-S3.png" group-title="Recent | NPL vs NPL [31 Oct 04:15 PM]", NPL vs NPL (STAR SELECT )
 https://baila-lentoo.pages.dev/all-sp/373201.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 Premier League [19 Sep 06:45 PM]", EUROPEAN T20 Premier League (TNT SPORTS )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -36,28 +36,18 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8|referer=https://tapmad.com/
 #EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | Bangladesh vs West Indies [31 Oct 09:00 AM]", Bangladesh vs West Indies (RABBIT )
 https://hpc5-nmc-mnc.mydex.tv/_tkn_st=1793163608~exp=1793192468~acl=/bpk-tv/202/default/*~eti=fa5c4cfd542424a6997eeb9a23402d68~sid=bd517d501743ba42~imax=2~hmac=a93e35b6ba5cd2b8f875372fdddac209b26195fd898d8aacdb59621bf0359000/bpk-tv/202/default/index.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | South Africa vs Australia [31 Oct 02:00 PM]", South Africa vs Australia (WILLOW ADFREE)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | South Africa vs Australia [31 Oct 02:00 PM]", South Africa vs Australia (WILLOW ADFREE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=055e7d596817187feb6148156f166cd4:d2f924558033464139e9367ffe346149
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/muuiy51nil/out/v1/a441f3a044df462e89583d61af8fdd47/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | South Africa vs Australia [31 Oct 02:00 PM]", South Africa vs Australia (FANCODE )
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | South Africa vs Australia [31 Oct 02:00 PM]", South Africa vs Australia (FANCODE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | South Africa vs Australia [31 Oct 02:00 PM]", South Africa vs Australia (SKY CRICKET )
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | South Africa vs Australia [31 Oct 02:00 PM]", South Africa vs Australia (SKY CRICKET )
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark" group-title="Upcoming | New Zealand vs India [01 Nov 12:30 PM]", New Zealand vs India (Link 1)
 https://no_link.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/22868/image/dark" group-title="🔴 Live | Pakistan vs Sri Lanka [31 Oct 01:30 PM]", Pakistan vs Sri Lanka (WILLOW ADFREE)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a323fd2c6886dfea4831314fd63c4eb7:462c6dd2b56c26e958f5981fea25aef4
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kauhtkxesb/out/v1/b7ddf44fd9d847f892422ff925f1c04c/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/22868/image/dark" group-title="🔴 Live | Pakistan vs Sri Lanka [31 Oct 01:30 PM]", Pakistan vs Sri Lanka (WILLOW ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a323fd2c6886dfea4831314fd63c4eb7:462c6dd2b56c26e958f5981fea25aef4
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kauhtkxesb/out/v1/b7ddf44fd9d847f892422ff925f1c04c/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/22868/image/dark" group-title="🔴 Live | Pakistan vs Sri Lanka [31 Oct 01:30 PM]", Pakistan vs Sri Lanka (TAPMAD)
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8|referer=https://tapmad.com/
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-Sixes-2026.png" group-title="Recent | Hong Kong Sixes vs Hong Kong Sixes [31 Oct 06:30 AM]", Hong Kong Sixes vs Hong Kong Sixes (WILLOW HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a694d0db6c7998b91bf89ed100e682b8:5b13f5556048466f7f19c23d70ae220b
