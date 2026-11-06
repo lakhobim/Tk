@@ -1,14 +1,14 @@
 #EXTM3U
-# Updated: 2026-11-06 11:39:55
-# Total Channels: 24
+# Updated: 2026-11-06 18:25:18
+# Total Channels: 18
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL-S3.png" group-title="🔴 Live | NPL vs NPL [06 Nov 12:15 PM]", NPL vs NPL (NPL LIVE)
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL-S3.png" group-title="Recent | NPL vs NPL [06 Nov 12:15 PM]", NPL vs NPL (NPL LIVE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
 https://ott-lb.nettv.com.np/npl/live_match/index.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL-S3.png" group-title="🔴 Live | NPL vs NPL [06 Nov 12:15 PM]", NPL vs NPL (SD SERVER )
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL-S3.png" group-title="Recent | NPL vs NPL [06 Nov 12:15 PM]", NPL vs NPL (SD SERVER )
 http://162.251.160.53:8089/NPLT20/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL-S3.png" group-title="🔴 Live | NPL vs NPL [06 Nov 12:15 PM]", NPL vs NPL (STAR SELECT )
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL-S3.png" group-title="Recent | NPL vs NPL [06 Nov 12:15 PM]", NPL vs NPL (STAR SELECT )
 http://line.tivi-ott.net/play/live.php?mac=00:1B:79:F9:2A:14&stream=373201&extension=m3u8
 #EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 Premier League [19 Sep 06:45 PM]", EUROPEAN T20 Premier League (TNT SPORTS )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -38,35 +38,15 @@ https://liveakmt-p-md.slivcdn.com/hls/live/2119782/cricodi_0311/KAN/std_lrh-8003
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="🔴 Live | Afghanistan vs Zimbabwe [06 Nov 11:30 AM]", Afghanistan vs Zimbabwe (WILLOW ADFREE)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Recent | Afghanistan vs Zimbabwe [06 Nov 11:30 AM]", Afghanistan vs Zimbabwe (WILLOW ADFREE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9bc30487e93c8157dc7644f99ebf7ee3:a534870453db4ff8da2227536875876d
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/naqeacglkx/out/v1/d3197710933d4610b479589d2a134aa4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="🔴 Live | Afghanistan vs Zimbabwe [06 Nov 11:30 AM]", Afghanistan vs Zimbabwe (A SPORTS )
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Recent | Afghanistan vs Zimbabwe [06 Nov 11:30 AM]", Afghanistan vs Zimbabwe (A SPORTS )
 https://live.msnetworks.net/a-sports/master.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="🔴 Live | India Under-19 vs Nepal Under-19 [06 Nov 10:30 AM]", India Under-19 vs Nepal Under-19 (PRIME VIDEO)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=01e7554c8d5b1fb6c77f214754f37fde:cc17f51040f551dcbf45dea424c80fa3
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/evcwvvskwy/out/v1/646f7a7c35594dd4947ff7c030d20c39/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="🔴 Live | India Under-19 vs Nepal Under-19 [06 Nov 10:30 AM]", India Under-19 vs Nepal Under-19 (WILLOW ADFREE)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39f2978b8816539cbb927e85d1c7f53b:a8f0c750c8369efff8adff4ff1fa34bc
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qe8hdfrv3t/out/v1/a973ce68e36546cd9e82beff760626f9/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="🔴 Live | India Under-19 vs Nepal Under-19 [06 Nov 10:30 AM]", India Under-19 vs Nepal Under-19 (WILLOW ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d52529b6ff19eca2315013244513b68:ba5c7dfad287aab538463d9da6811a8c
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/q4skycp0em/out/v1/ff0967ee82ad427abee362dc40a4f60f/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="🔴 Live | India Under-19 vs Nepal Under-19 [06 Nov 10:30 AM]", India Under-19 vs Nepal Under-19 (SONYLIV 🇮🇳)
-https://sonymtmnew-akamaized.pages.dev/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6ab21ad3e778a9d0372ec3387a1f521d-1793853003444
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="🔴 Live | India Under-19 vs Nepal Under-19 [06 Nov 10:30 AM]", India Under-19 vs Nepal Under-19 (HINDI 🇮🇳)
-https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_0611/HIN/master.m3u8?hdnea=exp=1793983710~acl=/*~id=62504402692044749223822986018599~hmac=bb3d6d4a8d8a8e6c7b7b63fc748aa3f221475cff8ba0df9382a56c850256ca6c
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="🔴 Live | Pakistan Under-19 vs United Arab Emirates Under-19 [06 Nov 10:30 AM]", Pakistan Under-19 vs United Arab Emirates Under-19 (WILLOW ADFREE)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1dcfabc6b441908d78cc7106e30e906f:8e086929f79491b9a2076d0d04eb7317
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/quzxcdfmpz/out/v1/9e6286a4302b4f4eb0815473ae87ba8a/cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11163/image" group-title="🔴 Live | WBBL vs WBBL [06 Nov 01:40 PM]", WBBL vs WBBL (SKY SPORTS )
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11163/image" group-title="Recent | WBBL vs WBBL [06 Nov 01:40 PM]", WBBL vs WBBL (SKY SPORTS )
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11163/image" group-title="🔴 Live | WBBL vs WBBL [06 Nov 01:40 PM]", WBBL vs WBBL (EURO SPORTS )
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11163/image" group-title="Recent | WBBL vs WBBL [06 Nov 01:40 PM]", WBBL vs WBBL (EURO SPORTS )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814
 https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd
