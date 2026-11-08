@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2026-11-08 16:48:51
+# Updated: 2026-11-08 20:50:40
 # Total Channels: 25
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL-S3.png" group-title="Recent | NPL vs NPL [07 Nov 04:45 PM]", NPL vs NPL (NPL LIVE)
@@ -50,10 +50,6 @@ https://liveakmt-p-md.slivcdn.com/hls/live/2119951/Cricodi_0611/TAM/master.m3u8?
 https://liveakmt-p-md.slivcdn.com/hls/live/2119941/Cricodi_0611/TEL/master.m3u8?hdnea=exp=1794054841~acl=/*~id=64a5a296ad74a30860d60fab25ad631a-1794011640838~hmac=d5461caec498addaa58f604783eab5d7e913ba95b86fa81422fe7ae51be13bd4
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Recent | New Zealand vs India [07 Nov 07:30 AM]", New Zealand vs India (KANNADA 🇮🇳)
 https://liveakmt-p-md.slivcdn.com/hls/live/2119782/Cricodi_0611/KAN/master.m3u8?hdnea=exp=1794054841~acl=/*~id=64a5a296ad74a30860d60fab25ad631a-1794011640838~hmac=d5461caec498addaa58f604783eab5d7e913ba95b86fa81422fe7ae51be13bd4
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | Bangladesh vs West Indies [08 Nov 09:00 AM]", Bangladesh vs West Indies (FANCODE )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Recent | Afghanistan vs Zimbabwe [08 Nov 11:30 AM]", Afghanistan vs Zimbabwe (WILLOW ADFREE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99674fd07c70b730f03ab2030c9c5545:0f26d9265d01af9cfbd142d37afcda93
@@ -74,7 +70,9 @@ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ui
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814
 https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/11/Abu-Dhabi-T10-2024-Tour-Logo.png" group-title="🔴 Live | Abu Dhabi T10 vs Abu Dhabi T10  [08 Nov 05:00 PM]", Abu Dhabi T10 vs Abu Dhabi T10  (Link 1)
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/11/Abu-Dhabi-T10-2024-Tour-Logo.png" group-title="Recent | Abu Dhabi T10 vs Abu Dhabi T10  [08 Nov 05:00 PM]", Abu Dhabi T10 vs Abu Dhabi T10  (Link 1)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bf29a35e375da99d9ee225515621294e:41c2975121d22fd57ef0d436fa6d5971
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9ztbf2k2id/out/v1/4ea8d6be295640c590d74f8f6fb9e722/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com
+#EXTINF:-1 tvg-logo="http://api.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | Pakistan vs Sri Lanka [09 Nov 10:00 AM]", Pakistan vs Sri Lanka (SK LIVE )
+https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8
