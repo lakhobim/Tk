@@ -1,5 +1,5 @@
 #EXTM3U
-# Updated: 2026-11-11 11:30:59
+# Updated: 2026-11-11 18:50:53
 # Total Channels: 30
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL-S3.png" group-title="Recent | NPL vs NPL [10 Nov 04:30 PM]", NPL vs NPL (FANCODE HD )
@@ -46,41 +46,41 @@ https://liveakmt-p-md.slivcdn.com/hls/live/2119951/cricodi_0911/TAM/master.m3u8?
 https://liveakmt-p-md.slivcdn.com/hls/live/2119941/cricodi_0911/TEL/master.m3u8?hdnea=exp=1794313824~acl=/*~id=097367e014f3b55a0de128a4c037b7ce-1794270624386~hmac=7353188d192c892aec363fe062e0e5ca2f71d3dab355f77c1a8157a07b8b7d81
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Recent | New Zealand vs India [10 Nov 07:30 AM]", New Zealand vs India (KANNADA 🇮🇳)
 https://liveakmt-p-md.slivcdn.com/hls/live/2119782/cricodi_0911/KAN/master.m3u8?hdnea=exp=1794313824~acl=/*~id=097367e014f3b55a0de128a4c037b7ce-1794270624386~hmac=7353188d192c892aec363fe062e0e5ca2f71d3dab355f77c1a8157a07b8b7d81
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11163/image" group-title="🔴 Live | WBBL vs WBBL [11 Nov 01:40 PM]", WBBL vs WBBL (WILLOW ADFREE)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11163/image" group-title="Recent | WBBL vs WBBL [11 Nov 01:40 PM]", WBBL vs WBBL (WILLOW ADFREE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4a88dfd0faa47c37f51cfb848198772:0d32f4914a3469afa1d8386fa6f3d3e8
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hhug5wl1u6/out/v1/681179ada5ae49539e7fddbb1e061a26/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11163/image" group-title="🔴 Live | WBBL vs WBBL [11 Nov 01:40 PM]", WBBL vs WBBL (SKY SPORTS )
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11163/image" group-title="Recent | WBBL vs WBBL [11 Nov 01:40 PM]", WBBL vs WBBL (SKY SPORTS )
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11163/image" group-title="🔴 Live | WBBL vs WBBL [11 Nov 01:40 PM]", WBBL vs WBBL (WILLOW ALT)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11163/image" group-title="Recent | WBBL vs WBBL [11 Nov 01:40 PM]", WBBL vs WBBL (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4a88dfd0faa47c37f51cfb848198772:0d32f4914a3469afa1d8386fa6f3d3e8
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hhug5wl1u6/out/v1/681179ada5ae49539e7fddbb1e061a26/cenc.mpd
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/11/Abu-Dhabi-T10-2024-Tour-Logo.png" group-title="Upcoming | Abu Dhabi T10 vs Abu Dhabi T10  [11 Nov 07:15 PM]", Abu Dhabi T10 vs Abu Dhabi T10  (PREMIER SPORTS 1)
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/11/Abu-Dhabi-T10-2024-Tour-Logo.png" group-title="🔴 Live | Abu Dhabi T10 vs Abu Dhabi T10  [11 Nov 07:15 PM]", Abu Dhabi T10 vs Abu Dhabi T10  (PREMIER SPORTS 1)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/11/Abu-Dhabi-T10-2024-Tour-Logo.png" group-title="Upcoming | Abu Dhabi T10 vs Abu Dhabi T10  [11 Nov 07:15 PM]", Abu Dhabi T10 vs Abu Dhabi T10  (WILLOW ADFREE )
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/11/Abu-Dhabi-T10-2024-Tour-Logo.png" group-title="🔴 Live | Abu Dhabi T10 vs Abu Dhabi T10  [11 Nov 07:15 PM]", Abu Dhabi T10 vs Abu Dhabi T10  (WILLOW ADFREE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8b39574f571516ea69c62c6cbd61d7b0:0195d6e83b8994429f212f7114806a9f
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bhyqaqicbw/out/v1/0457e59239e043a6bcd4c85f1958fefd/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/11/Abu-Dhabi-T10-2024-Tour-Logo.png" group-title="Upcoming | Abu Dhabi T10 vs Abu Dhabi T10  [11 Nov 07:15 PM]", Abu Dhabi T10 vs Abu Dhabi T10  (WILLOW ALT)
+#KODIPROP:inputstream.adaptive.license_key=a9bcbba9c820240f561e4b0a547fc05b:320c91c25417d5dd63734903cdf721a7
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bjfy18ndkq/out/v1/0b9194f3a90e476cb4405979637efd6d/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/11/Abu-Dhabi-T10-2024-Tour-Logo.png" group-title="🔴 Live | Abu Dhabi T10 vs Abu Dhabi T10  [11 Nov 07:15 PM]", Abu Dhabi T10 vs Abu Dhabi T10  (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0e36b3be8845c0685c6e1a7ce8b3a3e0:d0a6469a598e7159d22717e229e8c18d
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u4schwb5fb/out/v1/1ab73661445f40a79e25895de38190cd/cenc.mpd
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/11/Abu-Dhabi-T10-2024-Tour-Logo.png" group-title="Upcoming | Abu Dhabi T10 vs Abu Dhabi T10  [11 Nov 07:15 PM]", Abu Dhabi T10 vs Abu Dhabi T10  (A SPORTS )
+#KODIPROP:inputstream.adaptive.license_key=a9bcbba9c820240f561e4b0a547fc05b:320c91c25417d5dd63734903cdf721a7
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bjfy18ndkq/out/v1/0b9194f3a90e476cb4405979637efd6d/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/11/Abu-Dhabi-T10-2024-Tour-Logo.png" group-title="🔴 Live | Abu Dhabi T10 vs Abu Dhabi T10  [11 Nov 07:15 PM]", Abu Dhabi T10 vs Abu Dhabi T10  (A SPORTS )
 https://live.msnetworks.net/a-sports/master.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | Pakistan vs Sri Lanka [11 Nov 10:00 AM]", Pakistan vs Sri Lanka (WILLOW ADFREE)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | Pakistan vs Sri Lanka [12 Nov 10:00 PM]", Pakistan vs Sri Lanka (WILLOW ADFREE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e8e442f496281c56983daddbcbdf814d:d7aeef7f7f7a375aaa4171ff7493b6a7
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/frzy1fab0z/out/v1/9079e314c16d47a98e69ec3cff7fb238/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | Pakistan vs Sri Lanka [11 Nov 10:00 AM]", Pakistan vs Sri Lanka (WILLOW ALT)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | Pakistan vs Sri Lanka [12 Nov 10:00 PM]", Pakistan vs Sri Lanka (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e8e442f496281c56983daddbcbdf814d:d7aeef7f7f7a375aaa4171ff7493b6a7
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/frzy1fab0z/out/v1/9079e314c16d47a98e69ec3cff7fb238/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | Pakistan vs Sri Lanka [11 Nov 10:00 AM]", Pakistan vs Sri Lanka (TAPMAD)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | Pakistan vs Sri Lanka [12 Nov 10:00 PM]", Pakistan vs Sri Lanka (TAPMAD)
 https://multiregion-asia-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8|referer=https://tapmad.com/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | Pakistan vs Sri Lanka [11 Nov 10:00 AM]", Pakistan vs Sri Lanka (PTV SPORTS )
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Upcoming | Pakistan vs Sri Lanka [12 Nov 10:00 PM]", Pakistan vs Sri Lanka (PTV SPORTS )
 https://live.msnetworks.net/ptv-sports/master.m3u8
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Recent | Afghanistan vs Zimbabwe [09 Nov 11:30 AM]", Afghanistan vs Zimbabwe (WILLOW ADFREE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
