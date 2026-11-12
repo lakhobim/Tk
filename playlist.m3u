@@ -1,10 +1,10 @@
 #EXTM3U
-# Updated: 2026-11-12 11:57:13
-# Total Channels: 37
+# Updated: 2026-11-12 19:24:32
+# Total Channels: 29
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL-S3.png" group-title="🔴 Live | NPL vs NPL [12 Nov 12:15 PM]", NPL vs NPL (SD SERVER )
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL-S3.png" group-title="Recent | NPL vs NPL [12 Nov 12:15 PM]", NPL vs NPL (SD SERVER )
 http://162.251.160.53:8089/NPLT20/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL-S3.png" group-title="🔴 Live | NPL vs NPL [12 Nov 12:15 PM]", NPL vs NPL (STAR SELECT )
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL-S3.png" group-title="Recent | NPL vs NPL [12 Nov 12:15 PM]", NPL vs NPL (STAR SELECT )
 http://line.tivi-ott.net/play/live.php?mac=00:1B:79:F9:2A:14&stream=373201&extension=m3u8
 #EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 Premier League [19 Sep 06:45 PM]", EUROPEAN T20 Premier League (TNT SPORTS )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -16,39 +16,39 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 Premier League [19 Sep 06:45 PM]", EUROPEAN T20 Premier League (WILLOW HD)
 http://tvsen5.aynascope.net/willowhd/index.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Recent | New Zealand vs India [10 Nov 07:30 AM]", New Zealand vs India (PRIME HINDI)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Upcoming | New Zealand vs India [13 Nov 07:30 AM]", New Zealand vs India (PRIME HINDI)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c44c74a35acb645f971988649c69617a:82ea35c848aafc18c7a2a8404b71edc1
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/vchrvkaifx/out/v1/5c21993871704a7b828c8960deeaa565/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Recent | New Zealand vs India [10 Nov 07:30 AM]", New Zealand vs India (PRIME ENGLISH )
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Upcoming | New Zealand vs India [13 Nov 07:30 AM]", New Zealand vs India (PRIME ENGLISH )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c6872a6ce0112b3ef06eafa5d6fe16a3:c2285774921020dc71a7713f07a14e05
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9dalamxc1r/out/v1/8d1f34e547fb44c297c944279de38e11/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Recent | New Zealand vs India [10 Nov 07:30 AM]", New Zealand vs India (WILLOW ADFREE )
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Upcoming | New Zealand vs India [13 Nov 07:30 AM]", New Zealand vs India (WILLOW ADFREE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8055527c45bf2dec00ccbbc9a219ef8b:7fe859adbe404501d0df3ef25f63c7a4
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w816ft7qg1/out/v1/428ff6559f784a64b86af8aa5f58ee1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Recent | New Zealand vs India [10 Nov 07:30 AM]", New Zealand vs India (TNT SPORTS )
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Upcoming | New Zealand vs India [13 Nov 07:30 AM]", New Zealand vs India (TNT SPORTS )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Recent | New Zealand vs India [10 Nov 07:30 AM]", New Zealand vs India (HINDI 🇮🇳)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Upcoming | New Zealand vs India [13 Nov 07:30 AM]", New Zealand vs India (HINDI 🇮🇳)
 https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_0911/HIN/master.m3u8?hdnea=exp=1794313824~acl=/*~id=097367e014f3b55a0de128a4c037b7ce-1794270624386~hmac=7353188d192c892aec363fe062e0e5ca2f71d3dab355f77c1a8157a07b8b7d81
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Recent | New Zealand vs India [10 Nov 07:30 AM]", New Zealand vs India (ENGLISH  🇮🇳)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Upcoming | New Zealand vs India [13 Nov 07:30 AM]", New Zealand vs India (ENGLISH  🇮🇳)
 https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_0911/ENG/master.m3u8?hdnea=exp=1794313824~acl=/*~id=097367e014f3b55a0de128a4c037b7ce-1794270624386~hmac=7353188d192c892aec363fe062e0e5ca2f71d3dab355f77c1a8157a07b8b7d81
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Recent | New Zealand vs India [10 Nov 07:30 AM]", New Zealand vs India (TAMIL 🇮🇳)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Upcoming | New Zealand vs India [13 Nov 07:30 AM]", New Zealand vs India (TAMIL 🇮🇳)
 https://liveakmt-p-md.slivcdn.com/hls/live/2119951/cricodi_0911/TAM/master.m3u8?hdnea=exp=1794313824~acl=/*~id=097367e014f3b55a0de128a4c037b7ce-1794270624386~hmac=7353188d192c892aec363fe062e0e5ca2f71d3dab355f77c1a8157a07b8b7d81
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Recent | New Zealand vs India [10 Nov 07:30 AM]", New Zealand vs India (TELUGU 🇮🇳)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Upcoming | New Zealand vs India [13 Nov 07:30 AM]", New Zealand vs India (TELUGU 🇮🇳)
 https://liveakmt-p-md.slivcdn.com/hls/live/2119941/cricodi_0911/TEL/master.m3u8?hdnea=exp=1794313824~acl=/*~id=097367e014f3b55a0de128a4c037b7ce-1794270624386~hmac=7353188d192c892aec363fe062e0e5ca2f71d3dab355f77c1a8157a07b8b7d81
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Recent | New Zealand vs India [10 Nov 07:30 AM]", New Zealand vs India (KANNADA 🇮🇳)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark" group-title="Upcoming | New Zealand vs India [13 Nov 07:30 AM]", New Zealand vs India (KANNADA 🇮🇳)
 https://liveakmt-p-md.slivcdn.com/hls/live/2119782/cricodi_0911/KAN/master.m3u8?hdnea=exp=1794313824~acl=/*~id=097367e014f3b55a0de128a4c037b7ce-1794270624386~hmac=7353188d192c892aec363fe062e0e5ca2f71d3dab355f77c1a8157a07b8b7d81
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11163/image" group-title="🔴 Live | WBBL vs WBBL [12 Nov 01:40 PM]", WBBL vs WBBL (WILLOW ADFREE)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11163/image" group-title="Recent | WBBL vs WBBL [12 Nov 01:40 PM]", WBBL vs WBBL (WILLOW ADFREE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=636a1180048a50dcdcb44283999a7a9b:fd4f90a2703266be6aea6b6d01274a07
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u4j10cfyp1/out/v1/ca19243e974e4cb099314f26276b2991/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11163/image" group-title="🔴 Live | WBBL vs WBBL [12 Nov 01:40 PM]", WBBL vs WBBL (SKY SPORTS )
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11163/image" group-title="Recent | WBBL vs WBBL [12 Nov 01:40 PM]", WBBL vs WBBL (SKY SPORTS )
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11163/image" group-title="🔴 Live | WBBL vs WBBL [12 Nov 01:40 PM]", WBBL vs WBBL (WILLOW ALT)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11163/image" group-title="Recent | WBBL vs WBBL [12 Nov 01:40 PM]", WBBL vs WBBL (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=636a1180048a50dcdcb44283999a7a9b:fd4f90a2703266be6aea6b6d01274a07
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u4j10cfyp1/out/v1/ca19243e974e4cb099314f26276b2991/cenc.mpd
@@ -66,17 +66,17 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bjfy18ndkq/out/v1
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bjfy18ndkq/out/v1/0b9194f3a90e476cb4405979637efd6d/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/11/Abu-Dhabi-T10-2024-Tour-Logo.png" group-title="Recent | Abu Dhabi T10 vs Abu Dhabi T10  [11 Nov 07:15 PM]", Abu Dhabi T10 vs Abu Dhabi T10  (A SPORTS )
 https://live.msnetworks.net/a-sports/master.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | Pakistan vs Sri Lanka [12 Nov 10:00 AM]", Pakistan vs Sri Lanka (WILLOW ADFREE)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | Pakistan vs Sri Lanka [12 Nov 10:00 AM]", Pakistan vs Sri Lanka (WILLOW ADFREE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8f81eb680d80404aa82ccae25a8bcfde:c36943edd4b110ee953b8ccf59ab2bd2
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ystkepkr8o/out/v1/883a6874df684d088e7e63c326a0aba1/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | Pakistan vs Sri Lanka [12 Nov 10:00 AM]", Pakistan vs Sri Lanka (WILLOW ALT)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | Pakistan vs Sri Lanka [12 Nov 10:00 AM]", Pakistan vs Sri Lanka (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8f81eb680d80404aa82ccae25a8bcfde:c36943edd4b110ee953b8ccf59ab2bd2
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ystkepkr8o/out/v1/883a6874df684d088e7e63c326a0aba1/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | Pakistan vs Sri Lanka [12 Nov 10:00 AM]", Pakistan vs Sri Lanka (TAPMAD)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | Pakistan vs Sri Lanka [12 Nov 10:00 AM]", Pakistan vs Sri Lanka (TAPMAD)
 https://multiregion-asia-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8|referer=https://tapmad.com/
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | Pakistan vs Sri Lanka [12 Nov 10:00 AM]", Pakistan vs Sri Lanka (PTV SPORTS )
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | Pakistan vs Sri Lanka [12 Nov 10:00 AM]", Pakistan vs Sri Lanka (PTV SPORTS )
 https://live.msnetworks.net/ptv-sports/master.m3u8
 #EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Recent | Afghanistan vs Zimbabwe [09 Nov 11:30 AM]", Afghanistan vs Zimbabwe (WILLOW ADFREE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -88,31 +88,3 @@ https://live.msnetworks.net/a-sports/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d006e8b41e37c259818c8d491904d3e7:2f7eceaab743d906957b9958152c8972
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tfcrrqefcx/out/v1/67d930d3a40e495f969711b734f22660/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="🔴 Live | Afghanistan Under-19 vs India Under-19 [12 Nov 10:30 AM]", Afghanistan Under-19 vs India Under-19 (PRIME VIDEO)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=558ca0dbe07bf76ecee0c2570cec8f90:bffef63168d2229b6fe946a65cd6e0aa
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vfhi45qzel/out/v1/ab0216dbe96d408ea761a7856b61e404/cenc.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="🔴 Live | Afghanistan Under-19 vs India Under-19 [12 Nov 10:30 AM]", Afghanistan Under-19 vs India Under-19 (HINDI 🇮🇳)
-https://sonymtmnew-akamaized.pages.dev/out/v1/mpchgp431f/mpchc857/cricodi_1211-hin-1-ts-hls/std-lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=54e08fa8fce0815250f0a7836422dd18-1794457801618
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="🔴 Live | Afghanistan Under-19 vs India Under-19 [12 Nov 10:30 AM]", Afghanistan Under-19 vs India Under-19 (ENGLISH 🇮🇳)
-https://sonymtmnew-akamaized.pages.dev/out/v1/2119931/cricodi_1211/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=54e08fa8fce0815250f0a7836422dd18-1794457801618
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="🔴 Live | Afghanistan Under-19 vs India Under-19 [12 Nov 10:30 AM]", Afghanistan Under-19 vs India Under-19 (WILLOW ADFREE)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69b4f7d5d85ff47192fce27c107246f7:8993f991655c84eb324bad2c1c551cc1
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ezawp6dxef/out/v1/89f7935bf21246fb971d93c016044f01/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11486/image/dark" group-title="🔴 Live | Afghanistan Under-19 vs India Under-19 [12 Nov 10:30 AM]", Afghanistan Under-19 vs India Under-19 (WILLOW ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69b4f7d5d85ff47192fce27c107246f7:8993f991655c84eb324bad2c1c551cc1
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ezawp6dxef/out/v1/89f7935bf21246fb971d93c016044f01/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/30714/image/dark" group-title="🔴 Live | Sri Lanka Women vs Ireland Women [12 Nov 10:30 AM]", Sri Lanka Women vs Ireland Women (ICC TV)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1794489575~acl=*%2Fchannel(vcg-01-ch-hd-06)%2F*~id=96bc7139-3edd-47ca-8f83-cfabcae165c5~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3D%3D~hmac=b4d92c1439820c0e7d585a059dd13fa67722c99394f400cf86d093456474f46c/manifest.mpd?vcfilter=361f9b12-0eb4-4932-8d7c-3a7da6afadbd&|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/30714/image/dark" group-title="🔴 Live | Sri Lanka Women vs Ireland Women [12 Nov 10:30 AM]", Sri Lanka Women vs Ireland Women (ICC TV ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c
-https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-06)/hdntl=exp=1794489575~acl=*%2Fchannel(vcg-01-ch-hd-06)%2F*~id=96bc7139-3edd-47ca-8f83-cfabcae165c5~data=hdntl,QjtNWCxDUixTVixHVCxITixOSSxQQSxBUixCTyxCUixDTCxDTyxFQyxQWSxQRSxVWSxWRSxDVSxETyxIVCxDQSxVUyxJTixQSyxMSyxBTyxCSixCVyxCRixCSSxDVixDTSxDRixURCxLTSxDRyxDRCxDSSxESixHUSxFUixFVCxHQSxHTSxHSCxHTixHVyxLRSxMUyxMUixNRyxNVyxNVSxNUixNWixOQSxORSxORyxSVyxTVCxTTixTQyxTTCxTTyxaQSxTUyxTRCxUWixURyxVRyxaTSxaVyxTWixNTA%3D%3D~hmac=b4d92c1439820c0e7d585a059dd13fa67722c99394f400cf86d093456474f46c/manifest.mpd?vcfilter=361f9b12-0eb4-4932-8d7c-3a7da6afadbd&|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/30714/image/dark" group-title="🔴 Live | Pakistan Women vs Bangladesh Women [12 Nov 02:45 PM]", Pakistan Women vs Bangladesh Women (WILLOW ADFREE)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5ba5b9e0c5c304f35cabc9ffa9ff3ca1:aec22756312d7044ef42c291b7ec115a
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/hoz8102pvc/out/v1/899b7f9a2afb49eea47eb7996285e262/cenc.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0
