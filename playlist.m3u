@@ -1,14 +1,14 @@
 #EXTM3U
-# Updated: 2026-11-17 12:34:33
-# Total Channels: 27
+# Updated: 2026-11-17 21:16:29
+# Total Channels: 26
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL-S3.png" group-title="🔴 Live | NPL vs NPL [17 Nov 04:45 PM]", NPL vs NPL (FANCODE )
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL-S3.png" group-title="Recent | NPL vs NPL [17 Nov 04:45 PM]", NPL vs NPL (SK LIVE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL-S3.png" group-title="🔴 Live | NPL vs NPL [17 Nov 04:45 PM]", NPL vs NPL (SD SERVER )
+#KODIPROP:inputstream.adaptive.license_key=b4d7fc89103597185058cc4c81a1800d:17062472ba2a3f1db709d3bb7761c936
+https://ott-edge-mtdc.nettv.com.np/npl/live_match3/index.mpd
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL-S3.png" group-title="Recent | NPL vs NPL [17 Nov 04:45 PM]", NPL vs NPL (SD SERVER )
 http://162.251.160.53:8089/NPLT20/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL-S3.png" group-title="🔴 Live | NPL vs NPL [17 Nov 04:45 PM]", NPL vs NPL (STAR SELECT )
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/NPL-S3.png" group-title="Recent | NPL vs NPL [17 Nov 04:45 PM]", NPL vs NPL (STAR SELECT )
 http://line.tivi-ott.net/play/live.php?mac=00:1B:79:F9:2A:14&stream=373201&extension=m3u8
 #EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 Premier League [19 Sep 06:45 PM]", EUROPEAN T20 Premier League (TNT SPORTS )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -20,39 +20,35 @@ https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Recent | EUROPEAN T20 Premier League [19 Sep 06:45 PM]", EUROPEAN T20 Premier League (WILLOW HD)
 http://tvsen5.aynascope.net/willowhd/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11163/image" group-title="🔴 Live | WBBL vs WBBL [17 Nov 01:40 PM]", WBBL vs WBBL (WILLOW ADFREE)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11163/image" group-title="Recent | WBBL vs WBBL [17 Nov 01:40 PM]", WBBL vs WBBL (WILLOW ADFREE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82ea980c6b72eb9d845d3bb239330c30:e205798bb1646f1e0ab0ee3459b084bf
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jyqp4rh7ty/out/v1/a61e5db610214d8ab29de73c6750d65d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11163/image" group-title="🔴 Live | WBBL vs WBBL [17 Nov 01:40 PM]", WBBL vs WBBL (SKY SPORTS )
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11163/image" group-title="Recent | WBBL vs WBBL [17 Nov 01:40 PM]", WBBL vs WBBL (SKY SPORTS )
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
-#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11163/image" group-title="🔴 Live | WBBL vs WBBL [17 Nov 01:40 PM]", WBBL vs WBBL (WILLOW ALT)
+#EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/11163/image" group-title="Recent | WBBL vs WBBL [17 Nov 01:40 PM]", WBBL vs WBBL (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82ea980c6b72eb9d845d3bb239330c30:e205798bb1646f1e0ab0ee3459b084bf
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jyqp4rh7ty/out/v1/a61e5db610214d8ab29de73c6750d65d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/11/Abu-Dhabi-T10-2024-Tour-Logo.png" group-title="Upcoming | Abu Dhabi T10 vs Abu Dhabi T10  [17 Nov 07:15 PM]", Abu Dhabi T10 vs Abu Dhabi T10  (PREMIER SPORTS 1)
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/11/Abu-Dhabi-T10-2024-Tour-Logo.png" group-title="🔴 Live | Abu Dhabi T10 vs Abu Dhabi T10  [17 Nov 07:15 PM]", Abu Dhabi T10 vs Abu Dhabi T10  (PREMIER SPORTS 1)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/11/Abu-Dhabi-T10-2024-Tour-Logo.png" group-title="Upcoming | Abu Dhabi T10 vs Abu Dhabi T10  [17 Nov 07:15 PM]", Abu Dhabi T10 vs Abu Dhabi T10  (WILLOW ADFREE )
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/11/Abu-Dhabi-T10-2024-Tour-Logo.png" group-title="🔴 Live | Abu Dhabi T10 vs Abu Dhabi T10  [17 Nov 07:15 PM]", Abu Dhabi T10 vs Abu Dhabi T10  (WILLOW ADFREE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8f6af65e6fd5fe9b2fa7510de69e492a:61921d1e73c2f0870d3f3e7d09f8bbb6
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a80vkhambt/out/v1/6e7ce96f23d14ebba16e2f54aac8323d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/11/Abu-Dhabi-T10-2024-Tour-Logo.png" group-title="Upcoming | Abu Dhabi T10 vs Abu Dhabi T10  [17 Nov 07:15 PM]", Abu Dhabi T10 vs Abu Dhabi T10  (WILLOW ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8f6af65e6fd5fe9b2fa7510de69e492a:61921d1e73c2f0870d3f3e7d09f8bbb6
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/a80vkhambt/out/v1/6e7ce96f23d14ebba16e2f54aac8323d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/11/Abu-Dhabi-T10-2024-Tour-Logo.png" group-title="Upcoming | Abu Dhabi T10 vs Abu Dhabi T10  [17 Nov 07:15 PM]", Abu Dhabi T10 vs Abu Dhabi T10  (A SPORTS )
+#KODIPROP:inputstream.adaptive.license_key=b50eedac4fd1a7f6068fc90c875a2f2e:b6c288c9a0112f3729538b3fb37bd044
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5ijjfwkrfb/out/v1/6be8fdc7d3324eb2b7774e8081c508cc/cenc.mpd
+#EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/prod-images/2024/11/Abu-Dhabi-T10-2024-Tour-Logo.png" group-title="🔴 Live | Abu Dhabi T10 vs Abu Dhabi T10  [17 Nov 07:15 PM]", Abu Dhabi T10 vs Abu Dhabi T10  (A SPORTS )
 https://live.msnetworks.net/a-sports/master.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | South Africa vs Bangladesh [17 Nov 01:30 PM]", South Africa vs Bangladesh (WILLOW ADFREE)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | South Africa vs Bangladesh [17 Nov 01:30 PM]", South Africa vs Bangladesh (WILLOW ADFREE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fq9jzduffm/out/v1/999c61c2f5114b66b1c408dd3e97f5f3/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | South Africa vs Bangladesh [17 Nov 01:30 PM]", South Africa vs Bangladesh (WILLOW ALT)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | South Africa vs Bangladesh [17 Nov 01:30 PM]", South Africa vs Bangladesh (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6edfcab8821c7437717ab9c94300a8a0:1dc141c8ac131a68bd1c445acfdc673c
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fq9jzduffm/out/v1/999c61c2f5114b66b1c408dd3e97f5f3/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="🔴 Live | South Africa vs Bangladesh [17 Nov 01:30 PM]", South Africa vs Bangladesh (FANCODE )
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark" group-title="Recent | South Africa vs Bangladesh [17 Nov 01:30 PM]", South Africa vs Bangladesh (FANCODE )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -68,13 +64,13 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814
 https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="🔴 Live | Afghanistan vs Zimbabwe [17 Nov 11:30 AM]", Afghanistan vs Zimbabwe (WILLOW ADFREE)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Recent | Afghanistan vs Zimbabwe [17 Nov 11:30 AM]", Afghanistan vs Zimbabwe (WILLOW ADFREE)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d3253db6835efda5d3dc41409d9cf6c5:f4e9b34903385fdb07bca75e4f0be40b
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vonyh71f7z/out/v1/cba5383903864de3b9477ea97bfa1b9b/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="🔴 Live | Afghanistan vs Zimbabwe [17 Nov 11:30 AM]", Afghanistan vs Zimbabwe (SK LIVE )
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Recent | Afghanistan vs Zimbabwe [17 Nov 11:30 AM]", Afghanistan vs Zimbabwe (SK LIVE )
 https://live.msnetworks.net/a-sports/master.m3u8
-#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="🔴 Live | Afghanistan vs Zimbabwe [17 Nov 11:30 AM]", Afghanistan vs Zimbabwe (WILLOW ALT)
+#EXTINF:-1 tvg-logo="http://img.sofascore.com/api/v1/unique-tournament/11189/image/dark" group-title="Recent | Afghanistan vs Zimbabwe [17 Nov 11:30 AM]", Afghanistan vs Zimbabwe (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d3253db6835efda5d3dc41409d9cf6c5:f4e9b34903385fdb07bca75e4f0be40b
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vonyh71f7z/out/v1/cba5383903864de3b9477ea97bfa1b9b/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
